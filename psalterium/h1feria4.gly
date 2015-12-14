@@ -1,0 +1,18 @@
+\header
+title: Feria IV
+subtitle: Hebdomada I
+
+% vesperae, ant. 3
+
+\score
+book: PM 372
+mode: 8
+annotation: VIII g
+c4 g gv_FD f gh g. ,
+g g h g' f gh g fef d!ewf. ;
+c d' f fh h. ,
+h g hj jij i_h_ ij h g hg e_f gh h g. g. ::
+CHri -- sto da -- tus est *
+prin -- ci -- pá -- tus et ho -- nor re -- gni:
+om -- nis pó -- pu -- lus,
+tri -- bus et lin -- guae sér -- vi -- ent ei in ae -- tér -- num.

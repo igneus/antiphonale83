@@ -1,0 +1,48 @@
+\header
+title: Feria III
+subtitle: Hebdomada III
+
+% laudes
+
+\score
+book: PM 191
+mode: 6
+annotation: VI f
+c4 f f g h f' () g fe d' f g g f. ::
+BE -- ne -- di -- xí -- sti, * Dó -- mi -- ne, ter -- ram tu -- am.
+
+\score
+book: AM 312
+mode: 1
+annotation: I f
+c4 d d' f e' d d. ,
+dc~ f' g ixh_i h_' h g fgF_'E_/fv_E_D'Cd.c. ;
+c d f' g ff e_f g fe~ d. d. ::
+DE -- us De -- us me -- us, *
+ad te de lu -- ce vi -- gi -- lo,
+qui -- a fac -- tus es ad -- jú -- tor me -- us.
+
+\score
+book: PM 66
+mode: E
+annotation: E
+c4 h h g g' h g gg () f g h' ixi g ixi> h. ::
+IL -- lú -- mi -- na, Dó -- mi -- ne * vul -- tum tu -- um su -- per nos.
+
+% vesperae
+
+\score
+book: PM 294
+mode: 5
+annotation: V a
+c3 h h gh f e g_' ,
+f g h f e fe d. ::
+BE -- ne -- fac, Dó -- mi -- ne, *
+bo -- nis et rec -- tis cor -- de.
+
+\score
+book: PM 319
+mode: E
+annotation: E
+c4 h gg () f g h' ixi g ixi h. ::
+SPe -- ret * I -- sra -- el in Dó -- mi -- no.

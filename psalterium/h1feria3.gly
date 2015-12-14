@@ -1,0 +1,23 @@
+\header
+title: Feria III
+subtitle: Hebdomada I
+
+% vesperae
+
+% A3
+\score
+book: PM 370
+mode: 8
+annotation: VIII g
+c4 g fd f fg g. ,
+gh g g gh g. ,
+gh~ hv_GF g ghg f. f. ;
+fh j!kwlk j ji h ji hg g_' ,
+g gh g g' g e g fef d!ewf. ;
+c d f fg g_f_ h ji hg fg g. g. ::
+RE -- de -- mí -- sti nos, *
+Dó -- mi -- ne De -- us,
+in sán -- gui -- ne tu -- o,
+ex o -- mni tri -- bu, et lin -- gua
+et pó -- pu -- lo, et na -- ti -- ó -- ne:
+et fe -- cís -- ti nos De -- o nos -- tro reg -- num.
