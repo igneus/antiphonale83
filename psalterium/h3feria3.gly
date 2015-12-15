@@ -7,6 +7,7 @@ subtitle: Hebdomada III
 \score
 book: PM 191
 mode: 6
+annotation: 1. ant.
 annotation: VI f
 c4 f f g h f' () g fe d' f g g f. ::
 BE -- ne -- di -- xí -- sti, * Dó -- mi -- ne, ter -- ram tu -- am.
@@ -14,6 +15,7 @@ BE -- ne -- di -- xí -- sti, * Dó -- mi -- ne, ter -- ram tu -- am.
 \score
 book: AM 312
 mode: 1
+annotation: 2. ant.
 annotation: I f
 c4 d d' f e' d d. ,
 dc~ f' g ixh_i h_' h g fgF_'E_/fv_E_D'Cd.c. ;
@@ -25,6 +27,7 @@ qui -- a fac -- tus es ad -- jú -- tor me -- us.
 \score
 book: PM 66
 mode: E
+annotation: 3. ant.
 annotation: E
 c4 h h g g' h g gg () f g h' ixi g ixi> h. ::
 IL -- lú -- mi -- na, Dó -- mi -- ne * vul -- tum tu -- um su -- per nos.
@@ -34,6 +37,7 @@ IL -- lú -- mi -- na, Dó -- mi -- ne * vul -- tum tu -- um su -- per nos.
 \score
 book: PM 294
 mode: 5
+annotation: 1. ant.
 annotation: V a
 c3 h h gh f e g_' ,
 f g h f e fe d. ::
@@ -43,6 +47,7 @@ bo -- nis et rec -- tis cor -- de.
 \score
 book: PM 319
 mode: E
+annotation: 2. ant.
 annotation: E
 c4 h gg () f g h' ixi g ixi h. ::
 SPe -- ret * I -- sra -- el in Dó -- mi -- no.

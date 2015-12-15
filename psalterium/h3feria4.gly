@@ -7,6 +7,7 @@ subtitle: Hebdomada III
 \score
 book: PM 18
 mode: 7
+annotation: 1. ant.
 annotation: VII c
 c3 ig~ i' j i hi i_' ,
 i g h g e. e. ;
@@ -18,6 +19,7 @@ et ex -- áu -- di ver -- ba me -- a.
 \score
 book: PM 16
 mode: 4
+annotation: 2. ant.
 annotation: IV*
 c4 f_e_ d f e_' () d e f g f e f_g g. ;
 g f f_e_ d_' d f f fd~ f g e. ::
@@ -27,6 +29,7 @@ re -- qui -- és -- cet in mon -- te sanc -- to tu -- o.
 \score
 book: PM 218
 mode: E
+annotation: 3. ant.
 annotation: E
 c4 h h h g h g gg () f_g ixh_i g ixi h. ::
 QUi -- a mi -- ra -- bí -- li -- a * fe -- cit Dó -- mi -- nus.
@@ -36,6 +39,7 @@ QUi -- a mi -- ra -- bí -- li -- a * fe -- cit Dó -- mi -- nus.
 \score
 book: AV [10]
 mode: 8
+annotation: 1. ant.
 annotation: VIII c
 c4 j j j jkj jij () h j i ;
 g i g h f h g g ::
@@ -45,6 +49,7 @@ mit -- tén -- tes sé -- mi -- na su -- a.
 \score
 book: PM 298
 mode: 5
+annotation: 2. ant.
 annotation: V a
 c3 f e f () df hi h h' h ij jvIH h_' ,
 i h gh f fe f ef d. d. ::
