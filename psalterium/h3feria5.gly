@@ -1,0 +1,45 @@
+\header
+title: Feria V
+subtitle: Hebdomada III
+
+% laudes
+
+\score
+book: PM 206
+mode: 1
+annotation: 1. ant.
+annotation: I g
+c4 f g h g fg~ g_' () f fg> e fe d. d. ::
+FU -- nda -- mén -- ta e -- ius * in món -- ti -- bus sanc -- tis.
+
+% ant. 2 uneditted
+
+% ant. 3
+\score
+book: PM 219
+mode: 6
+annotation: 3. ant.
+annotation: VI f
+c4 h hg h gf () ixhi h gf g h fe c. ;
+d c d f_/fg f' f f fe g ghg f. f. ::
+EX -- al -- tá -- te * Dó -- mi -- num De -- um no -- strum
+et a -- do -- rá -- te ad mon -- tem sanc -- tum e -- ius.
+
+% vesperae
+\score
+book: PM 319
+mode: E
+annotation: 1. ant.
+annotation: E
+c4 h h> g' () g f g h' ixi g ixi h. ::
+ET o -- mnis * man -- su -- e -- tú -- di -- nis e -- ius.
+
+\score
+book: PM 320
+mode: 3
+annotation: 2. ant.
+annotation: III b
+c4 g i> h' j i h g h_' ,
+g e' f g f gh gf> e. e. ::
+E -- lé -- git Dó -- mi -- nus Si -- on *
+in ha -- bi -- ta -- ti -- ó -- nem si -- bi.

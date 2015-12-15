@@ -1,0 +1,18 @@
+\header
+title: Feria V
+subtitle: Hebdomada I
+
+% vesperae, ant. 3
+\score
+book: PM 375
+mode: 1
+annotation: 3. ant.
+annotation: I f
+c4 d dc f g f gh h. ,
+h h hj h' h g h g' g f_h>_ g. ;
+gg e' g h' g f' g f f f_e>_ c. ,
+d_g fe d> cd d. ::
+DE -- dit e -- i Dó -- mi -- nus *
+po -- te -- stá -- tem et ho -- nó -- rem et re -- gnum;
+et o -- mnes pó -- pu -- li, tri -- bus et lin -- guae
+ip -- si sér -- vi -- ent.
