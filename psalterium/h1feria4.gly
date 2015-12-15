@@ -2,7 +2,65 @@
 title: Feria IV
 subtitle: Hebdomada I
 
-% vesperae, ant. 3
+% laudes
+
+\score
+book: PM 112
+mode: 2
+annotation: 1. ant.
+annotation: II d
+f3 h h g' h fe g_' ,
+f g h f e f gh f. ::
+DO -- mi -- ne, in cae -- lo *
+mi -- se -- ri -- cór -- di -- a tu -- a.
+
+\score
+book: PM 169
+mode: 2
+annotation: 2. ant.
+annotation: II* d
+c3 h hi ii ,
+h_i j_h_ i. i. ;
+f_i h_g_ f_e_ f_e_ ,
+d e f' h f. f. ::
+DO -- mi -- ne, *
+mag -- nus es tu,
+et prae -- clá -- rus
+in vir -- tú -- te tu -- a.
+
+\score
+book: PM 120
+mode: 7
+annotation: 3. ant.
+annotation: VII a
+c3 e e g h i_' i_ ,
+ij i_h_h f g h_f_ g f e. e. ::
+IU -- bi -- lá -- te De -- o *
+in vo -- ce ex -- sul -- ta -- ti -- ó -- nis.
+
+% vesperae
+
+\score
+book: PM 42
+mode: 8
+annotation: 1. ant.
+annotation: VIII g
+c3 h h h h h g e!fg g_' ,
+f g h f e f e e. ::
+IL -- lu -- mi -- ná -- ti -- o me -- a, *
+et sa -- lus me -- a Dó -- mi -- nus
+
+\score
+book: Officium majoris hebdomadae, Desclée 1903, 123 (I don't have access to HS 327)
+mode: 4
+annotation: 2. ant.
+annotation: IV e
+c4 f f d ec d. ,
+e f g h g. ,
+g f g f e de e. ::
+CRe -- do vi -- dé -- re *
+bo -- na Dó -- mi -- ni
+in ter -- ra vi -- vén -- ti -- um.
 
 \score
 book: PM 372
