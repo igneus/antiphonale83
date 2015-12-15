@@ -2,7 +2,60 @@
 title: Feria V
 subtitle: Hebdomada I
 
-% vesperae, ant. 3
+% laudes
+
+\score
+book: PM 137
+mode: 8
+annotation: 1. ant.
+annotation: VIII g
+c4 f fg g_' () h j i j h gf gh h f. f. ::
+QUó -- ni -- am * in te con -- fí -- dit á -- ni -- ma me -- a.
+
+\score
+book: PM 199
+mode: 4
+annotation: 2. ant.
+annotation: IV*
+c4 f_d_ e f g_' g_ () g ge f e d. ;
+d d dh h h gf g f e. ::
+PO -- pu -- lus me -- us, * a -- it Dó -- mi -- nus,
+bo -- nis me -- is ad -- im -- plé -- bi -- tur.
+
+\score
+book: PM 121
+mode: 1
+annotation: 3. ant.
+annotation: I a
+c4 hg~ h g g e_' e f ge gh fe d. d. ::
+MA -- gnus Dó -- mi -- nus * et lau -- dá -- bi -- lis ni -- mis.
+
+% vesperae
+
+\score
+book: PM 47
+mode: 8
+annotation: 1. ant.
+annotation: VIII g
+c4 g g g' h h g g_f_ ,
+g_h ji h_j i_h_ g h h g. g. ::
+DO -- mi -- ne, ab -- stra -- xís -- ti *
+ab ín -- fe -- ris á -- ni -- mam me -- am.
+
+\score
+book: PM 50
+mode: 3
+annotation: 2. ant.
+annotation: III a
+c4 g j h g () hij ji hi i. ,
+ji h g hi h gh g. ;
+gge~ g g f e d_' ,
+e f g ghg e. e. ::
+LAE -- tá -- mi -- ni * in Dó -- mi -- no
+et ex -- sul -- tá -- te ius -- ti,
+et glo -- ri -- á -- mi -- ni,
+o -- mnes rec -- ti cor -- de.
+
 \score
 book: PM 375
 mode: 1

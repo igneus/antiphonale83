@@ -1,0 +1,65 @@
+\header
+title: Feria VI
+subtitle: Hebdomada I
+
+% laudes
+
+\score
+book: PM 110
+mode: 6
+annotation: 1. ant.
+annotation: VI f
+c4 f g h f () gh g f. f. ::
+MI -- se -- ré -- re * me -- i, De -- us.
+
+\score
+book: PM 227
+mode: 5
+annotation: 2. ant.
+annotation: V a
+c3 f d f h' () h hg h i hi f_' ,
+f f f_i h gh f fe d e f ed d. ::
+IN Dó -- mi -- no * iu -- sti -- fi -- cá -- bi -- tur,
+et lau -- dá -- bi -- tur o -- mne se -- men Is -- ra -- el.
+
+\score
+book: PM 220
+mode: 4
+annotation: 3. ant.
+annotation: IV*
+c4 e f g f de e_' () e e_f d_f e. ::
+IU -- bi -- lá -- te De -- o, * o -- mnis ter -- ra.
+
+% vesperae
+
+\score
+book: PM 100
+mode: 2
+annotation: 1. ant.
+annotation: II d
+f3 h g' h g f_' () h h g' h g. ,
+f e f h g f. f. ::
+SA -- na, Dó -- mi -- ne, * á -- ni -- mam me -- am,
+qui -- a pec -- cá -- vi ti -- bi.
+
+\score
+book: PM 118
+mode: E
+annotation: 2. ant.
+annotation: E
+c4 h h g_' () g f g h' ixi g i h. ::
+AD -- iú -- tor * in tri -- bu -- la -- ti -- ó -- ni -- bus.
+
+\score
+book: PM 377
+mode: 4
+annotation: 3. ant.
+annotation: IV*
+c4 f d f e_d_ ,
+ef g f' e cd d. ;
+c d e' e e f df e_' ,
+e e ef d f e. ::
+OM -- nes gen -- tes, *
+quas -- cúm -- que fe -- cí -- sti,
+vé -- ni -- ent et a -- do -- rá -- bunt
+co -- ram te, Dó -- mi -- ne.
