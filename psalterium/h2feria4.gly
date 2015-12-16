@@ -1,0 +1,69 @@
+\header
+title: Feria II
+subtitle: Hebdomada IV
+
+% officium lectionis
+
+% \score
+% book: PM 125
+% mode: 8
+% annotation: 2. ant.
+% annotation: VIII g
+% c4 f fg g gf~ () h j j_0jk j j. ,
+% j' i h i_j i> g fg g. ::
+% COn -- fi -- té -- bor * ti -- bi, Dó -- mi -- ne,
+% quó -- ni -- am ex -- au -- dí -- sti me.
+
+% laudes
+
+\score
+book: PM 177
+mode: 8
+annotation: 1. ant.
+annotation: VIII g
+c4 gj h' () g h gf gh h g. g. ;
+i_j kj h jj i_' ,
+g i_j h h g. g. ::
+DE -- us, * in sanc -- to vi -- a tu -- a;
+quis De -- us mag -- nus
+si -- cut De -- us no -- ster?
+
+\score
+book: AV 111
+mode: 7
+annotation: 2. ant.
+annotation: VII a
+c3 e gh ij i () h j i j jk ji i ;
+i g h g fh g e e e ::
+EX -- sul -- tá -- vit * cor me -- um in Dó -- mi -- no,
+qui hu -- mí -- li -- at et súb -- le -- vat.
+
+\score
+book: PM 217
+mode: 3
+annotation: 3. ant.
+annotation: III g
+c4 g h hj ji hg h. () gf gh gf e. e. ::
+DO -- mi -- nus re -- gná -- vit, * ex -- súl -- tet ter -- ra.
+
+% vesperae
+
+\score
+book: PM 147
+mode: 3
+annotation: 1. ant.
+annotation: III g
+c4 g h j ji () h g g' h g. ,
+gf g gf e. e. ::
+NOn -- ne De -- o * súb -- di -- ta e -- rit
+á -- ni -- ma me -- a?
+
+\score
+book: PM 66
+mode: 8
+annotation: 2. ant.
+annotation: VIII g
+c4 f_g g () h j i j h' j i_' ,
+h hg h i h g. ::
+DE -- us * mi -- se -- re -- á -- tur no -- stri, *
+et be -- ne -- dí -- cat nos.
