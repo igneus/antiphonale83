@@ -1,0 +1,57 @@
+\header
+title: Feria II
+subtitle: Hebdomada II
+
+% laudes
+
+\score
+book: PM 102
+mode: 2
+annotation: 1. ant.
+annotation: II d
+f3 g e_f f () h g f g f' e fg g> f. f. ;
+h> g h f g. ,
+fe fg g fef ef/e/ec. ,
+f f f f h_g~ e g f. ::
+SI -- tí -- vit * á -- ni -- ma me -- a ad De -- um vi -- vum:
+quan -- do vé -- ni -- am
+et ap -- pa -- ré -- bo
+an -- te fá -- ci -- em Dó -- mi -- ni?
+
+\score
+book: PM 257
+mode: 3
+annotation: 2. ant.
+annotation: III a
+c4 g hi~ i () j hg hi hg g. ,
+ghi h' g f g h gf g gf e. e. ::
+O -- stén -- de * no -- bis, Dó -- mi -- ne,
+lu -- cem mi -- se -- ra -- ti -- ó -- num tu -- á -- rum.
+
+\score
+book: PM 24
+mode: 1
+annotation: 3. ant.
+annotation: I g2
+c4 f h g hg~ e () f_g e fe d. d. ::
+CAE -- li e -- nár -- rant * gló -- ri -- am De -- i.
+
+% vesperae
+
+\score
+book: PM 102 (so in OCO; actually PM 103)
+mode: 6
+annotation: 1. ant.
+annotation: VI f
+c4 f g h f' () g fe d' f g g f. ::
+E -- ruc -- tá -- vit * cor me -- um ver -- bum bo -- num.
+
+\score
+book: PM 105
+mode: 6
+annotation: 2. ant.
+annotation: VI f
+c4 f f g h> f g f. ,
+gh g f fe d' f g g f. ::
+COn -- fi -- te -- bún -- tur ti -- bi *
+pó -- pu -- li, De -- us, in ae -- tér -- num.
