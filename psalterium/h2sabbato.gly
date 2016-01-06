@@ -1,0 +1,35 @@
+\header
+title: Sabbato
+subtitle: Hebdomada II
+
+% laudes
+
+\score
+book: PM 238
+mode: 7
+annotation: 1. ant.
+annotation: VII a
+c3 e g i hf h h g_' ,
+f e f_' h g e de e. ::
+QUam ma -- gni -- fi -- cá -- ta sunt *
+ó -- pe -- ra tu -- a, Dó -- mi -- ne.
+
+\score
+book: PM 255
+mode: 6
+annotation: 2. ant.
+annotation: VI f
+c4 f g h f g fe d' () f g g f. ::
+DA -- te ma -- gni -- tú -- di -- nem * De -- o no -- stro.
+
+\score
+book: PM 8
+mode: 1
+annotation: 3. ant.
+annotation: I g
+c4 e> c' d dh/iv h h h_' ()
+h g h gf~ g gh h_' ,
+f e f g> fe d. d. ::
+QUam ad -- mi -- rá -- bi -- le est *
+no -- men tu -- um, Dó -- mi -- ne,
+in u -- ni -- vér -- sa ter -- ra.

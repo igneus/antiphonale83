@@ -1,0 +1,35 @@
+\header
+title: Sabbato
+subtitle: Hebdomada III
+
+% laudes
+
+\score
+book: PM 273
+mode: 8
+annotation: 1. ant.
+annotation: VIII g
+c3 h h g' h> f_' ,
+f h e f ed ef f e de e. ::
+AD -- spi -- ce in me, *
+et mi -- se -- ré -- re me -- i, Dó -- mi -- ne.
+
+\score
+book: AM 580
+mode: 8
+annotation: 1. ant.
+annotation: VIII c
+c3 h_ hg/hih' () h h hi h hg fh hg e. ;
+e e' g ef_ f. ,
+f i hg e' f e. ::
+E -- go * in al -- tís -- si -- mis há -- bi -- to,
+et thro -- nus me -- us
+in co -- lú -- mna nu -- bis.
+
+\score
+book: PM 314 (in OCO est PM 316)
+mode: E
+annotation: 1. ant.
+annotation: E
+c4 f h' ixi gh g f' () f gh~ h. h. ::
+LAu -- dá -- te Dó -- mi -- num, * o -- mnes gen -- tes.
