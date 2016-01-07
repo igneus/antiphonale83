@@ -97,7 +97,10 @@ class PsalterBuilder
     gtex_fname = gabc_fname.sub /\.gabc/i, ''
     piece_title = %w(book manuscript arranger author).collect do |m|          score.headers[m]
     end.delete_if(&:nil?).join ', '
-    puts "\\commentary{\\footnotesize{#{piece_title}}}\n" unless piece_title.empty?
+    unless piece_title.empty?
+      puts "\\commentary{\\footnotesize{#{piece_title}}}"
+      puts '\nobreak'
+    end
 
     annotations = score.headers.each_value('annotation')
     begin
@@ -107,7 +110,8 @@ class PsalterBuilder
       # ok, no more annotations
     end
 
-    puts "\\includescore{#{gtex_fname}}\n\\vspace{1cm}"
+    puts "\\includescore{#{gtex_fname}}"
+    puts '\vspace{3mm}'
   end
 end
 
