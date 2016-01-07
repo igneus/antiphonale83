@@ -1,3 +1,5 @@
+import 'libelli/Rakefile'
+
 def gly_pdf(gly_path)
   gly_path.sub(/\.gly/i, '.pdf')
 end

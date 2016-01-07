@@ -1,0 +1,24 @@
+namespace :libelli do
+
+  # because all the paths below are relative to this directory
+  Dir.chdir File.dirname(__FILE__)
+
+  def libellus(script, music, description)
+    target = script.sub /\.rb/i, '.pdf'
+    tex = script.sub /\.rb/i, '.tex'
+    taskname = script.sub(/\.rb/i, '').to_sym
+
+    file target => [script, 'header.tex'] + music do |t|
+      sh "ruby #{script} > #{tex}"
+      sh "lualatex #{tex}"
+    end
+
+    desc description
+    task taskname => target
+
+    taskname
+  end
+
+  desc 'all booklets'
+  task :default => [libellus('psalterium.rb', Dir['../psalterium/h*.gly'], 'psalter')]
+end
