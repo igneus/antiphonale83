@@ -17,5 +17,13 @@ Then run rake tasks. `rake` builds all possible targets.
 
 See output of `rake -T` for what is available.
 
+## How to contribute
+
+Contributions in form of score transcriptions are most welcome.
+
+Scores are entered in the [gly][gly] format.
+
 [oco]: http://musicasacra.com/pdf/LOTH-schema.pdf
 [oco2015]: http://www.libreriaeditricevaticana.va/content/libreriaeditricevaticana/it/novita-editoriali/ordo-cantus-officii.html
+
+[gly]: https://github.com/igneus/gly
