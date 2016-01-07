@@ -1,0 +1,98 @@
+\header
+title: Toni psalmorum
+subtitle: secundum Psalterium monasticum, Solesmes 1983
+
+\score
+id: i
+mode: 1
+c4 f gh h h hr1 gr g. ,
+h h ixir1 hr h gr1 hr h. :
+
+\score
+id: ii
+mode: 2
+f3 e f h h hr1 fr f. ,
+h h h h ir1 hr h. :
+
+\score
+id: iix
+mode: 2*
+f3 i hi i i ir1 hr h. ,
+i i h i jr1 ir i. :
+i[alt:d] h i j hr1 fr f. ::
+
+\score
+id: iii
+mode: 3
+c4 g hi i i ir1 hr h. ,
+i i kr1 jr j jr[ocba:1;8mm] ih j. :
+
+\score
+id: iv
+mode: 4
+c4 h gh h h hr1 gr g. ,
+h h g h ir1 hr h. :
+h[alt:e] g h ih gr[ocba:1;7mm] gf e. ::
+
+\score
+id: ivx
+mode: 4*
+c4 g fg g g gr1 fr f. ,
+g g f g hr1 gr g. :
+
+\score
+id: v
+mode: 5
+c3 d f h h hr1 fr f. ,
+h h h h ir1 hr h. :
+
+\score
+id: vi
+mode: 6
+c4 f gh h h hr1 gr g. ,
+h h h g hr1 fr f. :
+
+\score
+id: vii
+mode: 7
+c3 hg hi i i ir1 hr h. ,
+i i kr1 jr j ir1 jr j. :
+
+\score
+id: viii
+mode: 8
+c4 g h j j jr1 hr h. ,
+j j j j kr1 jr j. :
+j[alt:g] j i j hr1 gr g. ::
+
+\score
+id: per
+mode: per.
+c4 ixhi h h h hr1 gr g. ,
+h g ixi h gr1 fr f. :
+
+\score
+id: c
+mode: C
+c3 h h h h hr1 fr f. ,
+h h g f hr1 hr h. :
+
+\score
+id: d
+mode: D
+c2 g fg g g gr1 fr f.
+g g f g hr1 gr g. :
+
+% in PM there is one score with two clefs, but I'm unable
+% to reproduce it with gregorio
+\score
+id: d2
+mode: D
+c4 g fg g g gr1 fr f.
+g g f g hr1 gr g. :
+
+\score
+id: e
+mode: E
+c4 h h h h hr1 gr g. ,
+h h h h gr1 fr f. :
