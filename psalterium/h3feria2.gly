@@ -1,0 +1,64 @@
+\header
+title: Feria II
+subtitle: Hebdomada III
+
+% laudes
+
+\score
+id: l1
+book: PM 191
+mode: 8
+annotation: 1. ant.
+annotation: VIII g
+c4 g gj h gf gh h g_' ,
+f g h' i hg h g g. ::
+BE -- á -- ti qui há -- bi -- tant *
+in do -- mo tu -- a, Dó -- mi -- ne.
+
+\score
+id: l2
+book: AM 192
+mode: 2
+annotation: 1. ant.
+annotation: II d
+f3 f i h' () g e' f f. ;
+gf~ h' g e' e e. ,
+ge f_h g' h f. ::
+DE Si -- on * ex -- í -- bit lex,
+et ver -- bum Dó -- mi -- ni
+de Je -- rú -- sa -- lem.
+
+\score
+id: l3
+book: PM 215
+mode: 2
+annotation: 1. ant.
+annotation: II d
+f3 f h g h g f_' ,
+f h g h g f fe f gh f. f. ::
+CAn -- tá -- te Dó -- mi -- no *
+et be -- ne -- dí -- ci -- te nó -- mi -- ni e -- ius.
+
+% vesperae
+
+\score
+id: v1
+book: PM 291
+mode: 8
+annotation: 1. ant.
+annotation: VIII g
+c4 h f fg g () h!iwj j_h_ i_j ,
+h h i h g. g. ::
+QUI há -- bi -- tas * in cae -- lis,
+mi -- se -- ré -- re no -- bis.
+
+\score
+id: v2
+book: PM 293
+mode: 1
+annotation: 1. ant.
+annotation: I g
+c4 f g h g f' g f_' ,
+f ef g fe d cd d. ::
+AD -- iu -- tó -- ri -- um no -- strum *
+in nó -- mi -- ne Dó -- mi -- ni.
