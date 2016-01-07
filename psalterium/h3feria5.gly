@@ -5,6 +5,7 @@ subtitle: Hebdomada III
 % laudes
 
 \score
+id: l1
 book: PM 206
 mode: 1
 annotation: 1. ant.
@@ -16,6 +17,7 @@ FU -- nda -- mén -- ta e -- ius * in món -- ti -- bus sanc -- tis.
 
 % ant. 3
 \score
+id: l3
 book: PM 219
 mode: 6
 annotation: 3. ant.
@@ -27,6 +29,7 @@ et a -- do -- rá -- te ad mon -- tem sanc -- tum e -- ius.
 
 % vesperae
 \score
+id: v1
 book: PM 319
 mode: E
 annotation: 1. ant.
@@ -35,6 +38,7 @@ c4 h h> g' () g f g h' ixi g ixi h. ::
 ET o -- mnis * man -- su -- e -- tú -- di -- nis e -- ius.
 
 \score
+id: v2
 book: PM 320
 mode: 3
 annotation: 2. ant.

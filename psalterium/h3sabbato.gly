@@ -5,6 +5,7 @@ subtitle: Hebdomada III
 % laudes
 
 \score
+id: l1
 book: PM 273
 mode: 8
 annotation: 1. ant.
@@ -15,6 +16,7 @@ AD -- spi -- ce in me, *
 et mi -- se -- ré -- re me -- i, Dó -- mi -- ne.
 
 \score
+id: l2
 book: AM 580
 mode: 8
 annotation: 1. ant.
@@ -27,6 +29,7 @@ et thro -- nus me -- us
 in co -- lú -- mna nu -- bis.
 
 \score
+id: l3
 book: PM 314 (in OCO est PM 316)
 mode: E
 annotation: 1. ant.

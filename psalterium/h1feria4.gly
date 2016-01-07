@@ -5,6 +5,7 @@ subtitle: Hebdomada I
 % laudes
 
 \score
+id: l1
 book: PM 112
 mode: 2
 annotation: 1. ant.
@@ -15,6 +16,7 @@ DO -- mi -- ne, in cae -- lo *
 mi -- se -- ri -- cór -- di -- a tu -- a.
 
 \score
+id: l2
 book: PM 169
 mode: 2
 annotation: 2. ant.
@@ -29,6 +31,7 @@ et prae -- clá -- rus
 in vir -- tú -- te tu -- a.
 
 \score
+id: l3
 book: PM 120
 mode: 7
 annotation: 3. ant.
@@ -41,6 +44,7 @@ in vo -- ce ex -- sul -- ta -- ti -- ó -- nis.
 % vesperae
 
 \score
+id: v1
 book: PM 42
 mode: 8
 annotation: 1. ant.
@@ -51,6 +55,7 @@ IL -- lu -- mi -- ná -- ti -- o me -- a, *
 et sa -- lus me -- a Dó -- mi -- nus
 
 \score
+id: v2
 book: Officium majoris hebdomadae, Desclée 1903, 123 (I don't have access to HS 327)
 mode: 4
 annotation: 2. ant.
@@ -63,6 +68,7 @@ bo -- na Dó -- mi -- ni
 in ter -- ra vi -- vén -- ti -- um.
 
 \score
+id: v3
 book: PM 372
 mode: 8
 annotation: 3. ant.

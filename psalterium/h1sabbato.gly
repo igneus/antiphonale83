@@ -5,6 +5,7 @@ subtitle: Hebdomada I
 % laudes
 
 \score
+id: l1
 book: PM 272
 mode: 1
 annotation: 1. ant.
@@ -15,6 +16,7 @@ DA mi -- hi in -- tel -- léc -- tum *
 et scru -- tá -- bor, Dó -- mi -- ne, le -- gem tu -- am.
 
 \score
+id: l2
 book: AV 130
 mode: 4
 annotation: 2. ant.
@@ -25,6 +27,7 @@ FOr -- ti -- tú -- do me -- a et laus me -- a Dó -- mi -- nus:
 et fac -- tus est mi -- hi in sa -- lú -- tem.
 
 \score
+id: l3
 book: PM 314
 mode: E
 annotation: 3. ant.

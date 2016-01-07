@@ -5,6 +5,7 @@ subtitle: Hebdomada I
 % laudes
 
 \score
+id: l1
 book: PM 110
 mode: 6
 annotation: 1. ant.
@@ -13,6 +14,7 @@ c4 f g h f () gh g f. f. ::
 MI -- se -- ré -- re * me -- i, De -- us.
 
 \score
+id: l2
 book: PM 227
 mode: 5
 annotation: 2. ant.
@@ -23,6 +25,7 @@ IN Dó -- mi -- no * iu -- sti -- fi -- cá -- bi -- tur,
 et lau -- dá -- bi -- tur o -- mne se -- men Is -- ra -- el.
 
 \score
+id: l3
 book: PM 220
 mode: 4
 annotation: 3. ant.
@@ -33,6 +36,7 @@ IU -- bi -- lá -- te De -- o, * o -- mnis ter -- ra.
 % vesperae
 
 \score
+id: v1
 book: PM 100
 mode: 2
 annotation: 1. ant.
@@ -43,6 +47,7 @@ SA -- na, Dó -- mi -- ne, * á -- ni -- mam me -- am,
 qui -- a pec -- cá -- vi ti -- bi.
 
 \score
+id: v2
 book: PM 118
 mode: E
 annotation: 2. ant.
@@ -51,6 +56,7 @@ c4 h h g_' () g f g h' ixi g i h. ::
 AD -- iú -- tor * in tri -- bu -- la -- ti -- ó -- ni -- bus.
 
 \score
+id: v3
 book: PM 377
 mode: 4
 annotation: 3. ant.

@@ -5,6 +5,7 @@ subtitle: Hebdomada V
 % laudes
 
 \score
+id: l1
 book: PM 186
 mode: 2
 annotation: 1. ant.
@@ -15,6 +16,7 @@ EX -- ci -- ta, Dó -- mi -- ne, * po -- tén -- ti -- am tu -- am,
 ut sal -- vos fá -- ci -- as nos.
 
 \score
+id: l2
 book: PM 113
 mode: 8
 annotation: 2. ant.
@@ -25,6 +27,7 @@ COn -- vér -- sus est * fu -- ror tu -- us, Dó -- mi -- ne,
 et con -- so -- lá -- tus es me.
 
 \score
+id: l3
 book: PM 186
 mode: 1
 annotation: 3. ant.
@@ -37,6 +40,7 @@ ad -- iu -- tó -- ri no -- stro.
 % vesperae
 
 \score
+id: v1
 book: AM 1089
 mode: 8
 annotation: 1. ant.
@@ -51,6 +55,7 @@ ut sis sa -- lus me -- a
 us -- que ad ex -- tré -- mum ter -- rae.
 
 \score
+id: v2
 book: PM 160
 mode: 7
 annotation: 2. ant.

@@ -4,19 +4,21 @@ subtitle: Hebdomada IV
 
 % officium lectionis
 
-% \score
-% book: PM 125
-% mode: 8
-% annotation: 2. ant.
-% annotation: VIII g
-% c4 f fg g gf~ () h j j_0jk j j. ,
-% j' i h i_j i> g fg g. ::
-% COn -- fi -- té -- bor * ti -- bi, Dó -- mi -- ne,
-% quó -- ni -- am ex -- au -- dí -- sti me.
+\score
+id: ol1
+book: PM 125
+mode: 8
+annotation: 2. ant.
+annotation: VIII g
+c4 f fg g gf~ () h j j_0jk j j. ,
+j' i h i_j i> g fg g. ::
+COn -- fi -- té -- bor * ti -- bi, Dó -- mi -- ne,
+quó -- ni -- am ex -- au -- dí -- sti me.
 
 % laudes
 
 \score
+id: l1
 book: PM 177
 mode: 8
 annotation: 1. ant.
@@ -29,6 +31,7 @@ quis De -- us mag -- nus
 si -- cut De -- us no -- ster?
 
 \score
+id: l2
 book: AV 111
 mode: 7
 annotation: 2. ant.
@@ -39,6 +42,7 @@ EX -- sul -- tá -- vit * cor me -- um in Dó -- mi -- no,
 qui hu -- mí -- li -- at et súb -- le -- vat.
 
 \score
+id: l3
 book: PM 217
 mode: 3
 annotation: 3. ant.
@@ -49,6 +53,7 @@ DO -- mi -- nus re -- gná -- vit, * ex -- súl -- tet ter -- ra.
 % vesperae
 
 \score
+id: v1
 book: PM 147
 mode: 3
 annotation: 1. ant.
@@ -59,6 +64,7 @@ NOn -- ne De -- o * súb -- di -- ta e -- rit
 á -- ni -- ma me -- a?
 
 \score
+id: v2
 book: PM 66
 mode: 8
 annotation: 2. ant.

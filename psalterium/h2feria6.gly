@@ -5,6 +5,7 @@ subtitle: Hebdomada VI
 % laudes
 
 \score
+id: l1
 book: PM 136
 mode: 4
 annotation: 1. ant.
@@ -13,6 +14,7 @@ c4 e f g h g_' () h g fd f g e. e. ::
 DE -- le, Dó -- mi -- ne, * i -- ni -- qui -- tá -- tem me -- am.
 
 \score
+id: l2
 book: AV 148
 mode: 1
 annotation: 2. ant.
@@ -23,6 +25,7 @@ CUM i -- rá -- tus fú -- e -- ris, * Dó -- mi -- ne,
 mi -- se -- ri -- cór -- di -- ae re -- cor -- dá -- be -- ris.
 
 \score
+id: l3
 book: PM 349
 mode: E
 annotation: 3. ant.
@@ -33,6 +36,7 @@ LAu -- da, * Ie -- rú -- sa -- lem, Dó -- mi -- num.
 % vesperae
 
 \score
+id: v1
 book: PM 312
 mode: 1
 annotation: 1. ant.
@@ -41,6 +45,7 @@ c4 f g h gf () g f f_' e f g fe d. d. ::
 IN -- cli -- ná -- vit * Dó -- mi -- nus au -- rem su -- am mi -- hi.
 
 \score
+id: v2
 book: PM 287
 mode: 1
 annotation: 2. ant.

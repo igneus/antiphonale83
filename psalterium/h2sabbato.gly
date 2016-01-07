@@ -5,6 +5,7 @@ subtitle: Hebdomada II
 % laudes
 
 \score
+id: l1
 book: PM 238
 mode: 7
 annotation: 1. ant.
@@ -15,6 +16,7 @@ QUam ma -- gni -- fi -- cá -- ta sunt *
 ó -- pe -- ra tu -- a, Dó -- mi -- ne.
 
 \score
+id: l2
 book: PM 255
 mode: 6
 annotation: 2. ant.
@@ -23,6 +25,7 @@ c4 f g h f g fe d' () f g g f. ::
 DA -- te ma -- gni -- tú -- di -- nem * De -- o no -- stro.
 
 \score
+id: l3
 book: PM 8
 mode: 1
 annotation: 3. ant.

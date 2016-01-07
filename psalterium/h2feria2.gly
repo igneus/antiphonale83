@@ -5,6 +5,7 @@ subtitle: Hebdomada II
 % laudes
 
 \score
+id: l1
 book: PM 102
 mode: 2
 annotation: 1. ant.
@@ -19,6 +20,7 @@ et ap -- pa -- ré -- bo
 an -- te fá -- ci -- em Dó -- mi -- ni?
 
 \score
+id: l2
 book: PM 257
 mode: 3
 annotation: 2. ant.
@@ -29,6 +31,7 @@ O -- stén -- de * no -- bis, Dó -- mi -- ne,
 lu -- cem mi -- se -- ra -- ti -- ó -- num tu -- á -- rum.
 
 \score
+id: l3
 book: PM 24
 mode: 1
 annotation: 3. ant.
@@ -39,6 +42,7 @@ CAE -- li e -- nár -- rant * gló -- ri -- am De -- i.
 % vesperae
 
 \score
+id: v1
 book: PM 102 (so in OCO; actually PM 103)
 mode: 6
 annotation: 1. ant.
@@ -47,6 +51,7 @@ c4 f g h f' () g fe d' f g g f. ::
 E -- ruc -- tá -- vit * cor me -- um ver -- bum bo -- num.
 
 \score
+id: v2
 book: PM 105
 mode: 6
 annotation: 2. ant.
