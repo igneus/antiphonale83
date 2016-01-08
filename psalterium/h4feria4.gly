@@ -1,0 +1,55 @@
+\header
+title: Feria IV
+subtitle: Hebdomada IV
+
+% laudes
+
+% first antiphon unedited
+
+\score
+id: l2
+book: AM 215
+mode: 4
+annotation: 2. ant.
+annotation: IV a*
+c3 e_f h hi ii ,
+h_i j_h i. i. ;
+i f' i h' g f_e f_' ,
+e d' e f' h f. f. ::
+PRo -- pter Si -- on *
+non ta -- cé -- bo,
+do -- nec e -- gre -- di -- á -- tur
+us splen -- dor jus -- tus e -- jus.
+
+\score
+id: l3
+book: PM 347
+mode: 4
+annotation: 3. ant.
+annotation: IV*
+c4 f fe d' () e f g_h g' f g gf e. e. ::
+LAu -- dá -- bo * De -- um me -- um in vi -- ta me -- a.
+
+% vesperae
+
+\score
+id: v1
+book: PM 332
+mode: 3
+annotation: 1. ant.
+annotation: III g
+c4 g h hj () ji h g gh ,
+g g> f gh gf e. ::
+DO -- mi -- ne, * pro -- bá -- sti me,
+et co -- gno -- ví -- sti me.
+
+\score
+id: v2
+book: PM 334
+mode: 6
+annotation: 2. ant.
+annotation: VI f
+c4 f g h gf f_' () f e f' g d e dc c. ;
+d f e f g_' g_ f gh g f. f. ::
+MI -- ra -- bí -- li -- a * ó -- pe -- ra tu -- a, Dó -- mi -- ne,
+et á -- ni -- ma me -- a co -- gnó -- scit ni -- mis.

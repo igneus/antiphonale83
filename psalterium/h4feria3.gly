@@ -1,0 +1,76 @@
+\header
+title: Feria III
+subtitle: Hebdomada IV
+
+% laudes
+
+\score
+id: l1
+book: PM 221
+mode: 6
+annotation: 1. ant.
+annotation: VI f
+c4 f ef d c df fv_fv_ggf f. ;
+f g h> g f' g fe d gf~ g ghg f. f. ::
+TI -- bi, Dó -- mi -- ne, psal -- lam, *
+et in -- tél -- le -- gam in vi -- a im -- ma -- cu -- lá -- ta.
+
+\score
+id: l2
+book: PM 384
+mode: 2
+annotation: 2. ant.
+annotation: II d
+f3 e_f h g f' () f e f h ff ,
+e f g f g' h g_h_f_/fe e. ;
+fe h ij j i_j_i_ g_h i hg ef f. :
+f fihi h!iwji/j_k j_i_ h i j i h>' i f_' ,
+f i h gh f f f e f!gwh e e.c. ;
+ef~ f ef f_ fvh/ho!ivjv h_g_ ,
+e f fi gh f. ::
+IN spí -- ri -- tu * hu -- mi -- li -- tá -- tis
+et in á -- ni -- mo con -- trí -- to
+sus -- ci -- pi -- á -- mur, Dó -- mi -- ne, a te:
+et sic fi -- at sa -- cri -- fí -- ci -- um no -- strum,
+ut a te su -- sci -- pi -- á -- tur hó -- di -- e,
+et plá -- ce -- at ti -- bi,
+Dó -- mi -- ne De -- us.
+
+\score
+id: l3
+book: AV [210]
+mode: 8
+annotation: 3. ant.
+annotation: VIII g
+c4 g f h j i h j i ,
+g h h h h g h i hg g ;
+ih j g fe d ,
+e f gf gh h g g ::
+MI -- se -- ri -- cór -- di -- a me -- a *
+et re -- fú -- gi -- um me -- um Dó -- mi -- nus:
+sus -- cép -- tor me -- us,
+et li -- be -- rá -- tor me -- us.
+
+% vesperae
+
+\score
+id: v1
+book: PM
+mode: 8
+annotation: 1. ant.
+annotation: VIII g
+c4 hg~ f' () f< g_ h' g f. ,
+h!iwj i jkj h hg g. ::
+HY -- mnum * can -- tá -- te no -- bis
+de cán -- ti -- cis Si -- on.
+
+\score
+id: v2
+book: PM 329
+mode: 5
+annotation: 1. ant.
+annotation: V a
+c3 f e f e_d_ h h_i h_g_ f_' ,
+f e f ed ef ef d. d. ::
+IN con -- spéc -- tu an -- ge -- ló -- rum
+psal -- lam ti -- bi, De -- us me -- us.

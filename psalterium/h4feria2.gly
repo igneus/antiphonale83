@@ -1,0 +1,68 @@
+\header
+title: Feria II
+subtitle: Hebdomada IV
+
+% laudes
+
+\score
+id: l1
+book: PM 197
+mode: 6
+annotation: 1. ant.
+annotation: VI f
+c4 f g h' () f g f f>' d f g g f. ::
+DO -- mi -- ne, * re -- fú -- gi -- um fac -- tus es no -- bis.
+
+\score
+id: l2
+book: AM 202
+mode: 7
+annotation: 2. ant.
+annotation: VII a
+c3 e g' h i' j i. ,
+i_j h f hh g. ;
+iv_HF hh g_'
+h ih f' f e. e. ::
+CAn -- tá -- te Dó -- mi -- no *
+cán -- ti -- cum no -- vum:
+laus e -- jus
+ab ex -- tré -- mis ter -- rae.
+
+\score
+id: l3
+book: PM 325
+mode: 2
+annotation: 3. ant.
+annotation: II d
+f3 g> e_f f' () e f h_hi h h. ;
+i hg f fe f h_g_ e gh f. ::
+LAu -- dá -- te * no -- men Dó -- mi -- ni,
+qui sta -- tis in do -- mo Dó -- mi -- ni.
+
+% vesperae
+
+\score
+id: v1
+book: AV 137 (but OCO actually requires ending \emph{... quoniam bonus.} There is no such antiphon!)
+mode: 3
+annotation: 1. ant.
+annotation: III g2
+c4 g h j i h g i h ;
+g h hj i h g h ,
+g g h gf~ g gf e e ::
+COn -- fi -- té -- mi -- ni Dó -- mi -- no, *
+quó -- ni -- am in ae -- tér -- num
+mi -- se -- ri -- cór -- di -- a e -- jus.
+
+\score
+id: v2
+book: AV 137
+mode: 3
+annotation: 2. ant.
+annotation: III g2
+c4 g h j i j k ji g ;
+g i i h j i g e fg g ,
+h gf~ g gf e e ::
+COn -- fi -- té -- mi -- ni Dó -- mi -- no, *
+qui -- a in hu -- mi -- li -- tá -- te no -- stra
+me -- mor fu -- it no -- stri.
