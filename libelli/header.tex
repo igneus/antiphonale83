@@ -15,6 +15,16 @@
 \usepackage{graphicx}
 \usepackage{gregoriotex}
 
+%% redefine KOMA-Script commands to remove chapter
+%% and section numbering
+%%
+%% in section titles
+\renewcommand*{\chapterformat}{}
+\renewcommand*{\othersectionlevelsformat}[3]{}
+%% in running headers
+\renewcommand*{\chaptermarkformat}{}
+\renewcommand*{\sectionmarkformat}{}
+
 \title{%{title}}
 \subtitle{%{subtitle}}
 

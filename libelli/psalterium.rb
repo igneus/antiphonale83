@@ -21,7 +21,7 @@ class PsalterBuilder
     @documents.keys.sort.each do |k|
       w = k[1].to_i
       if w != week
-        puts '\chapter*{%s}' % "Hebdomada #{'I' * w}"
+        puts '\chapter{%s}' % "Hebdomada #{'I' * w}"
         week = w
       end
 
@@ -49,7 +49,7 @@ class PsalterBuilder
     convertor = Gly::DocumentGabcConvertor.new(doc)
     convertor.convert
 
-    puts '\section*{%s}' % doc.header['title']
+    puts '\section{%s}' % doc.header['title']
     puts
 
     hour 'Laudes matutinae'
