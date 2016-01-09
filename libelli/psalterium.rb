@@ -1,5 +1,9 @@
 require 'gly'
 
+def roman(int)
+  [nil, 'I', 'II', 'III', 'IV'][int]
+end
+
 class PsalterBuilder
   def initialize
     # gly file basename => Gly::Document
@@ -21,7 +25,7 @@ class PsalterBuilder
     @documents.keys.sort.each do |k|
       w = k[1].to_i
       if w != week
-        puts '\chapter{%s}' % "Hebdomada #{'I' * w}"
+        puts '\chapter{%s}' % "Hebdomada #{roman(w)}"
         week = w
       end
 
