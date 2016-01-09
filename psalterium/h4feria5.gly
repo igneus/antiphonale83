@@ -1,0 +1,60 @@
+\header
+title: Feria V
+subtitle: Hebdomada IV
+
+% laudes
+
+\score
+id: l1
+book: AM 74
+mode: 8
+annotation: 1. ant.
+annotation: VIII g
+c4 h f g' g h' g f_' ,
+h j' i j hi h g. ::
+IN ve -- ri -- tá -- te tu -- a *
+ex -- áu -- di me Dó -- mi -- ne.
+
+\score
+id: l2
+book: AM 223
+mode: 5
+annotation: 2. ant.
+annotation: V a
+c3 h h_ h_g f' () f> e f' h h_/iih. ;
+hf h i' j i' h h_i f. ;
+f i' h gh f' e f' f e_d e ef d. d. ::
+LAE -- tá -- mi -- ni * cum Je -- rú -- sa -- lem,
+et ex -- sul -- tá -- te in e -- a
+om -- nes qui di -- lí -- gi -- tis e -- am, in ae -- tér -- num.
+
+\score
+id: l3
+book: PM 348
+mode: 8
+annotation: 3. ant.
+annotation: VIII g
+c3 h g h f. () ed e f g f> e de e. ::
+DE -- o no -- stro * iu -- cún -- da sit lau -- dá -- ti -- o.
+
+% vesperae
+
+\score
+id: v1
+book: PM 340
+mode: 6
+annotation: 1. ant.
+annotation: VI f
+c4 f g h f' () g fe d' f g g f. ::
+BE -- ne -- díc -- tus * Dó -- mi -- nus De -- us me -- us.
+
+\score
+id: v2
+book: PM 341
+mode: 8
+annotation: 2. ant.
+annotation: VIII g
+c3 h hg fe f e d. ,
+e f g f g_h f f e. e. ::
+BE -- á -- tus pó -- pu -- lus *
+cu -- ius Dó -- mi -- nus De -- us e -- ius.

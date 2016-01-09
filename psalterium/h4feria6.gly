@@ -1,0 +1,61 @@
+\header
+title: Feria VI
+subtitle: Hebdomada IV
+
+% laudes
+
+\score
+id: l1
+book: AM 341
+mode: 1
+annotation: 1. ant.
+annotation: I g
+c4 c_d dh h_i () h_g h_f g_h e' f d. ;
+f_' e d f_g g_' f e c_' ,
+e f' g e' f d. d. ::
+COR mun -- dum * cre -- a in me De -- us:
+spí -- ri -- tum rec -- tum ín -- no -- va
+in vi -- scé -- ri -- bus me -- is.
+
+\score
+id: l2
+book: AM 1103
+mode: 8
+annotation: 2. ant.
+annotation: VIII g
+c3 e e eh f ed e_f_e_ de e. ,
+g' h i_f h' h g. g. ;
+i' h g' h ij i h' g e_f ,
+d e' f h_f g' f e. e. ::
+BE -- ne -- dí -- ci -- te Dó -- mi -- num, *
+om -- nes e -- léc -- ti e -- jus:
+á -- gi -- te di -- es lae -- tí -- ti -- ae,
+et con -- fi -- té -- mi -- ni il -- li.
+
+% ant3: CAO 1734
+
+% vesperae
+
+\score
+id: v1
+book: PM 342
+mode: 8
+annotation: 1. ant.
+annotation: VIII g
+c3 h h g fe f e_' ,
+d e f g> e fg fe e. ::
+PER sín -- gu -- los di -- es *
+be -- ne -- dí -- cam te, Dó -- mi -- ne.
+
+\score
+id: v2
+book: AV 179
+mode: 4
+annotation: 2. ant.
+annotation: IV g
+c4 e gh hg h g e ,
+f g f fe d c df f ;
+f ef c d f e f g gh f gf e e ::
+FI -- dé -- lis Dó -- mi -- nus
+in ó -- mni -- bus ver -- bis su -- is,
+et san -- ctus in ó -- mni -- bus o -- pé -- ri -- bus su -- is.

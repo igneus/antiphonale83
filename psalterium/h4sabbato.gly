@@ -1,0 +1,42 @@
+\header
+title: Sabbato
+subtitle: Hebdomada IV
+
+% laudes
+
+\score
+id: l1
+book: PM 224
+mode: 8
+annotation: 1. ant.
+annotation: VIII g
+c3 h hg f_' () f e f e f de e. ::
+BO -- num est * con -- fi -- té -- ri Dó -- mi -- no.
+
+\score
+id: l2
+book: AM 369
+mode: 8
+annotation: 2. ant.
+annotation: VIII a
+c4 j_ ji () hg hi h gh g g. ;
+g g' e g' g f_e f_' ,
+d e_f gh h g. g. ::
+A -- quam * quam e -- go dé -- de -- ro,
+qui bí -- be -- rit ex e -- a,
+non sí -- ti -- et un -- quam.
+
+\score
+id: l3
+book: PM 9
+mode: 1
+annotation: 3. ant.
+annotation: I a
+c4 dhiv h h () hj h hg g_h ,
+h g f e gh fe~ d cd d. ;
+f d e' f g f_e_ c_' ,
+d fe g fe d. d. ::
+GLó -- ri -- a * et ho -- nó -- re
+co -- ro -- ná -- sti e -- um, Dó -- mi -- ne;
+ó -- mni -- a sub -- ie -- cí -- sti
+sub pé -- di -- bus e -- ius.
