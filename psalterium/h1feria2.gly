@@ -2,6 +2,30 @@
 title: Feria II
 subtitle: Hebdomada I
 
+% officium lectionis
+
+\score
+id: ol1
+book: PM 5
+mode: 8
+annotation: 1. ant.
+annotation: VIII g
+c4 h fg~ g gh f g f. ,
+g f g h j ji~ hg hih> g. g. ::
+SAl -- vum me fac, Dó -- mi -- ne, *
+pro -- pter mi -- se -- ri -- cór -- di -- am tu -- am.
+
+\score
+id: ol2
+book: PM 6
+mode: 1
+annotation: 2. ant.
+annotation: I g2
+c4 f h> g h fg g_' ,
+f f f_g e f d. d. ::
+EX -- súr -- ge, Dó -- mi -- ne, *
+non prae -- vá -- le -- at ho -- mo.
+
 % laudes
 
 \score
@@ -34,6 +58,54 @@ c4 f fg g fh j k j_' ,
 j i> h j_h_ i_h_ g. g. ::
 AD -- o -- rá -- te Dó -- mi -- num *
 in au -- la sanc -- ta e -- ius.
+
+\score
+id: lb
+book: PM 45
+mode: 8
+annotation: ad Ben.
+annotation: VIII g
+c4 f fg g fh j k j_' ,
+j i> h j_h_ i_h_ g. g. ::
+AD -- o -- rá -- te Dó -- mi -- num *
+in au -- la sanc -- ta e -- ius.
+
+% hora media
+
+\score
+id: m1
+book: PM 44
+mode: 1
+annotation: 1. ant.
+annotation: I g
+c4 f -ghg h_' () f g f' f e_f g fe d. d. ::
+FAc -- tus est * ad -- iú -- tor me -- us De -- us me -- us.
+
+\score
+id: m2
+book: PM 7
+mode: 8
+annotation: 2. ant.
+annotation: VIII g
+c4 h f_g g. , h g g' g h g' h g f gh h. ;
+h j ji hg hi h g_' ,
+g g' g g f gh h g. ::
+NE -- quán -- do * rá -- pi -- at ut le -- o á -- ni -- mam me -- am,
+dum non est qui ré -- di -- mat,
+ne -- que qui sal -- vum fá -- ci -- at.
+
+\score
+id: m3
+book: PM 7
+mode: 8
+annotation: 3. ant.
+annotation: VIII g
+c4 g g h h g g_f_ ,
+g h j i h' j g. ;
+j j i' j h_g_ h_' g e_f gh h g. g. ::
+DE -- us iu -- dex ius -- tus, *
+for -- tis et long -- á -- ni -- mis:
+num -- quid i -- ra -- scé -- tur per sín -- gu -- los di -- es?
 
 % vesperae
 
@@ -71,3 +143,14 @@ hj jv_IH i hi g g_h i h g. g. ::
 BE -- á -- ti *
 qui la -- vant sto -- las su -- as
 in sán -- gui -- ne Ag -- ni, al -- le -- lú -- ia.
+
+\score
+id: vm
+book: PM 316
+mode: 4
+annotation: ad Magn.
+annotation: IV*
+c4 f fe de e_' ,
+e g gh h gf g gf e. ::
+MA -- gní -- fi -- cat *
+á -- ni -- ma me -- a Dó -- mi -- num.

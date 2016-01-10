@@ -58,12 +58,18 @@ class PsalterBuilder
 
     hour 'Laudes matutinae'
     %w(l1 l2 l3).each {|aid| antiphon aid, doc }
+    antiphon 'lb', doc, repeated: true
+    puts
+
+    hour 'Hora media'
+    %w(m1 m2 m3).each {|aid| antiphon aid, doc }
     puts
 
     unless File.basename(doc.path).include? 'sabbato'
       hour 'Vesperae'
       %w(v1 v2).each {|aid| antiphon aid, doc }
       antiphon 'v3', doc, repeated: true
+      antiphon 'vm', doc, repeated: true
     end
     puts
   end
