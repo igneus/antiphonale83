@@ -2,6 +2,30 @@
 title: Feria III
 subtitle: Hebdomada I
 
+% officium lectionis
+
+\score
+id: ol1
+book: PM 11
+mode: 2
+annotation: 1. ant.
+annotation: II d
+f3 f hg h g f. ,
+gh fe f gh f. f. ::
+UT quid, Dó -- mi -- ne, *
+re -- ces -- sís -- ti lon -- ge?
+
+\score
+id: ol2
+book: PM 13
+mode: 8
+annotation: 2. ant.
+annotation: VIII g
+c4 h f fg g' () g h g f. ;
+f g f g h h!iwj_h_ i h g. g. ::
+Tu, Dó -- mi -- ne, * ser -- vá -- bis nos,
+et cu -- stó -- di -- es nos in ae -- tér -- num.
+
 % laudes
 
 \score
@@ -36,6 +60,56 @@ annotation: 3. ant.
 annotation: IV e
 c4 h g h gf () e f g f e. ::
 RE -- ctos de -- cet * col -- lau -- dá -- ti -- o.
+
+\score
+id: lb
+book: PM 143
+mode: 7
+annotation: ad Ben.
+annotation: VII a
+c3 e g h i h g h_i i. ,
+ji~ j kj i. i. ;
+j> iv_HF h' h g. ,
+iv_HF g fg e. e. ::
+E -- ré -- xit Dó -- mi -- nus no -- bis *
+cor -- nu sa -- lú -- tis
+in do -- mo Da -- vid
+pú -- e -- ri su -- i.
+
+% hora media
+
+\score
+id: m1
+book: PM 261
+mode: 8
+annotation: 1. ant.
+annotation: VIII g
+c4 g gj h g h> g g_' ,
+f g h' i hg h g g. ::
+BE -- á -- ti qui ám -- bu -- lant *
+in le -- ge tu -- a, Dó -- mi -- ne.
+
+\score
+id: m2
+book: PM 14
+mode: 2
+annotation: 2. ant.
+annotation: II d
+f3 f h g h g f_' ,
+f hg f fe f gh f. f. ::
+CAn -- tá -- bo Dó -- mi -- no, *
+qui bo -- na trí -- bu -- it mi -- hi.
+
+\score
+id: m3
+book: PM 15
+mode: 2
+annotation: 3. ant.
+annotation: II d
+f3 h g h' () f g f' e g f. ,
+f e' f h g' e gh f. ::
+DO -- mi -- nus * de cae -- lo pro -- spé -- xit
+su -- per fí -- li -- os hó -- mi -- num.
 
 % vesperae
 
@@ -79,3 +153,16 @@ in sán -- gui -- ne tu -- o,
 ex o -- mni tri -- bu, et lin -- gua
 et pó -- pu -- lo, et na -- ti -- ó -- ne:
 et fe -- cís -- ti nos De -- o nos -- tro reg -- num.
+
+\score
+id: vm
+book: PM 323
+mode: 5
+annotation: ad Magn.
+annotation: V a
+c3 f d f' () h hg f h_' h_ ,
+i> h' g f f_e_ f_' ,
+f h e e d. d. ::
+EX -- súl -- tet * spí -- ri -- tus me -- us
+in Dó -- mi -- no De -- o
+sa -- lu -- tá -- ri me -- o.
