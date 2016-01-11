@@ -112,7 +112,8 @@ et sa -- lus me -- a Dó -- mi -- nus
 
 \score
 id: v2
-book: Officium majoris hebdomadae, Desclée 1925, 569 (I don't have access to the 1957 HS)
+book: Officium majoris hebdomadae, Desclée 1925, 569
+% I don't have access to the 1957 HS referenced in OCO
 mode: 4
 annotation: 2. ant.
 annotation: IV e
