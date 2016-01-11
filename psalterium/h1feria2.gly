@@ -61,14 +61,12 @@ in au -- la sanc -- ta e -- ius.
 
 \score
 id: lb
-book: PM 45
-mode: 8
+book: PM 116
+mode: 6
 annotation: ad Ben.
-annotation: VIII g
-c4 f fg g fh j k j_' ,
-j i> h j_h_ i_h_ g. g. ::
-AD -- o -- rá -- te Dó -- mi -- num *
-in au -- la sanc -- ta e -- ius.
+annotation: VI f
+c4 f g hfg f_gFD' () f g h gf f. ::
+BE -- ne -- díc -- tus * De -- us I -- sra -- el.
 
 % hora media
 
