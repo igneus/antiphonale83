@@ -56,18 +56,22 @@ class PsalterBuilder
     puts '\section{%s}' % doc.header['title']
     puts
 
+    hour 'Officium lectionis'
+    3.times {|i| antiphon "ol#{i+1}", doc }
+    puts
+
     hour 'Laudes matutinae'
-    %w(l1 l2 l3).each {|aid| antiphon aid, doc }
+    3.times {|i| antiphon "l#{i+1}", doc }
     antiphon 'lb', doc, repeated: true
     puts
 
     hour 'Hora media'
-    %w(m1 m2 m3).each {|aid| antiphon aid, doc }
+    3.times {|i| antiphon "m#{i+1}", doc }
     puts
 
     unless File.basename(doc.path).include? 'sabbato'
       hour 'Vesperae'
-      %w(v1 v2).each {|aid| antiphon aid, doc }
+      2.times {|i| antiphon "v#{i+1}", doc }
       antiphon 'v3', doc, repeated: true
       antiphon 'vm', doc, repeated: true
     end
