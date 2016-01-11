@@ -74,8 +74,8 @@ class PsalterBuilder
       2.times {|i| antiphon "v#{i+1}", doc }
       antiphon 'v3', doc, repeated: true
       antiphon 'vm', doc, repeated: true
+      puts
     end
-    puts
   end
 
   def hour(t)
