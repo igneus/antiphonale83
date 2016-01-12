@@ -2,6 +2,19 @@
 title: Feria V
 subtitle: Hebdomada I
 
+% officium lectionis
+
+\score
+id: ol1
+book: PM 22
+mode: 7
+annotation: 1. ant.
+annotation: VII c2
+c3 g h i' j i. ,
+i_h_ f h g_f_ e_' f e d ef f e. e. ::
+VI -- vit Dó -- mi -- nus *
+et be -- ne -- díc -- tus De -- us sa -- lú -- tis me -- ae.
+
 % laudes
 
 \score
@@ -32,6 +45,53 @@ annotation: 3. ant.
 annotation: I a
 c4 hg~ h g g e_' () e f ge gh fe d. d. ::
 MA -- gnus Dó -- mi -- nus * et lau -- dá -- bi -- lis ni -- mis.
+
+\score
+id: lb
+book: PM 202
+mode: 7
+annotation: ad Ben.
+annotation: VII a
+c3 e g h i_' i_ () i i j h i h g. ;
+h ij i h g e_' f g h f f e. e. ::
+IN sanc -- ti -- tá -- te * ser -- vi -- á -- mus Dó -- mi -- no,
+et li -- be -- rá -- bit nos ab i -- ni -- mí -- cis no -- stris.
+
+% hora media
+
+\score
+id: m1
+book: PM 262
+mode: 8
+annotation: 1. ant.
+annotation: VIII g
+c4 f_g g ,
+h j jkj ij h> g hi g hg f gh h g. ::
+VI -- vam, *
+et cu -- stó -- di -- am ser -- mó -- nes tu -- os, Dó -- mi -- ne.
+
+\score
+id: m2
+book: PM 38
+% OCO has unusual notice: "ex liturgia ambrosiana"
+mode: 1
+annotation: 2. ant.
+annotation: I f
+c4 d d c f g f gh h. ,
+ge~ gh> fe> d. d. ::
+QUI te ex -- spéc -- tant, Dó -- mi -- ne, *
+non con -- fun -- dén -- tur.
+
+\score
+id: m3
+book: PM 38
+mode: 4
+annotation: 3. ant.
+annotation: IV e
+c4 e' d e gh h_' ,
+h> g f g f e. ::
+O -- cu -- li me -- i *
+sem -- per ad Dó -- mi -- num.
 
 % vesperae
 
@@ -75,3 +135,18 @@ DE -- dit e -- i Dó -- mi -- nus *
 po -- te -- stá -- tem et ho -- nó -- rem et re -- gnum;
 et o -- mnes pó -- pu -- li, tri -- bus et lin -- guae
 ip -- si sér -- vi -- ent.
+
+\score
+id: vm
+book: PM 331
+mode: 8
+annotation: ad Magn.
+annotation: VIII g
+c4 f fg g hg fg g. ,
+h j i j h' h g. ;
+h j i' j> h' h> g_h_g_. ,
+e_f gh h> g. ::
+RE -- spé -- xit Dó -- mi -- nus *
+hu -- mi -- li -- tá -- tem me -- am,
+et fe -- cit in me ma -- gna
+qui po -- tens est.
