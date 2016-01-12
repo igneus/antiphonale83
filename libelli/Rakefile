@@ -10,7 +10,7 @@ namespace :libelli do
 
     file target => [script, 'header.tex'] + music do |t|
       sh "ruby #{script} > #{tex}"
-      sh "lualatex #{tex}"
+      2.times { sh "lualatex #{tex}" }
     end
 
     desc description

@@ -23,6 +23,11 @@ class PsalterBuilder
 
     week = 0
     @documents.keys.sort.each do |k|
+      if k.include? 'responsoria'
+        Gly::DocumentGabcConvertor.new(@documents[k]).convert
+        next
+      end
+
       w = k[1].to_i
       if w != week
         puts '\chapter{%s}' % "Hebdomada #{roman(w)}"
@@ -30,8 +35,10 @@ class PsalterBuilder
       end
 
       doc = @documents[k]
+      base_week = week > 2 ? week - 2 : week
+      resp_doc = @documents["h#{base_week}responsoria.gly"]
 
-      day doc
+      day doc, resp_doc
     end
 
     footer
@@ -46,12 +53,15 @@ class PsalterBuilder
   end
 
   def footer
+    puts '\tableofcontents'
     puts '\end{document}'
   end
 
-  def day(doc)
+  def day(doc, resp_doc)
     convertor = Gly::DocumentGabcConvertor.new(doc)
     convertor.convert
+
+    resp_id_base = File.basename(doc.path, '.gly')[2..-1]
 
     puts '\section{%s}' % doc.header['title']
     puts
@@ -62,6 +72,7 @@ class PsalterBuilder
 
     hour 'Laudes matutinae'
     3.times {|i| antiphon "l#{i+1}", doc }
+    responsory "#{resp_id_base}l", resp_doc
     antiphon 'lb', doc, repeated: true
     puts
 
@@ -73,6 +84,7 @@ class PsalterBuilder
       hour 'Vesperae'
       2.times {|i| antiphon "v#{i+1}", doc }
       antiphon 'v3', doc, repeated: true
+      responsory "#{resp_id_base}l", resp_doc
       antiphon 'vm', doc, repeated: true
       puts
     end
@@ -127,6 +139,8 @@ class PsalterBuilder
     puts "\\includescore{#{gtex_fname}}"
     puts '\vspace{3mm}'
   end
+
+  alias_method :responsory, :antiphon
 end
 
 PsalterBuilder.new.build!

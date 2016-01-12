@@ -1,0 +1,77 @@
+\header
+title: Responsoria brevia de psalterio
+subtitle: hebdomada I + III
+
+% feria IV
+
+\score
+id: feria4l
+book: PM 170
+mode: 6
+annotation: R. br. VI
+c4 f f f g f f g_h h. ;
+g f gh g f g g. f. ::
+In -- clí -- na cor me -- um, De -- us, *
+In te -- sti -- mó -- ni -- a tu -- a.
+h ixhi g gh g_' ,
+g g f gh h. ::
+!<sp>V.</sp> In vi -- a tu -- a
+vi -- ví -- fi -- ca me.
+h h h ixhi h_' g gh g g_' ,
+g g h g gf g g.h. ::
+!<sp>V.</sp> Gló -- ri -- a Pa -- tri, et Fí -- li -- o,
+et Spi -- rí -- tu -- i Sanc -- to.
+
+\score
+id: feria4v
+book: PM 330
+mode: 6
+annotation: R. br. VI
+c4 f f f f g gh h. ;
+g f gh g_f_ g g. f. ::
+RE -- di -- me me, Dó -- mi -- ne, *
+Et mi -- se -- ré -- re me -- i.
+f f f f g f f ,
+f f f g_h h. ::
+!<sp>V.</sp> Ne per -- das cum ím -- pi -- is
+á -- ni -- mam me -- am.
+f f f gh h_' h ixhi h h_' ,
+h h h g h gf~ f. ::
+!<sp>V.</sp> Gló -- ri -- a Pa -- tri, et Fí -- li -- o,
+et Spi -- rí -- tu -- i Sanc -- to.
+
+% feria V
+
+\score
+id: feria5l
+book: PM 201
+mode: 6
+annotation: R. br. VI
+c4 f g f' f f f f f g_h h.g. ;
+fg h g fg g f f. ::
+CLa -- má -- vi in to -- to cor -- de me -- o: *
+Ex -- áu -- di me, Dó -- mi -- ne.
+f f f f f f f g f_' f g_h h.g. ::
+!<sp>V.</sp> Iu -- sti -- fi -- ca -- ti -- ó -- nes tu -- as ser -- vá -- bo.
+f f f gh h_' h ixhi h h_' ,
+h h h g h gf~ f. ::
+!<sp>V.</sp> Gló -- ri -- a Pa -- tri, et Fí -- li -- o,
+et Spi -- rí -- tu -- i Sanc -- to.
+
+\score
+id: feria5v
+book: PM 337
+mode: 6
+annotation: R. br. VI
+c4 f g f f g gh h.g. ;
+f gh g f g g. f. ::
+CI -- bá -- vit nos Dó -- mi -- nus *
+Ex á -- di -- pe fru -- mén -- ti.
+f f g f_' ,
+f f f f g gh h.g. ::
+!<sp>V.</sp> Et de pe -- tra
+mel -- le sa -- tu -- rá -- vit nos.
+f f f gh h_' h ixhi h h_' ,
+h h h g h gf~ f. ::
+!<sp>V.</sp> Gló -- ri -- a Pa -- tri, et Fí -- li -- o,
+et Spi -- rí -- tu -- i Sanc -- to.
