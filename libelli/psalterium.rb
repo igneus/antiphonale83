@@ -84,7 +84,7 @@ class PsalterBuilder
       hour 'Vesperae'
       2.times {|i| antiphon "v#{i+1}", doc }
       antiphon 'v3', doc, repeated: true
-      responsory "#{resp_id_base}l", resp_doc
+      responsory "#{resp_id_base}v", resp_doc
       antiphon 'vm', doc, repeated: true
       puts
     end
