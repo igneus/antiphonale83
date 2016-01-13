@@ -75,3 +75,59 @@ f f f gh h_' h ixhi h h_' ,
 h h h g h gf~ f. ::
 !<sp>V.</sp> Gló -- ri -- a Pa -- tri, et Fí -- li -- o,
 et Spi -- rí -- tu -- i Sanc -- to.
+
+% feria VI
+
+\score
+id: feria6l
+book: PM 229
+mode: 6
+annotation: R. br. VI
+c4 f f f f g f g_h h. ;
+g f gh g f g g. f. ::
+AU -- dí -- tam fac mi -- hi ma -- ne *
+Mi -- se -- ri -- cór -- di -- am tu -- am.
+f f f f f g f_' ,
+f f' g gh h. ::
+!<sp>V.</sp> No -- tam fac mi -- hi vi -- am
+in qua ám -- bu -- lem.
+f f f gh h_' h ixhi h h_' ,
+h h h g h gf~ f. ::
+!<sp>V.</sp> Gló -- ri -- a Pa -- tri, et Fí -- li -- o,
+et Spi -- rí -- tu -- i Sanc -- to.
+
+\score
+id: feria6v
+book: PM 343
+mode: VI
+annotation: R. br. VI
+c4 f f f g f f' f g gh h.g. ;
+f_g h g fg g. f. ::
+CHri -- stus di -- lé -- xit nos et la -- vit nos *
+In sán -- gui -- ne su -- o.
+f f f f f f g f_' ,
+f f f g gh h.g. ::
+!<sp>V.</sp> Et fe -- cit nos De -- o re -- gnum
+et sa -- cer -- dó -- ti -- um.
+f f f gh h_' h ixhi h h_' ,
+h h h g h gf~ f. ::
+!<sp>V.</sp> Gló -- ri -- a Pa -- tri, et Fí -- li -- o,
+et Spi -- rí -- tu -- i Sanc -- to.
+
+\score
+id: sabbatol
+book: PM 258
+mode: 6
+annotation: R. br. VI
+c4 f f f g f g gh h. ;
+g f gh g f g g. f. ::
+CLa -- má -- vi ad te, Dó -- mi -- ne; *
+Tu es re -- fú -- gi -- um me -- um.
+f f f g f_' ,
+f f f f g gh h. ::
+!<sp>V.</sp> Pór -- ti -- o me -- a
+in ter -- ra vi -- vén -- ti -- um.
+f f f gh h_' h ixhi h h_' ,
+h h h g h gf~ f. ::
+!<sp>V.</sp> Gló -- ri -- a Pa -- tri, et Fí -- li -- o,
+et Spi -- rí -- tu -- i Sanc -- to.
