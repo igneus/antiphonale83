@@ -2,6 +2,21 @@
 title: Feria VI
 subtitle: Hebdomada I
 
+% officium lectionis
+
+\score
+id: ol1
+book: AM 400
+mode: 8
+annotation: 1. ant.
+annotation: VIII g
+c4 h f fg () ggf~ gh h g. ;
+f_h j_ ji/jkj_1' ,
+h gf g_h i> h' g fg g. ::
+JU -- di -- ca * cau -- sam me -- am:
+de -- fén -- de,
+qui -- a po -- tens es Dó -- mi -- ne.
+
 % laudes
 
 \score
@@ -32,6 +47,56 @@ annotation: 3. ant.
 annotation: IV*
 c4 e f g f de e_' () e e_f d_f e. ::
 IU -- bi -- lá -- te De -- o, * o -- mnis ter -- ra.
+
+\score
+id: lb
+book: PM 230
+mode: 5
+annotation: ad Ben.
+annotation: V a
+c3 d fh h hg fe~ h_hi h ()
+i h> gh f e f e ed~ e ef d. d. ::
+VI -- si -- tá -- vit et fe -- cit *
+re -- dem -- pti -- ó -- nem Dó -- mi -- nus ple -- bis su -- ae.
+
+% hora media
+
+\score
+id: m1
+book: PM 263
+mode: 4
+annotation: 1. ant.
+annotation: IV*
+c4 f d e f g g fvED ,
+f g h h hvGF g gf~ e. e. ::
+GRes -- sus me -- os dí -- ri -- ge *
+se -- cún -- dum e -- ló -- qui -- um tu -- um.
+
+\score
+id: m2
+book: PM 40
+mode: 2
+annotation: 2. ant.
+annotation: II* d
+c4 d c d f e f' g fe d e d_c_ ,
+f g' h g fe d_g g. ;
+g g h g f' f e' f g fe d. d. ::
+MI -- se -- ri -- cór -- di -- a tu -- a, Dó -- mi -- ne, *
+an -- te ó -- cu -- los me -- os,
+et com -- plá -- cu -- i in ve -- ri -- tá -- te tu -- a.
+
+\score
+id: m3
+book: AM 399
+mode: 2
+annotation: 3. ant.
+annotation: II d
+f3 f!gwh f f fg f_' ,
+f f' e f_h g e. e. ;
+g' i h' f h_i g' h> f. f. ::
+DO -- mi -- nus De -- us *
+au -- xi -- li -- á -- tor me -- us:
+et í -- de -- o non sum con -- fú -- sus.
 
 % vesperae
 
@@ -69,3 +134,22 @@ OM -- nes gen -- tes, *
 quas -- cúm -- que fe -- cí -- sti,
 vé -- ni -- ent et a -- do -- rá -- bunt
 co -- ram te, Dó -- mi -- ne.
+
+\score
+id: vm
+book: PM 345
+mode: 7
+annotation: ad Magn.
+annotation: VII a
+c3 e_f hg hi~ i/jji i_' ,
+j k j ih ij j> i. i. ;
+e -ehg~ h ij j i_' ,
+h j k j ih ij j i. i. ;
+i g ij i h h gih. ,
+f_e_ f!gwh_f_ g> e de e. ::
+SU -- scé -- pit De -- us *
+I -- sra -- el pú -- e -- rum su -- um,
+si -- cut lo -- cú -- tus est
+ad A -- bra -- ham, et se -- men e -- ius:
+ex -- al -- tá -- re hú -- mi -- les
+us -- que in saé -- cu -- lum.
