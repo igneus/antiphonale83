@@ -2,6 +2,28 @@
 title: Sabbato
 subtitle: Hebdomada I
 
+% officium lectionis
+
+\score
+id: ol1
+book: PM 319
+mode: 1
+annotation: 1. ant.
+annotation: I g
+c4 f_g h g_' ,
+h g_f_ e f g e fe d. d. ::
+DO -- mi -- ne, *
+non est ex -- al -- tá -- tum cor me -- um.
+
+\score
+id: ol2
+book: PM 319
+mode: E
+annotation: 2. ant.
+annotation: E
+c4 h h> g' () g f g h' ixi g ixi h. ::
+ET o -- mnis * man -- su -- e -- tú -- di -- nis e -- ius.
+
 % laudes
 
 \score
@@ -34,3 +56,57 @@ annotation: 3. ant.
 annotation: E
 c4 f h' ixi gh g f' () f gh~ h. h. ::
 LAu -- dá -- te Dó -- mi -- num, * o -- mnes gen -- tes.
+
+\score
+id: lb
+book: PM 260
+mode: 8
+annotation: ad Ben.
+annotation: VIII g
+c4 g g gj h gf g_h_g_ fg g_' ,
+i_ j k> j h j i. i. ;
+i i j h' j g' h g_h_g_. ,
+e_f g gh> gv_FD d. ,
+g h hji h g. ::
+IL -- lu -- mi -- ná -- re, Dó -- mi -- ne, *
+his qui in té -- ne -- bris se -- dent,
+et dí -- ri -- ge pe -- des no -- stros
+in vi -- am pa -- cis,
+De -- us I -- sra -- el.
+
+% hora media
+
+\score
+id: m1
+book: PM 264
+mode: 2
+annotation: 1. ant.
+annotation: II d
+f3 f h g h g f_' ,
+f h g h g fe f g h f. f. ::
+DE -- duc me, Dó -- mi -- ne, *
+in sé -- mi -- tam man -- da -- tó -- rum tu -- ó -- rum.
+
+\score
+id: m2
+book: PM 87
+mode: 3
+annotation: 2. ant.
+annotation: III a
+c4 g hi i' () i i ih j hg g_' ,
+g h j i gh e_f g> f e' f e.d. ;
+dh h h_i g gf e. e. ::
+IM -- mít -- tet * án -- ge -- lus Dó -- mi -- ni
+in cir -- cú -- i -- tu ti -- mén -- ti -- um e -- um
+et e -- rí -- pi -- et e -- os.
+
+\score
+id: m3
+book: PM 87
+mode: 7
+annotation: 3. ant.
+annotation: VII a
+c3 e e -ehg h ih ij i_' ,
+i hgh fe e_' f ed~ ef f e. e. ::
+CLa -- ma -- vé -- runt ius -- ti, *
+et Dó -- mi -- nus ex -- au -- dí -- vit e -- os.
