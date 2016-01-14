@@ -2,6 +2,19 @@
 title: Feria II
 subtitle: Hebdomada II
 
+% officium lectionis
+
+\score
+id: ol1
+book: PM 48
+mode: 8
+annotation: 1. ant.
+annotation: VIII g
+c3 h h g' h f e g_' ,
+g h f e f e e. ::
+In tu -- a iu -- stí -- ti -- a *
+lí -- be -- ra me, Dó -- mi -- ne.
+
 % laudes
 
 \score
@@ -39,11 +52,63 @@ annotation: I g2
 c4 f h g hg~ e () f_g e fe d. d. ::
 CAE -- li e -- nár -- rant * gló -- ri -- am De -- i.
 
+\score
+id: lb
+book: PM 115
+mode: 4
+annotation: ad Ben.
+annotation: IV*
+c4 g f ef d_' ,
+f f f e f g f g. ;
+f d e f gh h_' ,
+h g f gh gf~ e. ::
+BE -- ne -- díc -- tus *
+Dó -- mi -- nus De -- us I -- sra -- el,
+qui -- a vi -- si -- tá -- vit
+et li -- be -- rá -- vit nos.
+
+% hora media
+
+\score
+id: m1
+book: PM 265
+mode: 7
+annotation: 1. ant.
+annotation: VII a
+c3 e f h h h ij i. ,
+ih~ f h gf e_f d f h_f_ g_f_ e. e. ::
+TU man -- dá -- sti, Dó -- mi -- ne, *
+man -- dá -- ta tu -- a cu -- sto -- dí -- ri ni -- mis.
+
+\score
+id: m2
+book: PM 98
+mode: 8
+annotation: 2. ant.
+annotation: VIII g
+c4 g gj hg h_' ,
+g h gf g_h g' h j i j k ji hg h i hg g. ::
+RE -- spé -- xit me, *
+et ex -- au -- dí -- vit de -- pre -- ca -- ti -- ó -- nem me -- am Dó -- mi -- nus.
+
+\score
+id: m3
+book: PM 99
+mode: 2
+annotation: 3. ant.
+annotation: II d
+f3 f f!gh f f_' () f f fg f f_' ,
+f e f h g e. ;
+g i hf hh g_h ih f ef f. ::
+COm -- plá -- ce -- at * ti -- bi, Dó -- mi -- ne,
+ut e -- rí -- pi -- as me:
+ad ad -- iu -- ván -- dum me ré -- spi -- ce.
+
 % vesperae
 
 \score
 id: v1
-book: PM 102 (so in OCO; actually PM 103)
+book: PM 103 % OCO wrongly states PM 102
 mode: 6
 annotation: 1. ant.
 annotation: VI f
@@ -60,3 +125,15 @@ c4 f f g h> f g f. ,
 gh g f fe d' f g g f. ::
 COn -- fi -- te -- bún -- tur ti -- bi *
 pó -- pu -- li, De -- us, in ae -- tér -- num.
+
+% a3: in omnibus feriis sicut in hebdomada Ia
+
+\score
+id: vm
+book: PM 316
+mode: 4
+annotation: ad Magn.
+c4 f fe d e fg gfg d_' ,
+f gh h h gf g gf e. e. ::
+MA -- gní -- fi -- cet te sem -- per *
+á -- ni -- ma me -- a, De -- us me -- us.
