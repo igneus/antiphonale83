@@ -2,6 +2,82 @@
 title: Responsoria brevia de psalterio
 subtitle: hebdomada I + III
 
+% feria II
+
+\score
+id: feria2l
+book: PM 115
+mode: 6
+annotation: R. br. VI
+c4 f f g f' g gh h.g. ;
+f gh g f' f g fd f g f f. ::
+BE -- ne -- díc -- tus Dó -- mi -- nus *
+A saé -- cu -- lo et us -- que in saé -- cu -- lum.
+f g f_' ,
+f f f f f g_h h.g. ::
+!<sp>V.</sp> Qui fa -- cit
+mi -- ra -- bí -- li -- a so -- lus.
+f f f gh h_' h ixhi h h_' ,
+h h h g h gf~ f. ::
+!<sp>V.</sp> Gló -- ri -- a Pa -- tri, et Fí -- li -- o,
+et Spi -- rí -- tu -- i Sanc -- to.
+
+\score
+id: feria2v
+book: PM 315
+mode: 6
+annotation: R. br. VI
+c4 f f g f f g_h h. ;
+g f gh g_f_ g g. f. ::
+SA -- na á -- ni -- mam me -- am, *
+Qui -- a pec -- cá -- vi ti -- bi.
+f f f f g f f_' ,
+f f f f g_h h. ::
+!<sp>V.</sp> E -- go di -- xi: Dó -- mi -- ne,
+mi -- se -- ré -- re me -- i.
+f f f gh h_' h ixhi h h_' ,
+h h h g h gf~ f. ::
+!<sp>V.</sp> Gló -- ri -- a Pa -- tri, et Fí -- li -- o,
+et Spi -- rí -- tu -- i Sanc -- to.
+
+% feria III
+
+\score
+id: feria3l
+book: PM
+mode: 6
+annotation: R. br. VI
+c4 f f g f' f f f g_h h.g. ;
+f gh g f' g g. f. ::
+DE -- us me -- us, ad -- iú -- tor me -- us, *
+Et spe -- rá -- bo in e -- um.
+f f f f g f_'
+f f f f f g_h h.g. ::
+!<sp>V.</sp> Re -- fú -- gi -- um me -- um
+et li -- be -- rá -- tor me -- us.
+f f f gh h_' h ixhi h h_' ,
+h h h g h gf~ f. ::
+!<sp>V.</sp> Gló -- ri -- a Pa -- tri, et Fí -- li -- o,
+et Spi -- rí -- tu -- i Sanc -- to.
+
+\score
+id: feria3v
+book: PM 322
+mode: 6
+annotation: R. br. VI
+c4 f f g f g gh h. ;
+g f gh gf~ g g. f. ::
+IN ae -- tér -- num, Dó -- mi -- ne, *
+Pér -- ma -- net ver -- bum tu -- um.
+f f f f g f f_' ,
+f f f g_h h. ::
+!<sp>V.</sp> In saé -- cu -- lum saé -- cu -- li
+vé -- ri -- tas tu -- a.
+f f f gh h_' h ixhi h h_' ,
+h h h g h gf~ f. ::
+!<sp>V.</sp> Gló -- ri -- a Pa -- tri, et Fí -- li -- o,
+et Spi -- rí -- tu -- i Sanc -- to.
+
 % feria IV
 
 \score
