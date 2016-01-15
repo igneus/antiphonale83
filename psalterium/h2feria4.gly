@@ -5,6 +5,15 @@ subtitle: Hebdomada II
 % officium lectionis
 
 \score
+id: ol2
+book: PM 97
+mode: 4
+annotation: 1. ant.
+annotation: IV e
+c4 h h g h g_f_ () ef g gf e. e. ::
+UT non de -- lín -- quam * in lin -- gua me -- a.
+
+\score
 id: ol1
 book: PM 125
 mode: 8
@@ -50,6 +59,54 @@ annotation: III g
 c4 g h hj ji hg h. () gf gh gf e. e. ::
 DO -- mi -- nus re -- gná -- vit, * ex -- súl -- tet ter -- ra.
 
+\score
+id: lb
+book: PM 171
+mode: 8
+annotation: ad Ben.
+annotation: VIII g
+c4 f fg g_h g_f_ ,
+h j j_i_ hg h i h g. ,
+gf~ gh h g. g. ::
+LI -- be -- rá -- ti *
+ser -- vi -- á -- mus De -- o no -- stro
+in sanc -- ti -- tá -- te.
+
+% hora media
+
+\score
+id: m1
+book: PM 266
+mode: 8
+annotation: 1. ant.
+annotation: VIII g
+c4 g g h h g g_f_ () gh j i h j i_' ,
+g h h g. g. ::
+TU -- am di -- sci -- plí -- nam * do -- ce me, Dó -- mi -- ne,
+in le -- ge tu -- a.
+
+\score
+id: m2
+book: PM 129
+mode: 5
+annotation: 2. ant.
+annotation: V a
+c3 h hg f h h_' ,
+h h g> f e f e d. ::
+IN -- tén -- de in me *
+et ex -- áu -- di me, Dó -- mi -- ne.
+
+\score
+id: m3
+book: PM 158
+mode: 8
+annotation: 3. ant.
+annotation: VIII c
+c4 j j' j jv_IH () i_h i g_h g. ,
+j_k j ikjjo h f g. g. ::
+DE -- us me -- us, * é -- ri -- pe me
+de ma -- nu pec -- ca -- tó -- ris.
+
 % vesperae
 
 \score
@@ -73,3 +130,18 @@ c4 f_g g () h j i j h' j i_' ,
 h hg h i h g. ::
 DE -- us * mi -- se -- re -- á -- tur no -- stri, *
 et be -- ne -- dí -- cat nos.
+
+\score
+id: vm
+book: PM 338
+mode: 7
+annotation: ad Magn.
+annotation: VII c
+c3 i h g' h iji> hi i. ,
+i_0!jl~ lk j j i. i. ;
+g iji h' f hh g_' ,
+h ih f> f e de e. ::
+FAC, De -- us, po -- tén -- ti -- am *
+in brá -- chi -- o tu -- o:
+dis -- pér -- de su -- pér -- bos,
+et ex -- ál -- ta hú -- mi -- les.
