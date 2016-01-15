@@ -2,6 +2,17 @@
 title: Feria III
 subtitle: Hebdomada II
 
+% officium lectionis
+
+\score
+id: ol1
+book: PM 91
+mode: 6
+annotation: 1. ant.
+annotation: VI f
+c4 fg h f' () g fe d' f g g f. ::
+RE -- vé -- la * Dó -- mi -- no vi -- am tu -- am.
+
 % laudes
 
 \score
@@ -33,6 +44,52 @@ annotation: VIII g
 c3 h hg f_' () f e' f e' f de e. ::
 TE de -- cet * hym -- nus, De -- us, in Si -- on.
 
+\score
+id: lb
+book: PM 171
+mode: 1
+annotation: ad Ben.
+annotation: I g2
+c4 f h g h> fg g_' () d f f e f_' ,
+g g e fe d cd d. ::
+DE m -- anu ó -- mni -- um * qui o -- dé -- runt nos
+lí -- be -- ra nos, Dó -- mi -- ne.
+
+% hora media
+
+\score
+id: m1
+book: PM 266
+mode: 8
+annotation: 1. ant.
+annotation: VIII g
+c4 f fg g_' g_ () f h j ji j_k i_j h_' h_ ,
+g h g f gh h g. g. ::
+ME -- mor es -- to * ver -- bi tu -- i ser -- vo tu -- o
+in quo mi -- hi spem de -- dí -- sti.
+
+\score
+id: m2
+book: PM 127
+mode: 8
+annotation: 2. ant.
+annotation: VIII g
+c4 g f' h j j i_' ,
+g i' j h h i' h g. g. ::
+A -- vér -- tit Dó -- mi -- nus *
+cap -- ti -- vi -- tá -- tem ple -- bis su -- ae.
+
+\score
+id: m3
+book: PM 128
+mode: 8
+annotation: 3. ant.
+annotation: VIII g
+c4 g h gf~ g h g_' ,
+f g h j i h' j i_h_ g h h g. g. ::
+DE -- us ád -- iu -- vat me, *
+et Dó -- mi -- nus sus -- cép -- tor est á -- ni -- mae me -- ae.
+
 % vesperae
 
 \score
@@ -60,3 +117,16 @@ THe -- sau -- ri -- zá -- te vo -- bis *
 the -- sáu -- ros in cae -- lo,
 u -- bi nec ae -- rú -- go,
 nec tí -- ne -- a de -- mo -- lí -- tur.
+
+\score
+id: vm
+book: PM 323
+mode: 8
+annotation: ad Magn.
+annotation: VIII g
+c4 g gj hg h_' () g h gf g h j_k ji jkkj. ;
+j k i j h' j g/hih_1' ,
+g e' f gh h> g. g. ::
+MA -- gní -- fi -- cat * á -- ni -- ma me -- a Dó -- mi -- num,
+qui -- a re -- spé -- xit De -- us
+hu -- mi -- li -- tá -- tem me -- am.
