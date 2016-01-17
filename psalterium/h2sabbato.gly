@@ -71,3 +71,42 @@ c4 f gh h h ghg_1' ,
 e f g fe d cd d. ::
 IN vi -- am pa -- cis *
 dí -- ri -- ge nos, Dó -- mi -- ne.
+
+% hora media
+
+\score
+id: m1
+book: PM 269
+mode: 7
+annotation: 1. ant.
+annotation: VII a
+c3 e -ehg~ h _ij i_' ,
+i h f h gf e de e. ::
+IN ver -- bum tu -- um *
+su -- per -- spe -- rá -- vi, Dó -- mi -- ne.
+
+\score
+id: m2
+book: PM 146
+mode: 8
+annotation: 2. ant.
+annotation: VIII g
+c4 g j i_g_ ,
+ij h g h_g_ f. ;
+fh j j i_g_ ,
+i' j h h i' h g. ::
+DE -- dí -- sti *
+he -- re -- di -- tá -- tem
+ti -- mén -- ti -- bus
+no -- men tu -- um, Dó -- mi -- ne.
+
+\score
+id: m3
+book: PM 165
+mode: 2
+annotation: 3. ant.
+annotation: II d
+f3 h g h_g_ f' () h g hg f. ,
+f e f h h g fe f gh f. f. ::
+A ti -- mó -- re * i -- ni -- mí -- ci
+é -- ri -- pe, Dó -- mi -- ne, á -- ni -- mam me -- am.
