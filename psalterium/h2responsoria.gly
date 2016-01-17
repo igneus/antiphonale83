@@ -1,3 +1,271 @@
 \header
 title: Responsoria brevia de psalterio
 subtitle: hebdomada II + IV
+
+% dominica
+
+\score
+id: dominicavi
+book: PM 350
+mode: VI
+annotation: R. br. VI
+c4 f f f g f f f f f g_h h.g. ;
+f gh g f f g g f f. ::
+A so -- lis or -- tu us -- que ad oc -- cá -- sum, *
+Lau -- dá -- bi -- le no -- men Dó -- mi -- ni.
+h h ixhi g_' ,
+h g f g_h h.g. ::
+!<sp>V.</sp> Su -- per cae -- los
+gló -- ri -- a e -- ius.
+h h h ixhi h_' g gh g g_' ,
+g g h g gf g g.h. ::
+!<sp>V.</sp> Gló -- ri -- a Pa -- tri, et Fí -- li -- o,
+et Spi -- rí -- tu -- i Sanc -- to.
+
+\score
+id: dominical
+book: PM 80
+mode: VI
+annotation: R. br. VI
+c4 f f g f f f f g_h h. ;
+g f g h g f f g g. f. ::
+COn -- fi -- té -- bi -- mur ti -- bi, De -- us, *
+Et in -- vo -- cá -- bi -- mus no -- men tu -- um.
+h ixhi g g_' ,
+g g h g f g_h h. ::
+!<sp>V.</sp> Nar -- rá -- bi -- mus
+mi -- ra -- bí -- li -- a tu -- a.
+h h h ixhi h_' g gh g g_' ,
+g g h g f' g g.h. ::
+!<sp>V.</sp> Gló -- ri -- a Pa -- tri, et Fí -- li -- o,
+et Spi -- rí -- tu -- i Sanc -- to.
+
+\score
+id: dominicav
+book: PM 350
+mode: VI
+annotation: R. br. VI
+c4 f f fg g gf g g.h. ;
+g f gh gv_FD fg g. f. ::
+MA -- gnus Dó -- mi -- nus no -- ster, *
+Et ma -- gna vir -- tus e -- ius.
+h h h ixhi h g gh g_' ,
+g g gf g g.h. ::
+!<sp>V.</sp> Et sa -- pi -- én -- ti -- ae e -- ius
+non est nú -- me -- rus.
+h h h ixhi h_' g gh g g_' ,
+g g h g gf g g.h. ::
+!<sp>V.</sp> Gló -- ri -- a Pa -- tri, et Fí -- li -- o,
+et Spi -- rí -- tu -- i Sanc -- to.
+
+% feria II
+
+\score
+id: feria2l
+book: PM 115
+mode: VI
+annotation: R. br. VI
+c4 f f f f g f' f g gh h.g. ;
+f gh g f' f g g f f. ::
+EX -- sul -- tá -- te, iu -- sti, in Dó -- mi -- no: *
+Rec -- tos de -- cet col -- lau -- dá -- ti -- o.
+h ixhi g gh g_' ,
+h g f g_h h.g. ::
+!<sp>V.</sp> Can -- tá -- te e -- i
+cán -- ti -- cum no -- vum.
+h h h ixhi h_' g gh g g_' ,
+g g h g gf g g.h. ::
+!<sp>V.</sp> Gló -- ri -- a Pa -- tri, et Fí -- li -- o,
+et Spi -- rí -- tu -- i Sanc -- to.
+
+\score
+id: feria2v
+book: PM 337
+mode: VI
+annotation: R. br. VI
+c4 f f g f' g gh h. ;
+g f gh g f g g. f. ::
+DI -- ri -- gá -- tur, Dó -- mi -- ne, *
+Ad te o -- rá -- ti -- o me -- a.
+h h h ixhi g_' ,
+g g h gf g_h h. ::
+!<sp>V.</sp> Si -- cut in -- cén -- sum
+in con -- spéc -- tu tu -- o.
+h h h ixhi h_' g gh g g_' ,
+g g h g gf g g.h. ::
+!<sp>V.</sp> Gló -- ri -- a Pa -- tri, et Fí -- li -- o,
+et Spi -- rí -- tu -- i Sanc -- to.
+
+% feria III
+
+\score
+id: feria3l
+book: PM 142
+mode: VI
+annotation: R. br. VI
+c4 f f f f g f g gh h. ;
+g f g h g fd f g g. f. ::
+VO -- cem me -- am au -- di, Dó -- mi -- ne, *
+In ver -- ba tu -- a su -- per -- spe -- rá -- vi.
+f f f f g f f_' ,
+f f g_h h. ::
+!<sp>V.</sp> Prae -- vé -- ni di -- lú -- cu -- lo
+et cla -- má -- vi.
+f f f gh h_' h ixhi h h_' ,
+h h h g h gf~ f. ::
+!<sp>V.</sp> Gló -- ri -- a Pa -- tri, et Fí -- li -- o,
+et Spi -- rí -- tu -- i Sanc -- to.
+
+\score
+id: feria3v
+book: PM 322
+mode: VI
+annotation: R. br. VI
+c4 f f g f f f g gh h. ;
+g f gh g_f_ g g f f. ::
+AD -- im -- plé -- bis me lae -- tí -- ti -- a *
+Cum vul -- tu tu -- o, Dó -- mi -- ne.
+h h h h ixhi h h h g g gh g. ,
+h g' f g_h h. ::
+!<sp>V.</sp> De -- lec -- ta -- ti -- ó -- nes in déx -- te -- ra tu -- a
+us -- que in fi -- nem.
+h h h ixhi h_' g gh g g_' ,
+g g h g gf g g.h. ::
+!<sp>V.</sp> Gló -- ri -- a Pa -- tri, et Fí -- li -- o,
+et Spi -- rí -- tu -- i Sanc -- to.
+
+% feria IV
+
+\score
+id: feria4l
+book: PM 170
+mode: VI
+annotation: R. br. VI
+c4 f f g f' g gh h.g. ;
+f_h g_f_ g g' f f. ::
+BE -- ne -- dí -- cam Dó -- mi -- num *
+In o -- mni tém -- po -- re.
+f f f' g f_' ,
+f f' f g_h h.g. ::
+!<sp>V.</sp> Sem -- per laus e -- ius
+in o -- re me -- o.
+f f f gh h_' h ixhi h h_' ,
+h h h g h gf~ f. ::
+!<sp>V.</sp> Gló -- ri -- a Pa -- tri, et Fí -- li -- o,
+et Spi -- rí -- tu -- i Sanc -- to.
+
+\score
+id: feria4v
+book: PM 331
+mode: VI
+annotation: R. br. VI
+c4 f g f f' g gh h.g. ;
+f gh g_f_ g g f f. ::
+CU -- stó -- di nos, Dó -- mi -- ne, *
+Ut pu -- píl -- lam ó -- cu -- li.
+h ixhi h h h h' g gh g_' ,
+g f gh h.g. ::
+!<sp>V.</sp> Sub um -- bra a -- lá -- rum tu -- á -- rum
+pró -- te -- ge nos.
+h h h ixhi h_' g gh g g_' ,
+g g h g gf g g.h. ::
+!<sp>V.</sp> Gló -- ri -- a Pa -- tri, et Fí -- li -- o,
+et Spi -- rí -- tu -- i Sanc -- to.
+
+% feria V
+
+\score
+id: feria5l
+book: PM 201
+mode: VI
+annotation: R. br. VI
+c4 f f f g f' g gh h.g. ;
+f gh g_f_ g g. f. ::
+IN ma -- tu -- tí -- nis, Dó -- mi -- ne, *
+Me -- di -- tá -- bor de te.
+h h ixhi g g_' ,
+h g f g_h h.g. ::
+!<sp>V.</sp> Qui -- a fac -- tus es
+ad -- iú -- tor me -- us.
+h h h ixhi h_' g gh g g_' ,
+g g h g gf g g.h. ::
+!<sp>V.</sp> Gló -- ri -- a Pa -- tri, et Fí -- li -- o,
+et Spi -- rí -- tu -- i Sanc -- to.
+
+\score
+id: feria5v
+book: PM 315
+mode: VI
+annotation: R. br. VI
+c4 f f f' g gh h. ;
+g f gh g_f_ g g f f. ::
+DO -- mi -- nus pas -- cit me, *
+Et ni -- hil mi -- hi dé -- e -- rit.
+h ixhi h h' g gh g g_' ,
+h g f gh h. ::
+!<sp>V.</sp> In pás -- cu -- is vi -- rén -- ti -- bus
+me col -- lo -- cá -- vit.
+h h h ixhi h_' g gh g g_' ,
+g g h g gf g g.h. ::
+!<sp>V.</sp> Gló -- ri -- a Pa -- tri, et Fí -- li -- o,
+et Spi -- rí -- tu -- i Sanc -- to.
+
+% feria VI
+
+\score
+id: feria6l
+book: PM 229
+mode: VI
+annotation: R. br. VI
+c4 f f f f g f f f g gh h. ;
+g f gh g_f_ g g. f. ::
+CLa -- má -- bo ad Dó -- mi -- num al -- tís -- si -- mum, *
+Qui be -- ne -- fé -- cit mi -- hi.
+ixhi h g gh g_' ,
+g g f g gh h. ::
+!<sp>V.</sp> Mit -- tet de cae -- lo,
+et li -- be -- rá -- vit me.
+h h h ixhi h_' g gh g g_' ,
+g g h g gf g g.h. ::
+!<sp>V.</sp> Gló -- ri -- a Pa -- tri, et Fí -- li -- o,
+et Spi -- rí -- tu -- i Sanc -- to.
+
+\score
+id: feria6v
+book: PM 344
+mode: VI
+annotation: R. br. VI
+c4 f f f f g f_' ,
+f f f f g_h h. ;
+g f gh g fg g. f. ::
+MOr -- tu -- us est Chris -- tus
+pro pec -- cá -- tis nos -- tris, *
+Ut nos of -- fé -- ret De -- o.
+h h h ixhi h h g gh g_' ,
+g g g h g g f' g gh h. ::
+!<sp>V.</sp> Mor -- ti -- fi -- cá -- tus qui -- dem car -- ne,
+vi -- vi -- fi -- cá -- tus au -- tem spí -- ri -- tu.
+h h h ixhi h_' g gh g g_' ,
+g g h g gf g g.h. ::
+!<sp>V.</sp> Gló -- ri -- a Pa -- tri, et Fí -- li -- o,
+et Spi -- rí -- tu -- i Sanc -- to.
+
+% sabbato
+
+\score
+id: sabbatol
+book: PM 259
+mode: VI
+annotation: R. br. VI
+c4 f f g f f f f g_h h.g. ;
+f gh g f g g. f. ::
+EX -- sul -- tá -- bunt lá -- bi -- a me -- a, *
+Cum can -- tá -- ve -- ro ti -- bi.
+ixhi g gh g_' ,
+g g g g g g h g f g_h h.g. ::
+!<sp>V.</sp> Lin -- gua me -- a
+me -- di -- tá -- bi -- tur iu -- stí -- ti -- am tu -- am.
+h h h ixhi h_' g gh g g_' ,
+g g h g gf g g.h. ::
+!<sp>V.</sp> Gló -- ri -- a Pa -- tri, et Fí -- li -- o,
+et Spi -- rí -- tu -- i Sanc -- to.
