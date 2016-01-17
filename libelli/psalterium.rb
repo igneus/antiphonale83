@@ -71,13 +71,13 @@ class PsalterBuilder
     if doc['ol1a']
       puts '\emph{in Adventu, tempore Nativitatis, in Quadragesima et tempore paschali:}'
       puts
-      3.times {|i| antiphon "ol#{i+1}a", doc }
+      3.times {|i| antiphon "ol#{i+1}a", doc, may_not_exist: i > 0 }
       puts
       puts '\emph{tempore per annum:}'
       puts
     end
 
-    3.times {|i| antiphon "ol#{i+1}", doc }
+    3.times {|i| antiphon "ol#{i+1}", doc, may_not_exist: i > 0 }
     puts
 
     hour 'Laudes matutinae'
@@ -122,7 +122,10 @@ class PsalterBuilder
     end
 
     unless score
-      puts '\emph{Antiphona %s non est inventa.}' % aid
+      if options[:may_not_exist] != true
+        puts '\emph{Antiphona %s non est inventa.}' % aid
+      end
+
       return
     end
 
