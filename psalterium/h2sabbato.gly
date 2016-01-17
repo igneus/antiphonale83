@@ -2,6 +2,30 @@
 title: Sabbato
 subtitle: Hebdomada II
 
+% officium lectionis
+
+\score
+id: ol1a % in Adventu etc.
+book: PM 243
+mode: E
+annotation: 1. ant.
+annotation: E
+f3 h h g h f e g_' ,
+f g h f_e_ f hi g. ::
+VI -- si -- ta nos, Dó -- mi -- ne, *
+in sa -- lu -- tá -- ri tu -- o.
+
+\score
+id: ol1 % tempore per annum
+book: PM 326
+mode: 3
+annotation: 1. ant.
+annotation: III g
+c4 g h hj ji h g> gh ,
+g e f ggf~ gh gf e. e. ::
+QUó -- ni -- am * in ae -- tér -- num
+mi -- se -- ri -- cór -- di -- a e -- ius.
+
 % laudes
 
 \score
@@ -36,3 +60,14 @@ f e f g> fe d. d. ::
 QUam ad -- mi -- rá -- bi -- le est *
 no -- men tu -- um, Dó -- mi -- ne,
 in u -- ni -- vér -- sa ter -- ra.
+
+\score
+id: lb
+book: PM 260
+mode: 1
+annotation: ad Ben.
+annotation: I g
+c4 f gh h h ghg_1' ,
+e f g fe d cd d. ::
+IN vi -- am pa -- cis *
+dí -- ri -- ge nos, Dó -- mi -- ne.

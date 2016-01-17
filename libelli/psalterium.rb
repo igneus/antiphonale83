@@ -67,6 +67,16 @@ class PsalterBuilder
     puts
 
     hour 'Officium lectionis'
+
+    if doc['ol1a']
+      puts '\emph{in Adventu, tempore Nativitatis, in Quadragesima et tempore paschali:}'
+      puts
+      3.times {|i| antiphon "ol#{i+1}a", doc }
+      puts
+      puts '\emph{tempore per annum:}'
+      puts
+    end
+
     3.times {|i| antiphon "ol#{i+1}", doc }
     puts
 
