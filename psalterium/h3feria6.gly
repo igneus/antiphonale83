@@ -2,6 +2,17 @@
 title: Feria VI
 subtitle: Hebdomada III
 
+% officium lectionis
+
+\score
+id: ol1
+book: PM 154 % in OCO wrongly PM 156
+mode: 8
+annotation: 1. ant.
+annotation: VIII g
+c4 g f h j j i_' () g i' j h i h g. g. ::
+QUaé -- ri -- te Dó -- mi -- num, * et vi -- vet á -- ni -- ma ve -- stra.
+
 % laudes
 
 \score
@@ -40,6 +51,51 @@ c4 d d_c_ f g f gh h_' ,
 h g h gf~ f_' f f f e_f g fe d. d. ::
 SU -- á -- vis est Dó -- mi -- nus, *
 et in ae -- tér -- num mi -- se -- ri -- cór -- di -- a e -- ius.
+
+% hora media
+
+\score
+id: m1
+book: PM 32
+mode: 2
+annotation: 1. ant.
+annotation: II d
+f3 f e fh hg f fe h_hi h h. ;
+e ef f' e f h g h' i h h i_j_i_. ;
+e ef f e_f h g e gh f. ::
+NE dis -- cé -- das a me, Dó -- mi -- ne: *
+quó -- ni -- am tri -- bu -- lá -- ti -- o pró -- xi -- ma est,
+quó -- ni -- am non est qui ád -- iu -- vet.
+
+\score
+id: m2
+book: Officium majoris hebdomadae, Desclée 1925, 463 % should be: HS 201 
+mode: 8
+annotation: 2. ant.
+annotation: VIII
+c4 g g' h h' g g_' ,
+i h' j i' h h. ;
+h j' i jk h h_g g. ,
+g_f gh h g. g. ::
+DI -- vi -- sé -- runt si -- bi *
+ve -- sti -- mén -- ta me -- a,
+et su -- per ve -- stem me -- am
+mi -- sé -- runt sor -- tem.
+
+\score
+id: m3
+book: PM 161
+mode: 2
+annotation: 3. ant.
+annotation: II* a
+c3 f e f h h h h_j ii ,
+h' i j ih i. i. ;
+f_0i>_0 h_g_ f_e_ f_' ,
+e d e f' h f. f. ::
+BE -- ne -- di -- cén -- tur in ip -- so *
+om -- nes tri -- bus ter -- rae:
+om -- nes gen -- tes
+ma -- gni -- fi -- cá -- bunt e -- um.
 
 % vesperae
 

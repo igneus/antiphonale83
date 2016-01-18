@@ -2,6 +2,19 @@
 title: Feria IV
 subtitle: Hebdomada III
 
+% officium lectionis
+
+\score
+id: ol1
+book: PM 208
+mode: 1
+annotation: 1. ant.
+annotation: I a
+c4 h g f gh g e () fe de d c. ;
+cd f_fg f' f e f g fe d cd d. ::
+MI -- se -- ri -- cór -- di -- a * et vé -- ri -- tas
+prae -- cé -- dent fá -- ci -- em tu -- am, Dó -- mi -- ne.
+
 % laudes
 
 \score
@@ -36,6 +49,45 @@ annotation: 3. ant.
 annotation: E
 c4 h h h g h g gg () f_g ixh_i g ixi h. ::
 QUi -- a mi -- ra -- bí -- li -- a * fe -- cit Dó -- mi -- nus.
+
+% hora media
+
+\score
+id: m1
+book: AM 381
+mode: 3
+annotation: 1. ant.
+annotation: III a
+c4 g gj h g!hwi i. ,
+i_j k> j ji h ji hg g. ;
+g h' j i' h g' h h_i ,
+g gf e de e. ::
+QUI sé -- qui -- tur me, *
+non ám -- bu -- lat in té -- ne -- bris:
+sed ha -- bé -- bit lu -- men vi -- tae,
+di -- cit Dó -- mi -- nus.
+
+\score
+id: m2
+book: PM 157
+mode: 2
+annotation: 2. ant.
+annotation: II d
+f3 f h g h_g_ f_' ,
+f h g h g f f_e_ f gh f. f. ::
+DO -- mi -- ne De -- us, *
+in ad -- iu -- tó -- ri -- um me -- um in -- tén -- de.
+
+\score
+id: m3
+book: PM 176
+mode: 8
+annotation: 3. ant.
+annotation: VIII g
+c4 j ji~ hg hi h g_' ,
+g h i hg h g g. ::
+ET in -- vo -- cá -- bi -- mus *
+no -- men tu -- um, Dó -- mi -- ne.
 
 % vesperae
 

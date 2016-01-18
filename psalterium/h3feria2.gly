@@ -2,6 +2,19 @@
 title: Feria II
 subtitle: Hebdomada III
 
+% officium lectionis
+
+\score
+id: ol1
+book: PM 123
+mode: 8
+annotation: 1. ant.
+annotation: VIII g
+c3 h hg fe f e_d~ ,
+e f g' f e de e. ::
+DE -- us de -- ó -- rum, *
+Dó -- mi -- nus lo -- cú -- tus est.
+
 % laudes
 
 \score
@@ -19,7 +32,7 @@ in do -- mo tu -- a, Dó -- mi -- ne.
 id: l2
 book: AM 192
 mode: 2
-annotation: 1. ant.
+annotation: 2. ant.
 annotation: II d
 f3 f i h' () g e' f f. ;
 gf~ h' g e' e e. ,
@@ -32,12 +45,47 @@ de Je -- rú -- sa -- lem.
 id: l3
 book: PM 215
 mode: 2
-annotation: 1. ant.
+annotation: 3. ant.
 annotation: II d
 f3 f h g h g f_' ,
 f h g h g f fe f gh f. f. ::
 CAn -- tá -- te Dó -- mi -- no *
 et be -- ne -- dí -- ci -- te nó -- mi -- ni e -- ius.
+
+% hora media
+
+\score
+id: m1
+book: PM 269
+mode: 8
+annotation: 1. ant.
+annotation: VIII g
+c4 g fd e f gh h g. ,
+h j jvIH h_' i hf gh h g. g. ::
+IN ae -- tér -- num, Dó -- mi -- ne, *
+ver -- bum tu -- um pér -- ma -- net in cae -- lo.
+
+\score
+id: m2
+book: PM 48
+mode: 8
+annotation: 2. ant.
+annotation: VIII g
+c3 h h g' h f e g_' ,
+g h f e f e e. ::
+IN tu -- a iu -- stí -- ti -- a *
+lí -- be -- ra me, Dó -- mi -- ne.
+
+\score
+id: m3
+book: PM 158 % in OCO wrongly: PM 18
+mode: 1
+annotation: 3. ant.
+annotation: I g
+c4 f g h gf g f f_' ,
+f f e_f g fe d. d. ::
+E -- sto mi -- hi, Dó -- mi -- ne, *
+in De -- um pro -- tec -- tó -- rem.
 
 % vesperae
 
@@ -56,7 +104,7 @@ mi -- se -- ré -- re no -- bis.
 id: v2
 book: PM 293
 mode: 1
-annotation: 1. ant.
+annotation: 2. ant.
 annotation: I g
 c4 f g h g f' g f_' ,
 f ef g fe d cd d. ::
