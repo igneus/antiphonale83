@@ -2,6 +2,17 @@
 title: Feria III
 subtitle: Hebdomada IV
 
+% officium lectionis
+
+\score
+id: ol1
+book: PM 233
+mode: E
+annotation: 1. ant.
+annotation: E
+c4 h g h gg () f g h' ixi g ixi h. ::
+CLa -- mor me -- us * ad te vé -- ni -- at, De -- us.
+
 % laudes
 
 \score
@@ -50,6 +61,32 @@ MI -- se -- ri -- cór -- di -- a me -- a *
 et re -- fú -- gi -- um me -- um Dó -- mi -- nus:
 sus -- cép -- tor me -- us,
 et li -- be -- rá -- tor me -- us.
+
+% hora media
+
+\score
+id: m1
+book: PM 274
+mode: 1
+annotation: 1. ant.
+annotation: I f
+c4 f gh h h g h. ,
+f gf d f f_g e f d. d. ::
+IUs -- tus es, Dó -- mi -- ne, *
+et rec -- tum iu -- dí -- ci -- um tu -- um.
+
+\score
+id: m2
+book: PM 195
+mode: 5
+annotation: 2. ant.
+annotation: V a
+c3 f> d' () f h hg f h h_' ,
+h h h hi f e f e d. ::
+IN -- tret * o -- rá -- ti -- o me -- a
+in con -- spéc -- tu tu -- o, Dó -- mi -- ne.
+
+% 3. ant.: CAO 3632
 
 % vesperae
 

@@ -2,6 +2,17 @@
 title: Feria IV
 subtitle: Hebdomada IV
 
+% officium lectionis
+
+\score
+id: ol1
+book: PM 236
+mode: 8
+annotation: 1. ant.
+annotation: VIII g
+c3 h gh f () ed e f' g f e de e. ::
+BE -- ne -- dic * á -- ni -- ma me -- a, Dó -- mi -- no.
+
 % laudes
 
 % first antiphon unedited
@@ -29,6 +40,39 @@ annotation: 3. ant.
 annotation: IV*
 c4 f fe d' () e f g_h g' f g gf e. e. ::
 LAu -- dá -- bo * De -- um me -- um in vi -- ta me -- a.
+
+% hora media
+
+\score
+id: m1
+book: PM 275
+mode: 8
+annotation: 1. ant.
+annotation: VIII g
+c3 e h h g' ,
+e g' h f f g' f e. ::
+AD -- iu -- va me, *
+et sal -- vus e -- ro, Dó -- mi -- ne.
+
+\score
+id: m2
+book: PM 211
+mode: 8
+annotation: 2. ant.
+annotation: VIII g
+c4 f fg g gf () h j_h_ i h g. g. ::
+EX -- al -- tá -- re, * qui iú -- di -- cas ter -- ram.
+
+\score
+id: m3
+book: PM 212
+mode: 8
+annotation: 3. ant.
+annotation: VIII g
+c4 g gj h h g' () h gf g g gf g gh f g f. ;
+f h j i' j h. gh j_h_ i h g. g. ::
+BE -- á -- tus ho -- mo * quem tu e -- ru -- dí -- e -- ris, Dó -- mi -- ne,
+et de le -- ge tu -- a do -- cú -- e -- ris e -- um.
 
 % vesperae
 

@@ -2,6 +2,17 @@
 title: Feria II
 subtitle: Hebdomada IV
 
+% officium lectionis
+
+\score
+id: ol1
+book: PM 160
+mode: 8
+annotation: 1. ant.
+annotation: VIII g
+c4 j jk h' () h g h g g. ::
+QUam bo -- nus * De -- us I -- sra -- el.
+
 % laudes
 
 \score
@@ -39,11 +50,48 @@ i hg f fe f h_g_ e gh f. ::
 LAu -- dá -- te * no -- men Dó -- mi -- ni,
 qui sta -- tis in do -- mo Dó -- mi -- ni.
 
+% hora media
+
+\score
+id: m1
+book: PM 273
+mode: 8
+annotation: 1. ant.
+annotation: VIII g
+c3 h h g' h> f_' ,
+f h e f ed ef f e de e. ::
+AD -- spi -- ce in me, *
+et mi -- se -- ré -- re me -- i, Dó -- mi -- ne.
+
+\score
+id: m2
+book: AM 542
+mode: 8
+annotation: 2. ant.
+annotation: VIII g
+c4 g gj h hg f g_h g. ,
+i' j k jh j' j i. ;
+k k' j j' j kl k ji/jkj_1' h h' j i' h g. ,
+g_e g' g f' e d_' f gh~ g fg g. ::
+NO -- lí -- te ju -- di -- cá -- re, *
+ut non ju -- di -- cé -- mi -- ni:
+in quo e -- nim ju -- dí -- ci -- o ju -- di -- ca -- vé -- ri -- tis,
+ju -- di -- ca -- bí -- mi -- ni, dic -- it Dó -- mi -- nus.
+
+\score
+id: m3
+book: PM 285
+mode: E
+annotation: 3. ant.
+annotation: E
+c4 h h gg () f_g h' ixi g i h. ::
+CLa -- má -- vi, * et ex -- au -- dí -- vit me.
+
 % vesperae
 
 \score
 id: v1
-book: AV 137 (but OCO actually requires ending \emph{... quoniam bonus.} There is no such antiphon!)
+book: AV 137 % but OCO actually requires ending \emph{... quoniam bonus.} There is no such antiphon!
 mode: 3
 annotation: 1. ant.
 annotation: III g2
