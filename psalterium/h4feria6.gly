@@ -56,7 +56,21 @@ om -- nes e -- léc -- ti e -- jus:
 á -- gi -- te di -- es lae -- tí -- ti -- ae,
 et con -- fi -- té -- mi -- ni il -- li.
 
-% ant3: CAO 1734
+\score
+cao-number: CAO 1734
+cao-description: Dom. per annum 26 S; Sabb. per annum 32 V, 43 EH
+id: l3
+manuscript: Cod. Sang. 390, 101
+manuscript-storage-place: St. Gallen, Stiftsbibliothek
+manuscript-url: http://www.e-codices.unifr.ch/en/csg/0390/101/
+diastematic-manuscript-url: http://www.literature.at/viewer.alo?objid=1138&page=131&viewmode=fullscreen&rotate=&scale=1.67
+mode: 6
+transcriber: Jakub Pavlík
+annotation: 3. ant.
+annotation: VI f
+nabc-lines: 1
+\m c4 f|pu g|vi gh|vihg f|pu () g|vi fe|cl d|pu f|vi g|vi g|vi> f|pu ::
+BE -- ne -- dí -- xit * fí -- li -- is tu -- is in te.
 
 % hora media
 
