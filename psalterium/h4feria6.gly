@@ -2,6 +2,30 @@
 title: Feria VI
 subtitle: Hebdomada IV
 
+% officium lectionis
+
+\score
+id: ol1a
+book: PM 179
+mode: 4
+annotation: 1. ant.
+annotation: IV*
+c4 f f f_e_ d' () e f gh g_' ,
+g g d' g f e. e. ::
+IN -- cli -- ná -- te * au -- rem ve -- stram
+in ver -- ba o -- ris me -- i.
+
+\score
+id: ol1
+book: PM 129
+mode: 5
+annotation: 1. ant.
+annotation: V a
+c3 h hg> f h h_' ,
+h h g> f e f e d. ::
+IN -- tén -- de in me *
+et ex -- áu -- di me, Dó -- mi -- ne.
+
 % laudes
 
 \score
@@ -33,6 +57,41 @@ om -- nes e -- léc -- ti e -- jus:
 et con -- fi -- té -- mi -- ni il -- li.
 
 % ant3: CAO 1734
+
+% hora media
+
+\score
+id: m1
+book: PM 276
+mode: 1
+annotation: 1. ant.
+annotation: I f
+c4 d d f d_c_ f g f_h h. ,
+hg~ h g e_f g fe d. d. ::
+IN -- clí -- na cor me -- um, De -- us, *
+in te -- sti -- mó -- ni -- a tu -- a.
+
+\score
+id: m2
+book: PM 321
+mode: 1
+annotation: 2. ant.
+annotation: I a
+c4 h h_' g hg e' f g> e fe~ d_' ,
+e f h gf e_f g fe d. d. ::
+EC -- ce quam bo -- num * et quam iu -- cún -- dum
+ha -- bi -- tá -- re fra -- tres in u -- num.
+
+\score
+id: m3
+book: PM 335
+mode: 4
+annotation: 3. ant.
+annotation: IV g
+c4 e g' g hi i_ h. ,
+g f g h g f e. ::
+A vi -- ro i -- ní -- quo *
+lí -- be -- ra me, Dó -- mi -- ne.
 
 % vesperae
 

@@ -2,6 +2,30 @@
 title: Sabbato
 subtitle: Hebdomada IV
 
+% officium lectionis
+
+\score
+id: ol1a
+book: PM 179
+mode: 3
+annotation: 1. ant.
+annotation: III a
+c4 g hi i ji hg hi h g. ,
+g h gf g gf e. e. ::
+RE -- dé -- mit e -- os Dó -- mi -- nus *
+de ma -- nu tri -- bu -- lán -- tis.
+
+\score
+id: ol1
+book: PM 124
+mode: E
+annotation: 1. ant.
+annotation: E
+c4 h h g' h gg ,
+f g h' ixi g ixi h. ::
+IM -- mo -- la De -- o *
+sa -- cri -- fí -- ci -- um lau -- dis.
+
 % laudes
 
 \score
@@ -40,3 +64,35 @@ GLó -- ri -- a * et ho -- nó -- re
 co -- ro -- ná -- sti e -- um, Dó -- mi -- ne;
 ó -- mni -- a sub -- ie -- cí -- sti
 sub pé -- di -- bus e -- ius.
+
+% hora media
+
+\score
+id: m1
+book: PM 277
+mode: 1
+annotation: 1. ant.
+annotation: I a
+c4 d_h hi h g h gf g gh h_' ,
+g h g f g_h fv_ED d. ;
+e c' d f_g f fe dc d fe d. d. ::
+FI -- at ma -- nus tu -- a, Dó -- mi -- ne, *
+ut sal -- vum me fá -- ci -- as,
+qui -- a man -- dá -- ta tu -- a con -- cu -- pí -- vi.
+
+\score
+id: m2
+book: PM 105
+mode: 7
+annotation: 2. ant.
+annotation: VII c
+c3 ig~ i j i. i. ,
+i_g_ h_g_ e. e. ;
+g g g h f h g_f_ ,
+e f f_' h g e. e. ::
+UN -- xit te De -- us, *
+De -- us tu -- us,
+ó -- le -- o lae -- tí -- ti -- ae
+prae con -- sór -- ti -- bus tu -- is.
+
+% 3. ant. unedited

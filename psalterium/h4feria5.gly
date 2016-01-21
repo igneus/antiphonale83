@@ -2,6 +2,22 @@
 title: Feria V
 subtitle: Hebdomada IV
 
+% officium lectionis
+
+% ut in H2 F5
+\score
+id: ol1
+book: PM 103
+mode: 2
+annotation: 1. ant.
+annotation: II d
+f3 f fe f h_g_ e g f. ;
+f f g f e h_' h_ ,
+g h i h ij hg f ef f. ::
+SAl -- vá -- sti nos, Dó -- mi -- ne, *
+et in nó -- mi -- ne tu -- o
+con -- fi -- té -- bi -- mur in saé -- cu -- la.
+
 % laudes
 
 \score
@@ -36,6 +52,39 @@ annotation: 3. ant.
 annotation: VIII g
 c3 h g h f. () ed e f g f> e de e. ::
 DE -- o no -- stro * iu -- cún -- da sit lau -- dá -- ti -- o.
+
+% hora media
+
+\score
+id: m1
+book: PM 275
+mode: 4
+annotation: 1. ant.
+annotation: IV*
+c4 fe d () d e f g h> g f gh h g. ,
+g gd g f e. ::
+VI -- de * hu -- mi -- li -- tá -- tem me -- am, Dó -- mi -- ne,
+et é -- ri -- pe me.
+
+\score
+id: m2
+book: PM 297
+mode: 2
+annotation: 2. ant.
+annotation: II d
+f3 f h g h_g>_ f' () g h fe~ f g f. ::
+BE -- á -- ti o -- mnes * qui ti -- ment Dó -- mi -- num.
+
+\score
+id: m3
+book: PM 314
+mode: 2
+annotation: 3. ant.
+annotation: II* d
+f3 h_g_ f' () f g h i j> i_' ,
+i i g> h_i g h f. ::
+SAE -- pe * ex -- pu -- gna -- vé -- runt me
+a iu -- ven -- tú -- te me -- a.
 
 % vesperae
 
