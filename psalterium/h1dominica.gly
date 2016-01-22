@@ -1,0 +1,179 @@
+\header
+title: Dominica
+subtitle: Hebdomada I
+
+% vesperae i
+
+\score
+id: vi1
+book: PM 336
+mode: 8
+annotation: 1. ant.
+annotation: VIII g
+c3 h h g_' () h f e g h ` fe f e e ::
+DO -- mi -- ne, * cla -- má -- vi ad te, ex -- áu -- di me.
+
+\score
+id: vi2
+book: PM 339
+mode: 8
+annotation: 2. ant.
+annotation: VIII g
+c3 h h h g h f e g_' ,
+f g h f' e f e e. ::
+POr -- ti -- o me -- a, Dó -- mi -- ne, *
+sit in ter -- ra vi -- vén -- ti -- um.
+
+\score
+id: vi3
+book: PM 363
+mode: 8
+annotation: 3. ant.
+annotation: VIII g
+c4 f fg g_' () h j j i' j h j g. ;
+g g hi h' g h g f fe d_' f gh g. g. ::
+NOn -- ne sic * o -- pór -- tu -- it pa -- ti Chri -- stum,
+et in -- trá -- re in gló -- ri -- am su -- am? al -- le -- lú -- ia.
+
+% officium lectionis
+
+\score
+id: ol1
+book: PM 2
+mode: 4
+annotation: 1. ant.
+annotation: IV e
+c4 d e f g d' f e_' e' ,
+d e f g d f' e d. d. ;
+f g h h h' g h_' ,
+d e f g d' f e. e. ::
+SE -- cus de -- cúr -- sus a -- quá -- rum, *
+plan -- tá -- vit ví -- ne -- am iu -- stó -- rum:
+et in le -- ge Dó -- mi -- ni
+fu -- it vo -- lún -- tas e -- ó -- rum.
+
+\score
+id: ol2
+book: PM 1
+mode: 8
+annotation: 2. ant.
+annotation: VIII g
+c4 h f_g g_' () h g gf g gh f. f. ;
+f g h h!iwj h h gf gh h g. g. ::
+SEr -- ví -- te * Dó -- mi -- no in ti -- mó -- re,
+et ex -- sul -- tá -- te e -- i cum tre -- mó -- re.
+
+\score
+id: ol3
+book: PM 42
+mode: 1
+annotation: 3. ant.
+annotation: I g
+c4 f -ghg h_' () h g> e_f g fe d. d. ::
+DO -- mi -- nus * de -- fén -- sor vi -- tae me -- ae.
+
+% laudes
+
+\score
+id: l1
+book: PM 72
+mode: 7
+annotation: 1. ant.
+annotation: VII a
+c3 e g h i_' i_ () j i h hh g. ;
+h ij i hg/hih_1' f g_h g> e. e. ::
+AD te de lu -- ce * ví -- gi -- lo, De -- us,
+ut ví -- de -- am vir -- tú -- tem tu -- am.
+
+\score
+id: l2
+book: PM 74
+mode: 8
+annotation: 2. ant.
+annotation: VIII g
+c4 g g g gh hv_GF gh h> g_' ,
+f hj~ j i jk i g. ;
+j_ i j> h' j> g h> g_f_ ,
+d f_g ggf~ h hji hg fg~ g. g. ::
+TRes pú -- e -- ri ius -- su re -- gis *
+in for -- ná -- cem mis -- si sunt,
+non ti -- mén -- tes flam -- mam ig -- nis,
+di -- cén -- tes: Be -- ne -- díc -- tus De -- us.
+
+\score
+id: l3
+book: PM 78
+mode: 7
+annotation: 3. ant.
+annotation: VII a
+c3 e e g h i> hf h h g. ,
+gh i_j i h h_g_ eo!fv. ;
+d e f f_i h_' h g fe f' g> f e. e. ::
+BE -- ne -- plá -- ci -- tum est Dó -- mi -- no *
+in pó -- pu -- lo su -- o,
+et ho -- no -- rá -- bit man -- su -- é -- tos in sa -- lú -- tem.
+
+% hora media
+
+\score
+id: m1
+book: PM 69
+mode: 8
+annotation: 1. ant.
+annotation: VIII g
+c4 f fg g_' () g h g ge~ f!go!hv f_e_ d. ;
+f gh h g!hwji/jkj. ,
+hf~ hh g fg g. ::
+BO -- num est * spe -- rá -- re in Dó -- mi -- no,
+quam spe -- rá -- re
+in prin -- cí -- pi -- bus.
+
+\score
+id: m2
+book: AV 130 % what does the mysterious notice "(sched. B 30)" mean?
+mode: 4
+annotation: 2. ant.
+annotation: IV e
+c4 fd e f g gf e () d ef~ g f gh h g ;
+g ij h gh gf d e f g e ::
+FOr -- ti -- tú -- do me -- a * et laus me -- a Dó -- mi -- nus:
+et fac -- tus est mi -- hi in sa -- lú -- tem.
+
+\score
+id: m3
+book: GR 698
+mode: 8
+annotation: 3. ant.
+annotation: VIII g
+c4 g hj ji h jk j_' ,
+j i h i h g. ;
+g h i h g hi i_' ,
+i i!jk j jh i h g. ::
+A -- pe -- rí -- te mi -- hi *
+por -- tas iu -- stí -- ti -- ae,
+et in -- grés -- sus in e -- as
+con -- fi -- té -- bor Dó -- mi -- no.
+
+% vesperae ii
+
+\score
+id: v1
+book: PM 302
+mode: 7
+annotation: 1. ant.
+annotation: VII c
+c3 g h i j i () i_h_ f h g_f_ e. ;
+f f' d fh g e. e. ::
+DI -- xit Dó -- mi -- nus * Dó -- mi -- no me -- o:
+Se -- de a dex -- tris me -- is.
+
+\score
+id: v2
+book: PM 310
+mode: per
+annotation: 2. ant.
+annotation: per.
+c4 c d f e fg g gh fe d. ;
+f g h ixi h> gf g f gh g. g. ::
+DE -- us au -- tem no -- ster in cae -- lo:
+ó -- mni -- a quae -- cúm -- que vó -- lu -- it, fe -- cit.
