@@ -66,7 +66,14 @@ class PsalterBuilder
     puts '\section{%s}' % doc.header['title']
     puts
 
-    hour 'Officium lectionis'
+    if resp_id_base.include? 'dominica'
+      hour 'Ad I Vesperas'
+      3.times {|i| antiphon "vi#{i+1}", doc }
+      responsory "#{resp_id_base}vi", resp_doc
+      puts
+    end
+
+    hour 'Ad Officium lectionis'
 
     if doc['ol1a']
       puts '\emph{in Adventu, tempore Nativitatis, in Quadragesima et tempore paschali:}'
@@ -80,22 +87,26 @@ class PsalterBuilder
     3.times {|i| antiphon "ol#{i+1}", doc, may_not_exist: i > 0 }
     puts
 
-    hour 'Laudes matutinae'
+    hour 'Ad Laudes matutinas'
     3.times {|i| antiphon "l#{i+1}", doc }
     responsory "#{resp_id_base}l", resp_doc
-    antiphon 'lb', doc, repeated: true
+    antiphon 'lb', doc, repeated: true unless resp_id_base.include? 'dominica'
     puts
 
-    hour 'Hora media'
+    hour 'Ad Horam mediam'
     3.times {|i| antiphon "m#{i+1}", doc }
     puts
 
-    unless File.basename(doc.path).include? 'sabbato'
-      hour 'Vesperae'
+    unless resp_id_base.include? 'sabbato'
+      if resp_id_base.include? 'dominica'
+        hour 'Ad II Vesperas'
+      else
+        hour 'Ad Vesperas'
+      end
       2.times {|i| antiphon "v#{i+1}", doc }
       antiphon 'v3', doc, repeated: true
       responsory "#{resp_id_base}v", resp_doc
-      antiphon 'vm', doc, repeated: true
+      antiphon 'vm', doc, repeated: true unless resp_id_base.include? 'dominica'
       puts
     end
   end
