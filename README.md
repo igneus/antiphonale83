@@ -7,7 +7,8 @@ a [new 2015 edition of the OCO][oco2015].)
 
 ## Building
 
-Install [gregorio][gregorio] and LuaLaTeX.
+Install [gregorio][gregorio] (version 4.x is required)
+and LuaLaTeX.
 
 Get some Ruby interpreter and install gems `gly` and `rake`.
 

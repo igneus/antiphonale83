@@ -133,7 +133,7 @@ class PsalterBuilder
 
     system "gregorio #{gabc_fname}"
 
-    gtex_fname = gabc_fname.sub /\.gabc/i, ''
+    gtex_fname = gabc_fname.sub /\.gabc/i, '.gtex'
     piece_title = %w(book manuscript arranger author).collect do |m|          score.headers[m]
     end.delete_if(&:nil?).join ', '
     unless piece_title.empty?
