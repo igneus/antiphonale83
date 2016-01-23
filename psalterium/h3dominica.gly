@@ -1,0 +1,157 @@
+\header
+title: Dominica
+subtitle: Hebdomada III
+
+% vesperae i
+
+\score
+id: vi1
+book: PM 305
+mode: 7
+annotation: 1. ant.
+annotation: VII c
+c3 ii g h ij i h. ,
+hg f g_h f' g> e de e. ::
+SIT no -- men Dó -- mi -- ni *
+be -- ne -- díc -- tum in saé -- cu -- la.
+
+\score
+id: vi2
+book: PM 313
+mode: 2
+annotation: 2. ant.
+annotation: II d
+f3 f!gwh f f' () f f f_e_ f g h g e. ;
+g_ i_ hf~ hh g h i> hg f. f. ::
+CA -- li -- cem * sa -- lu -- tá -- ris ac -- cí -- pi -- am,
+et no -- men Dó -- mi -- ni in -- vo -- cá -- bo.
+
+% officium lectionis
+
+\score
+id: ol1
+book: PM 342
+mode: 8
+annotation: 1. ant.
+annotation: VIII g
+c3 h h g fe f e_' ,
+d e f g> e fg fe e. ::
+PER sín -- gu -- los dies *
+be -- ne -- dí -- cam te, Dó -- mi -- ne.
+
+\score
+id: ol2
+book: PM 346
+mode: 8
+annotation: 2. ant.
+annotation: VIII c
+c3 h h hih hgh. ,
+hg f h g_f>_ e_' f> d f' h g e. e. ::
+RE -- gnum tu -- um, *
+Dó -- mi -- ne, re -- gnum ó -- mni -- um sae -- cu -- ló -- rum.
+
+\score
+id: ol3
+book: AV 179
+mode: 4
+annotation: 3. ant.
+annotation: IV g
+c4 e gh hg h g e ,
+f g f fe d c df f ;
+f ef c d f e f g gh f gf e e ::
+FI -- dé -- lis Dó -- mi -- nus
+in ó -- mni -- bus ver -- bis su -- is,
+et san -- ctus in ó -- mni -- bus o -- pé -- ri -- bus su -- is.
+
+% laudes
+
+\score
+id: l1
+book: PM 211
+mode: 4
+annotation: 1. ant.
+annotation: IV e
+c4 e>' d e g gh h_' ,
+h h g> f g f e. ::
+RE -- gná -- vit Dó -- mi -- nus, *
+de -- có -- rem in -- dú -- tus est.
+
+\score
+id: l2
+book: AM 327
+mode: 4
+annotation: 2. ant.
+annotation: IV e
+c4 f e f' e d. ,
+dc~ f g' h_ gf~ g f f_d e' f g' f e. ::
+HYm -- num dí -- ci -- te, *
+et su -- per -- ex -- al -- tá -- te e -- um in saé -- cu -- la.
+
+\score
+id: l3
+book: PM 114
+mode: 1
+annotation: 3. ant.
+annotation: I a
+c4 hg~ h g () e' f g fe d. d. ::
+LAu -- dá -- te * Dó -- mi -- num de cae -- lis.
+
+% hora media
+
+\score
+id: m1
+book: AM 389
+mode: 7
+annotation: 1. ant.
+annotation: VII c
+c3 i i' h g' h i_' i' ,
+i i' j_ h' i_ hg e. ;
+g_ g' h f' h g. ,
+i> f f' e de e. ::
+IN tri -- bu -- la -- ti -- ó -- ne *
+in -- vo -- cá -- vi Dó -- mi -- num,
+et ex -- au -- dí -- vit me
+in la -- ti -- tú -- di -- ne.
+
+\score
+id: m2
+book: PM 69
+mode: 8
+annotation: 2. ant.
+annotation: VIII g
+c3 h_ hg fe fg f e_' ,
+f e d ef f. ;
+h_ hg fe fg f e_' ,
+e d ef f> e. ::
+DEx -- te -- ra Dó -- mi -- ni *
+fe -- cit vir -- tú -- tem:
+déx -- te -- ra Dó -- mi -- ni
+ex -- al -- tá -- vit me.
+
+\score
+id: m3
+book: AM 341
+mode: 2
+annotation: 3. ant.
+annotation: II d
+f3 h h hv_GF f. ,
+f!gwh f>' e f!gwh. ;
+hf h ij i_j_i_ ,
+g' h i ef f. f. ::
+O Dó -- mi -- ne, *
+sal -- vum me fac:
+o Dó -- mi -- ne,
+be -- ne pro -- spe -- rá -- re.
+
+% vesperae ii
+
+\score
+id: v2
+book: PM 303
+mode: 3
+annotation: 2. ant.
+annotation: III a
+c4 g_j ji h g h i hg g. ;
+h g e/fg g' e f d e f g_h gf e. e. ::
+MA -- gna ó -- pe -- ra Dó -- mi -- ni, *
+ex -- qui -- sí -- ta in o -- mnes vo -- lun -- tá -- tes e -- ius.
