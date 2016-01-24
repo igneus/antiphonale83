@@ -1,0 +1,152 @@
+\header
+title: Dominica
+subtitle: Hebdomada IV
+
+% vesperae i
+
+\score
+id: vi1
+book: PM 288
+mode: 4
+annotation: 1. ant.
+annotation: IV e
+c4 e' d e g gh h_' ,
+h g> f g f e. ::
+IN do -- mum Dó -- mi -- ni *
+lae -- tán -- tes í -- bi -- mus.
+
+\score
+id: vi2
+book: PM 318
+mode: 8
+annotation: 2. ant.
+annotation: VIII g
+c3 h g h> f. () ed e f' g f e de e. ::
+DE pro -- fún -- dis * cla -- má -- vi ad te, Dó -- mi -- ne.
+
+% officium lectionis
+
+\score
+id: ol1
+book: PM 36
+mode: 3
+annotation: 1. ant.
+annotation: III a
+c4 g hi i i i_' ,
+j i hj~ j_i_ g. ;
+g_i h g e fg g_' ,
+h gf g gf> e. e. ::
+TOl -- li -- te por -- tas, *
+prín -- ci -- pes, ves -- tras,
+et e -- le -- vá -- mi -- ni,
+por -- tae ae -- ter -- ná -- les.
+
+\score
+id: ol2
+book: PM 147
+mode: 6
+annotation: 2. ant.
+annotation: VI f
+c4 f g h g f' g> d' () f g g f. ::
+BE -- ne -- dí -- ci -- te, gen -- tes, * De -- um no -- strum.
+
+\score
+id: ol3
+book: PM 149
+mode: 1
+annotation: 3. ant.
+annotation: I g
+c4 d c_d f_e_ d d_c_ ,
+f g h g f_0fg f. ,
+e f g f f_g e f d. d. ::
+AU -- dí -- te om -- nes, *
+qui ti -- mé -- tis De -- um,
+quan -- ta fe -- cit á -- ni -- mae me -- ae.
+
+% laudes
+
+\score
+id: l1
+book: AM 362
+mode: 8
+annotation: 1. ant.
+annotation: VIII g2
+c4 f fg g. () h g fe~ f/g'h f_e d. ;
+f gh h g!hwji/jkj_1' ,
+h h' h hf~ gh h g. g. ::
+DO -- mi -- nus * mi -- hi ad -- jú -- tor est,
+non ti -- mé -- bo quid fá -- ci -- at mi -- hi ho -- mo.
+
+\score
+id: l2
+book: PM 352
+mode: 8
+annotation: 2. ant.
+annotation: VIII g
+c4 g g' h h' g g_' () g h' g f!gwh h. ;
+f h' j k i j' h g' h> g_' ,
+g g g g' f gh h g. ::
+TRi -- um pu -- e -- ró -- rum * can -- té -- mus hym -- num,
+quem can -- tá -- bant in ca -- mí -- no ig -- nis,
+be -- ne -- di -- cén -- tes Dó -- mi -- num.
+
+\score
+id: l3
+book: PM 1165
+mode: 7
+annotation: 3. ant.
+annotation: VII a
+c3 e g_h i' j i. ,
+h_f~ g_f e e e. ::
+O -- mnis spí -- ri -- tus *
+lau -- det Dó -- mi -- num.
+
+% hora media
+
+\score
+id: m1
+book: PM 35
+mode: 4
+annotation: 1. ant.
+annotation: IV e
+c4 e' d e g gh h_' ,
+h h h g f g f e. ::
+DO -- mi -- nus re -- git me, *
+et ni -- hil mi -- hi dé -- e -- rit.
+
+\score
+id: m2
+book: Officium majoris hebdomadae, Desclée 1925, 577 % in OCO prescribed: HS 335
+mode: 7
+annotation: 2. ant.
+annotation: VII a
+c3 e g' h i' j i. ,
+hg f hhi h. ;
+h i' h e. ,
+f h h_f g f e. e. ::
+IN pa -- ce fac -- tus est *
+lo -- cus e -- jus,
+et in Si -- on
+ha -- bi -- tá -- ti -- o e -- jus.
+
+\score
+id: m3
+book: PM 453
+mode: 8
+annotation: 3. ant.
+annotation: VIII c
+c4 j j j i g' () h j jkj jij. ,
+ji~ h jk~ k jij. h> g i_j h h hg f gh h g. g. ::
+TEr -- ra tré -- mu -- it * et qui -- é -- vit,
+dum re -- súr -- ge -- ret in iu -- dí -- ci -- o De -- us, al -- le -- lú -- ia.
+
+% vesperae ii
+
+\score
+id: v2
+book: PM 304
+mode: 4
+annotation: 2. ant.
+annotation: IV*
+c4 g gh~ h_ g' () g> e_f g f e. e. ::
+IN man -- dá -- tis * e -- ius cu -- pit ni -- mis.
