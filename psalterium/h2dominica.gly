@@ -139,17 +139,6 @@ dum re -- súr -- ge -- ret in iu -- dí -- ci -- o De -- us, al -- le -- lú --
 % vesperae ii
 
 \score
-id: v1
-book: PM 302
-mode: 7
-annotation: 1. ant.
-annotation: VII c
-c3 g h i j i () i_h_ f h g_f_ e. ;
-f f' d fh g e. e. ::
-DI -- xit Dó -- mi -- nus * Dó -- mi -- no me -- o:
-Se -- de a dex -- tris me -- is.
-
-\score
 id: v2
 book: PM 309
 mode: per.
