@@ -2,6 +2,62 @@
 title: Responsoria brevia de psalterio
 subtitle: hebdomada I + III
 
+% dominica
+
+\score
+id: dominicavi
+book: PM 306
+mode: 6
+annotation: R. br. VI
+c4 f f fg g gf g g.h. ;
+g f gh gv_FD fg g f f. ::
+QUam ma -- gni -- fi -- cá -- ta sunt *
+O -- pe -- ra tu -- a, Dó -- mi -- ne.
+ixhi g g_' ,
+g g g h g g gf g g.h. ::
+!<sp>V.</sp> O -- mni -- a
+in sa -- pi -- én -- ti -- a fe -- cís -- ti.
+h h h ixhi h_' g gh g g_' ,
+g g h g gf g g.h. ::
+!<sp>V.</sp> Gló -- ri -- a Pa -- tri, et Fí -- li -- o,
+et Spi -- rí -- tu -- i Sanc -- to.
+
+\score
+id: dominical
+book: PM 80
+mode: 6
+annotation: R. br. VI
+c4 f f f fg g gf g g.h. ;
+f gh gv_FD fg g. f. ::
+CHri -- ste, Fi -- li De -- i vi -- vi, *
+Mi -- se -- ré -- re no -- bis.
+h ixhi g_' ,
+g h g gf g g.h. ::
+!<sp>V.</sp> Qui se -- des
+ad déx -- te -- ram Pa -- tris.
+h h h ixhi h_' g gh g g_' ,
+g g h g gf g g.h. ::
+!<sp>V.</sp> Gló -- ri -- a Pa -- tri, et Fí -- li -- o,
+et Spi -- rí -- tu -- i Sanc -- to.
+
+\score
+id: dominicav
+book: PM 307
+mode: 6
+annotation: R. br. VI
+c4 f f g f f' g gh h. ;
+g f gh g_f_ g g. f. ::
+BE -- ne -- díc -- tus es, Dó -- mi -- ne, *
+In fir -- ma -- mén -- to cae -- li.
+h h ixhi h h h h g gh g_' ,
+f g gh h. ::
+!<sp>V.</sp> Et lau -- dá -- bi -- lis et glo -- ri -- ó -- sus
+in saé -- cu -- la.
+h h h ixhi h_' g gh g g_' ,
+g g h g f' g g.h. ::
+!<sp>V.</sp> Gló -- ri -- a Pa -- tri, et Fí -- li -- o,
+et Spi -- rí -- tu -- i Sanc -- to.
+
 % feria II
 
 \score
