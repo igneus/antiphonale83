@@ -160,19 +160,19 @@ class PsalterBuilder
     piece_title = %w(book manuscript arranger author).collect do |m|          score.headers[m]
     end.delete_if(&:nil?).join ', '
     unless piece_title.empty?
-      puts "\\commentary{\\footnotesize{#{piece_title}}}"
+      puts "\\grecommentary{\\footnotesize{#{piece_title}}}"
       puts '\nobreak'
     end
 
     annotations = score.headers.each_value('annotation')
     begin
-      puts "\\setfirstannotation{#{annotations.next}}"
-      puts "\\setsecondannotation{#{annotations.next}}"
+      puts "\\greannotation{#{annotations.next}}"
+      puts "\\greannotation{#{annotations.next}}"
     rescue StopIteration
       # ok, no more annotations
     end
 
-    puts "\\includescore{#{gtex_fname}}"
+    puts "\\gregorioscore{#{gtex_fname}}"
     puts '\vspace{3mm}'
   end
 
