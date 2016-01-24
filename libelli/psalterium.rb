@@ -134,7 +134,8 @@ class PsalterBuilder
       docname = File.basename document.path
       week = docname[1].to_i
 
-      lookup_weeks = [week % 2, 1]
+      lookup_weeks = [1]
+      lookup_weeks.unshift(2) if week % 2 == 0
 
       lookup_weeks.each do |w|
         ant_source = @documents[docname.sub(/h\d/, "h#{w}")]
