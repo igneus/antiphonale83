@@ -75,7 +75,8 @@ class PsalterBuilder
 
     if resp_id_base.include? 'dominica'
       hour 'Ad I Vesperas'
-      3.times {|i| antiphon "vi#{i+1}", doc }
+      2.times {|i| antiphon "vi#{i+1}", doc }
+      antiphon "vi3", doc, repeated: true
       responsory "#{resp_id_base}vi", resp_doc
       puts
     end
@@ -107,11 +108,14 @@ class PsalterBuilder
     unless resp_id_base.include? 'sabbato'
       if resp_id_base.include? 'dominica'
         hour 'Ad II Vesperas'
+        antiphon "v1", doc, repeated: true
+        antiphon "v2", doc
+        # Ap 19 has no antiphons in psalter
       else
         hour 'Ad Vesperas'
+        2.times {|i| antiphon "v#{i+1}", doc }
+        antiphon 'v3', doc, repeated: true
       end
-      2.times {|i| antiphon "v#{i+1}", doc }
-      antiphon 'v3', doc, repeated: true
       responsory "#{resp_id_base}v", resp_doc
       antiphon 'vm', doc, repeated: true unless resp_id_base.include? 'dominica'
       puts
