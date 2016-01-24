@@ -1,4 +1,5 @@
 require 'gly'
+require 'set'
 
 def roman(int)
   [nil, 'I', 'II', 'III', 'IV'][int]
@@ -16,6 +17,8 @@ class PsalterBuilder
         @documents[File.basename(f)] = parser.parse fr
       end
     end
+
+    @scores_to_compile = Set.new
   end
 
   def build!
@@ -42,6 +45,10 @@ class PsalterBuilder
     end
 
     footer
+
+    @scores_to_compile.each do |gabc_fname|
+      system "gregorio #{gabc_fname}"
+    end
   end
 
   def header
@@ -142,7 +149,7 @@ class PsalterBuilder
 
     gabc_fname = File.basename(ant_source.path, '.gly') + "_#{aid}.gabc"
 
-    system "gregorio #{gabc_fname}"
+    @scores_to_compile << gabc_fname
 
     gtex_fname = gabc_fname.sub /\.gabc/i, '.gtex'
     piece_title = %w(book manuscript arranger author).collect do |m|          score.headers[m]
