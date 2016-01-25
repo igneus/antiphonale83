@@ -1,0 +1,96 @@
+\header
+title: Psalmodia complementaris
+
+\markup\section{series I (ad Tertiam)}
+
+\score
+id: 31
+book: PM 285
+mode: E
+annotation: 1. ant.
+annotation: E
+c4 h h gg () f_g h' ixi g i h. ::
+CLa -- má -- vi, * et ex -- au -- dí -- vit me.
+
+\score
+id: 32
+book: PM 287
+mode: 1
+annotation: 2. ant.
+annotation: I f
+c4 d d_c_ f g h g> f g fe d. ;
+d d c' d f> e d. d. ::
+AU -- xí -- li -- um me -- um a Dó -- mi -- no, *
+qui fe -- cit cae -- lum et ter -- ram.
+
+\score
+id: 33
+book: PM 288
+mode: 8
+annotation: 3. ant.
+annotation: VIII g
+c4 j j ij h_' ,
+g i g h f h g. g. ::
+LAE -- tá -- tus sum *
+in his quae dic -- ta sunt mi -- hi.
+
+\markup\section{series II (ad Sextam)}
+
+\score
+id: 61
+book: PM 291
+mode: 8
+annotation: 1. ant.
+annotation: VIII g
+c4 h f fg g () h!iwj j_h_ i_j ,
+h h i h g. g. ::
+QUI há -- bi -- tas * in cae -- lis,
+mi -- se -- ré -- re no -- bis.
+
+\score
+id: 62
+book: PM 293
+mode: 1
+annotation: 2. ant.
+annotation: I g
+c4 f g h g f' g f_' ,
+f ef g fe d cd d. ::
+AD -- iu -- tó -- ri -- um no -- strum *
+in nó -- mi -- ne Dó -- mi -- ni.
+
+% 3. ant. unedited
+
+\markup\section{series III (ad Nonam)}
+
+\score
+id: 91
+book: PM 297
+mode: 7
+annotation: 1. ant.
+annotation: VII a
+c3 e g h i g_h i_j j i_' ,
+h g h' i hg e. ;
+f ed f_' h g e. e. ::
+MA -- gni -- fi -- cá -- vit Dó -- mi -- nus *
+fá -- ce -- re no -- bís -- cum:
+fac -- ti su -- mus lae -- tán -- tes.
+
+\score
+id: 92
+book: PM 298
+mode: 5
+annotation: 2. ant.
+annotation: V a
+c3 f e f () df hi h h' h ij jvIH h_' ,
+i h gh f fe f ef d. d. ::
+DO -- mi -- nus * ae -- dí -- fi -- cet no -- bis do -- mum,
+et cu -- stó -- di -- at ci -- vi -- tá -- tem.
+
+\score
+id: 93
+book: PM 297
+mode: 2
+annotation: 3. ant.
+annotation: II d
+f3 f h g h_g>_ f' () g h fe~ f g f. ::
+BE -- á -- ti o -- mnes * qui ti -- ment Dó -- mi -- num.
