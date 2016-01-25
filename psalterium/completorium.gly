@@ -1,0 +1,161 @@
+\header
+title: Ad Completorium
+
+\markup\section{Post Vesperas I Dominicae et sollemnitatum}
+
+\score
+id: doi1
+book: PM 352
+mode: 8
+annotation: 1. ant.
+annotation: VIII g
+c4 g g h gf gh h g fg g. ;
+h j i_0j>_0 h h hg f gh h g. g. ::
+MI -- se -- ré -- re mi -- hi, Dó -- mi -- ne, *
+et ex -- áu -- di o -- ra -- ti -- ó -- nem me -- am.
+
+\score
+id: doi2
+book: PM 355
+mode: D
+annotation: 2. ant.
+annotation: D d
+c4 cd f fg g' ,
+h ixi h g f gh h g. ::
+IN nóc -- ti -- bus *
+be -- ne -- dí -- ci -- te Dó -- mi -- num.
+
+% T.P. antiphon unedited
+
+\score
+id: nunc
+book: PM 358
+mode: 3
+annotation: ad N. d.
+annotation: III a
+c4 g hi i () ik j ji h i h> g. ;
+g i j k' j h j> i. ;
+i g i k j h j i_j ,
+h h h h gf gh gf e. e. ::
+SAl -- va nos, * Dó -- mi -- ne, vi -- gi -- lán -- tes,
+cu -- stó -- di nos dor -- mi -- én -- tes,
+ut vi -- gi -- lé -- mus cum Chris -- to
+et re -- qui -- es -- cá -- mus +in pa -- ce.
+gf e e_f g gf e. e. ::
+!<i>T.P.</i> +in pa -- ce, al -- le -- lú -- ia.
+
+\markup\section{Post Vesperas II}
+
+\score
+id: doii
+book: PM 353
+mode: 8
+annotation: ant.
+annotation: VIII g
+c4 h f fg g_' ,
+g g gh f e d fg> ef e d. ;
+c d f fg g g_f_ h!iwj ji g!hwig h_' ,
+e f gh h g. ::
+QUI há -- bi -- tat *
+in ad -- iu -- tó -- ri -- o Al -- tís -- si -- mi,
+in pro -- tec -- ti -- ó -- ne De -- i cae -- li
+com -- mo -- rá -- bi -- tur.
+
+% T.P. sicut post Vesperas II
+
+\markup\section{Feria II}
+
+% ant. for Ordinary time unedited
+
+\score
+id: f2p
+book: AM 113
+mode: E
+annotation: ant.
+annotation: E
+c4 h h' h g_' h g' h g_' ,
+g f' g h' ixi g' i h. ::
+Al -- le -- lú -- ia, al -- le -- lú -- ia,
+al -- le -- lú -- ia, al -- le -- lú -- ia.
+
+\markup\section{Feria III}
+
+\score
+id: f3
+book: AM 217
+mode: 4
+annotation: ant.
+annotation: IV c
+c3 f h hi i i' ,
+i i' h ij h ij i. i. ;
+f' i h' g f' e f_e ,
+d' e f' gxg h' gxg f. f. ::
+AD te Dó -- mi -- ne *
+le -- vá -- vi á -- ni -- mam me -- am:
+ve -- ni, et é -- ri -- pe me,
+Dó -- mi -- ne, ad te con -- fú -- gi.
+
+% T.P. antiphon unedited
+
+\markup\section{Feria IV}
+
+\score
+id: f41
+book: PM 158
+mode: 1
+annotation: ant.
+annotation: I g
+c4 f g h gf g f f_' ,
+f f e_f g fe d. d. ::
+E -- sto mi -- hi, Dó -- mi -- ne, *
+in De -- um pro -- tec -- tó -- rem.
+
+\score
+id: f4p
+book: PM 243
+mode: 8
+annotation: ant.
+annotation: VIII g
+c3 h> g_h f_e_ g_' ,
+f g h> f' f> e f> e. ::
+Al -- le -- lú -- ia, *
+al -- le -- lú -- ia, al -- le -- lú -- ia.
+
+\score
+id: f42
+book: PM 318
+mode: 8
+annotation: 2. ant.
+annotation: VIII g
+c3 h g h> f. () ed e f' g f e de e. ::
+DE pro -- fún -- dis * cla -- má -- vi ad te, Dó -- mi -- ne.
+
+\markup\section{Feria V}
+
+\score
+id: f5
+book: GR 702
+mode: 7
+annotation: ant.
+annotation: VII c
+c3 i g (i_ jki) i. ,
+i g h f gf e. ::
+CA -- ro me -- a *
+re -- qui -- és -- cet in spe.
+
+% T.P. sicut feria II
+
+\markup\section{Feria VI}
+
+\score
+id: f6
+book: PM 195
+mode: 5
+annotation: ant.
+annotation: V a
+c3 f> d' () f h hg f h h_' ,
+h h h hi f e f e d. ::
+IN -- tret * o -- rá -- ti -- o me -- a
+in con -- spéc -- tu tu -- o, Dó -- mi -- ne.
+
+% T.P. sicut feria III
