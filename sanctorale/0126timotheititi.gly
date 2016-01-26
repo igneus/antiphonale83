@@ -1,0 +1,34 @@
+\header
+die: 26
+mensis: Ianuarii
+title: Ss. Timothei et Titi, episcoporum
+
+\score
+id: b
+book: AV 655
+mode: 8
+annotation: ad Ben.
+annotation: VIII c
+c4 j i g ij h () h gf gh g g ,
+i j k jh j j i ,
+k j ji h j i g g :
+f fg g g ge~ f e d f e f gh g ,
+h g f gh h hji h g ::
+IN sanc -- ti -- tá -- te * et ju -- stí -- ti -- a
+ser -- vi -- é -- runt Dó -- mi -- no
+ó -- mni -- bus di -- é -- bus su -- is:
+í -- de -- o sto -- lam gló -- ri -- ae ín -- du -- it il -- los
+Dó -- mi -- nus De -- us I -- sra -- el.
+
+\score
+id: m
+book: PM 387
+mode: 2
+annotation: ad Magn.
+annotation: II d
+f3 ff e f g_h i hg f. f. ;
+e f hv_hv_ f e g ig h_g_ ,
+e f h g e gh f. ::
+IU -- ste et pi -- e vi -- vá -- mus, *
+ex -- spec -- tán -- tes be -- á -- tam spem,
+et ad -- vén -- tum Dó -- mi -- ni.
