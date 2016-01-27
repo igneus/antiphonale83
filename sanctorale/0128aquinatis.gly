@@ -1,0 +1,28 @@
+\header
+die: 28
+mensis: Ianuarii
+title: S. Thomae de Aquino
+
+\score
+id: b
+book: AM 581
+mode: 8
+annotation: ad Ben.
+annotation: VIII g
+c4 c d' f fg g. ,
+h g hj g>' h gf f. ;
+f h j_k ji h' h gf gh h g. ;
+g_h fe d!ewf f_e ddc. ,
+c d e' f gh h g. :
+
+g gh g' f fd~ f' f e_f_d_'/dc. ;
+c_d e de e_c ,
+c d e_f gh h g. g. ::
+SA -- pi -- én -- ti -- a * clá -- mi -- tat in pla -- té -- is:
+Si quis dí -- li -- git sa -- pi -- én -- ti -- am,
+ad me de -- clí -- net,
+et e -- am in -- vé -- ni -- et:
+
+et e -- am dum in -- vé -- ne -- rit,
+be -- á -- tus est,
+si te -- nú -- e -- rit e -- am.
