@@ -1,0 +1,52 @@
+\header
+title: Commune Doctorum Ecclesiae
+
+\score
+id: vim
+book: AM 981
+mode: 4
+annotation: ad Magn.
+annotation: IV e
+c4 e f g' f e () g_h  g_f e. ,
+ddc~ d!ewf fe de e. ;
+e_f g_h g g_h j_i h' g h gf e_f_d_'/dc. ,
+ggf~ g ghg fe de e. ::
+SA -- pi -- én -- ti -- am * Sanc -- tó -- rum
+nar -- rant pó -- pu -- li,
+et lau -- des e -- ó -- rum pro -- nún -- ti -- at
+o -- mnis ec -- clé -- si -- a.
+
+% ant. ad Ben. unedited
+
+\score
+id: vm
+book: AM 665
+mode: 2
+annotation: ad Magn.
+annotation: II d
+f3 eh/hg hg f gf ef f_' ,
+f fg f f g_h fg f e. ;
+f ef f g_h iji/jkj. ,
+j j i' h hg f!gwh h e. ;
+eh g h' g f' g f. ,
+e_f h_g e gh f. ::z
+O Do -- ctor ó -- pti -- me, *
+Ec -- clé -- si -- ae sanc -- tae lu -- men,
+be -- á -- te <i>N.,</i> !*
+di -- ví -- nae le -- gis a -- má -- tor:
+de -- pre -- cá -- re pro no -- bis
+Fí -- li -- um De -- i. !
+g_h iji/jkj. ::
+Be -- da
+f g_h iji/jkj. ::
+Al -- bér -- te
+g' f g_h iji/jkj. ::
+A -- tha -- ná -- si
+f g' h iji/jkj. ::
+Hie -- ró -- ny -- me
+f g f' f g' h iji/jkj. ::
+Jo -- án -- nes Chry -- só -- sto -- me
+f g f' f g_h iji/jkj. ::
+Al -- phón -- se Ma -- rí -- a
+f g f g_h iji/jkj. ::
+Bo -- na -- ven -- tú -- ra
