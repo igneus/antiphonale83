@@ -1,0 +1,56 @@
+\header
+title: Tempus Quadragesimae
+subtitle: commune de tempore
+
+\markup\section{Ad Laudes matutinas}
+
+% responsories
+
+\markup\section{Ad Horam mediam}
+
+\score
+id: 3
+book: PM 286
+mode: 8
+annotation: ant.
+annotation: VIII g
+c4 g g h h> g_' g_ ,
+g g h g h_0i>_0 gf f. ;
+h f hj j ji hg h g_' ,
+g g g> f gh h g. ::
+AD -- ve -- né -- runt no -- bis *
+di -- es pae -- ni -- tén -- ti -- ae
+ad re -- di -- mén -- da pec -- cá -- ta,
+ad sal -- ván -- das á -- ni -- mas.
+
+\score
+id: 6
+book: PM 292
+mode: 3
+annotation: ant.
+annotation: III b
+c4 j h g_i i_' () i j ji gh h. ;
+j i h_g_ h_' h gf e_f eed. ;
+d e g!hwi> h_' g gf~ e_f g gf~ e. e. ::
+VI -- vo e -- go, * di -- cit Dó -- mi -- nus:
+no -- lo mor -- tem pec -- ca -- tó -- ris,
+sed ut ma -- gis con -- ver -- tá -- tur et vi -- vat.
+
+\score
+id: 9
+book: PM 297
+mode: 1
+annotation: ant.
+annotation: I f
+c4 d d_c~ f g f gh h_' ,
+h h!iwj h h hg/hih. ;
+h> g> f_g f_e_ g fe d!ewf f_c_ ,
+c e f g fe d cd d. ::
+PER ar -- ma iu -- stí -- ti -- ae *
+vir -- tú -- tis De -- i
+com -- men -- dé -- mus nos -- met -- íp -- sos
+in mul -- ta pa -- ti -- én -- ti -- a.
+
+\markup\section{Ad Vesperas}
+
+% responsories
