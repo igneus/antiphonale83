@@ -1,0 +1,63 @@
+\header
+title: Commune Pastorum
+
+% vesperae 1
+
+% laudes
+
+\score
+id: lb
+book: AM 661
+mode: 1
+annotation: ad Ben.
+annotation: I d
+c4 d!ewf_ED d. ,
+d e d' c d' f d!ewf_c c. ;
+f_h g_h f_g h g' f g d_g_f_ fe dd c. ;
+c d' f fe d' c> f' f e_f
+g fe~ d cd d. ::
+d' c e_f g> fe d. d. ::
+EU -- ge, *
+ser -- ve bo -- ne et fi -- dé -- lis,
+qui -- a in pau -- ca fu -- í -- sti fi -- dé -- lis,
+su -- pra mul -- ta te con -- stí -- tu -- am,
+dí -- cit +Dó -- mi -- nus.
+!<i>T.P.</i> +Dó -- mi -- nus, al -- le -- lú -- ia.
+
+% vesperae 2
+
+\score
+id: vma
+book: AM 663
+mode: 1
+annotation: ad Magn.
+annotation: I d2
+c4 c d' f fe dc~ d fe ddc. ,
+f/g'h h> hg fg gv_FD d. ;
+g gh h' g f fe~ d fe d c. ;
+c d' f>_ d_c e' f gh hg/hiHGgo> ,
+e' f g fe d. d. ::
+e f g' f fe dc d fe d. d. ::
+A -- má -- vit e -- um Dó -- mi -- nus, *
+et or -- ná -- vit e -- um:
+sto -- lam gló -- ri -- ae ín -- du -- it e -- um,
+et ad por -- tas pa -- ra -- dí -- si
++co -- ro -- ná -- vit e -- um.
+!<i>T.P.</i> +co -- ro -- ná -- vit e -- um, al -- le -- lú -- ia.
+
+\score
+id: vmb
+book: AV 654
+mode: 6
+annotation: ad Magn.
+annotation: VI f
+c4 f/fd/d dc fg gf g gh f f ,
+f g f ixgi ih g i hvGF f ;
+f g f g gh f f fv/dec c :
+cd fg g gf g gh ,
+h hj hg h g f f ::
+O quam spe -- ci -- ó -- si pe -- des *
+e -- van -- ge -- li -- zán -- ti -- um pa -- cem,
+e -- van -- ge -- li -- zán -- ti -- um bo -- na,
+di -- cén -- ti -- um Si -- on:
+Re -- gná -- bit De -- us tu -- us.
