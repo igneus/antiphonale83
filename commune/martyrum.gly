@@ -1,0 +1,78 @@
+\header
+title: Commune Plurimorum Martyrum
+
+% vesperae 1
+
+% laudes
+
+\score
+id: lb
+book: RM 186
+mode: 8
+annotation: ad Ben.
+annotation: VIII g
+c4 h fg g. ,
+g h g j j hig g g g fe f d e f g_h h g_ :
+h g h fh j_k j ji/jkj. ;
+h_0 j i g. g. ::
+BE -- á -- ti *
+qui per -- se -- cu -- ti -- ó -- nem pa -- ti -- ún -- tur pro -- pter ju -- stí -- ti -- am:
+quó -- ni -- am i -- psó -- rum est
+re -- gnum cae -- ló -- rum.
+
+% T.P.
+\score
+id: lbp
+book: RM 164
+mode: 8
+annotation: ad Ben.
+annotation: VIII g
+c4 d ef ghg g ,
+hj~ j ji hg~ hi h g :
+gh f fe d!efe dc ;
+cd fg g gf gh h g gvFD f fg g g ::
+STa -- bunt ju -- sti *
+in ma -- gna con -- stán -- ti -- a
+ad -- vér -- sus e -- os
+qui se an -- gu -- sti -- a -- vé -- runt, al -- le -- lú -- ia.
+
+% vesperae 2
+
+\score
+id: vm
+book: AM 653
+mode: 6
+annotation: ad Magn.
+annotation: VI f
+c4 f f gh~ ffvDC'f f. ,
+g f gh ghg~ f. f. ;
+f fd f ixg_i ih gh hv_GF' g ghg f. f. :
+f f fg f ixh_i j' ixi ih g_f ,
+g>' ixi h gf g ghg f. f. ;
+f gh h_g ixi ixih g_' ,
+f gh hg h ghg f. f. ::
+GAu -- dent in cae -- lis *
+á -- ni -- mae Sanc -- tó -- rum,
+qui Chri -- sti ve -- stí -- gi -- a sunt se -- cú -- ti:
+et qui -- a pro e -- jus a -- mó -- re
+sán -- gui -- nem su -- um fu -- dé -- runt,
+í -- de -- o cum Chri -- sto
+ex -- súl -- tant si -- ne fi -- ne.
+
+% T.P.
+\score
+id: vmp
+book: AM 632 % OCO wrongly prescribes AM 637 - there is no such antiphon
+mode: 7
+annotation: ad Magn.
+annotation: VII a
+c3 e e' g g_' ,
+h f' h g e. e. ;
+i hf~ g' f e_d ef f e. e. ;
+e e e' g hi~ i> h_i i. ,
+ii e f' h gv_FE fg fg e. e. ::
+SAnc -- ti tu -- i *
+Dó -- mi -- ne flo -- ré -- bunt
+si -- cut lí -- li -- um, al -- le -- lú -- ia:
+et si -- cut o -- dor bál -- sa -- mi
+e -- runt an -- te te, al -- le -- lú -- ia.
