@@ -1,0 +1,195 @@
+\header
+title: Hebdomada II Quadragesimae
+
+% feria II
+
+\score
+id: f2b
+book: AM 346
+mode: 7
+annotation: ad Ben.
+annotation: VII a
+c3 e h' f () g' h i' g ij i hhi h. ;
+h i hg f' h> e. ;
+e g f' e f' g> f_' ,
+g h i_f g' f e. e. ::
+VE -- ní -- te * be -- ne -- díc -- ti Pa -- tris me -- i:
+per -- cí -- pi -- te re -- gnum,
+quod vo -- bis pa -- rá -- tum est
+ab o -- rí -- gi -- ne mun -- di.
+
+\score
+id: f2m
+book: AM 346
+mode: 1
+annotation: ad Magn.
+annotation: I f
+c4 d e!fwg g_' () g gh g g' g g' e f_e d. ;
+f_g h g f_g f_e g fe d cd d. ::
+Quod u -- ni * ex mí -- ni -- mis me -- is fe -- cís -- tis,
+mi -- hi fe -- cís -- tis, di -- cit Dó -- mi -- nus.
+
+% feria III
+
+\score
+id: f3b
+book: AM 589
+mode: 1
+annotation: ad Ben.
+annotation: I f
+c4 d dc~ f g' f gh h_' ,
+g e' f g fe d. d. ;
+d e dc~ d f fe de dd c. ;
+c d f' f f' f f' f f' g f_' ,
+f f e_f g fe d. d. ::
+EX -- áu -- di -- at Dó -- mi -- nus *
+o -- ra -- ti -- ó -- nes ve -- stras,
+et re -- con -- ci -- li -- é -- tur vo -- bis:
+nec vos dé -- se -- rat in tém -- po -- re ma -- lo
+Dó -- mi -- nus De -- us no -- ster.
+
+\score
+id: f3m
+book: AM 335
+mode: 1
+annotation: ad Magn.
+annotation: I f
+c4 d d dc~ f g' f gh h. ,
+ixi' h g' g h fe d. ;
+gg e' g h' g f. ,
+f g e' f> d. d. ::
+TU au -- tem cum o -- rá -- ve -- ris, *
+in -- tra in cu -- bí -- cu -- lum,
+et clau -- so ó -- sti -- o,
+o -- ra Pa -- trem tu -- um.
+
+% feria IV
+
+\score
+id: f4b
+book: AM 348
+mode: 8
+annotation: ad Ben.
+annotation: VIII g
+c4 g g gj h f_g g. ,
+i_k j_' i h' j i_j h> g h_iG'F f. ;
+f/g'h hghvGF f. i_j k' j h' j i. ,
+j j jkj jij `
+h_' j i g. g. ::
+GE -- ne -- rá -- ti -- o haec *
+pra -- va et per -- vér -- sa sig -- num quae -- rit:
+et sig -- num non dá -- bi -- tur e -- i,
+ni -- si sig -- num
+Jo -- nae pro -- phé -- tae.
+
+\score
+id: f4m
+book: AM 348
+mode: 4
+annotation: ad Magn.
+annotation: IV A*
+c3 e f' h h' h h' () h h ij i. i. ,
+i h' i j i' h ij j' i hi i. ;
+f_i h_g f_e f_' ,
+e d' e f' gxg h' gxg hi gxhg f. f. ::
+SI -- cut fu -- it Jo -- nas * in ven -- tre ce -- ti
+tri -- bus di -- é -- bus et tri -- bus nóc -- ti -- bus,
+i -- ta e -- rit
+Fí -- li -- us hó -- mi -- nis in cor -- de ter -- rae.
+
+% feria V
+
+\score
+id: f5b
+book: AM 366
+mode: 1
+annotation: ad Ben.
+annotation: I g
+c4 cd dh'!iv h' () h hj h' h h h h' h h h hg/hiHGgo ;
+f_g h fe d_' f f fe d!ewf f d_eDC'd d.c. ;
+c d' f f' f g f' f e_f g fe~ d cd d. ::
+SI du -- o * ex vo -- bis con -- sén -- se -- rint su -- per ter -- ram:
+de om -- ni re qua -- cúm -- que pe -- tí -- e -- rint,
+fi -- et il -- lis a Pa -- tre me -- o, di -- cit Dó -- mi -- nus.
+
+\score
+id: f5m
+book: AM 501
+mode: 8
+annotation: ad Magn.
+annotation: VIII g2
+c4 f fg g_' ,
+g h' g f g_h h. ;
+j_ ji h_g ,
+h gf~ h ih g. g. ;
+g f_e d. ,
+e f g' f gh h' g gv_FD_' f fg g. g. ::
+g. g. :: % ending added by JP to remove scandal :)
+PE -- tí -- te, *
+et ac -- ci -- pi -- é -- tis:
+quae -- rí -- te,
+et in -- ve -- ni -- é -- tis:
+pul -- sá -- te,
+et a -- pe -- ri -- é -- tur +vo -- bis, al -- le -- lú -- ia. % scandal! alleluia sung in Lent!
++vo -- bis.
+
+% feria VI
+
+\score
+id: f6b
+book: AM 594
+mode: 8
+annotation: ad Ben.
+annotation: VIII g
+c3 e eh f' () f e' f ed ef f> e. e. ;
+hg h i_j i. ;
+i j i>' h i hg eef. ,
+f ed c_d ef f' e de e. ::
+AU -- dí -- stis * qui -- a dic -- tum est an -- tí -- quis:
+Non oc -- cí -- des:
+qui au -- tem oc -- cí -- de -- rit,
+re -- us e -- rit ju -- dí -- ci -- o.
+
+\score
+id: f6m
+book: AM 594
+mode: 1
+annotation: ad Magn.
+annotation: I d
+c4 d!ewf  de d_' () d f fv_ED d. ,
+dc~ d' f> d!ewf_c c ;
+f h g' h gf g gh h_/i/ih. ;
+f' g h gf~ g d_' g f' f ef d dc~ d fe~ d. :
+h_i h> g' h g' h j jv_IH h. ,
+hg~ h' j> h!iwj_h h. ;
+h_g/go> f g' h g_h_g_. ,
+e f g' f fe d' f ef d. d. :
+c_d ffv f gh gg ,
+e g gh f' f fe dc d fe d. d. ::
+f fe d. d. :: % another Lenten ending by JP
+SI of -- fers * mu -- nus tu -- um
+an -- te al -- tá -- re,
+et re -- cor -- dá -- tus fú -- e -- ris
+qui -- a fra -- ter tu -- us ha -- bet á -- li -- quid ad -- vér -- sum te:
+re -- lín -- que i -- bi mu -- nus tu -- um
+an -- te al -- tá -- re,
+et va -- de pri -- us
+re -- con -- ci -- li -- á -- ri fra -- tri tu -- o:
+et tunc vé -- ni -- ens
+óf -- fe -- res +mu -- nus tu -- um, al -- le -- lú -- ia. % huh, again
++mu -- nus tu -- um.
+
+% sabbato
+
+\score
+id: sb
+book: AM 622
+mode: 8
+annotation: ad Ben.
+annotation: VIII a
+c4 j_ ji hg hi h> g. g. ;
+g g' e g' g f' e f_' ,
+d e' f gh h g. ::
+HOC est prae -- cép -- tum me -- um, *
+ut di -- li -- gá -- tis ín -- vi -- cem,
+si -- cut di -- lé -- xi vos.
