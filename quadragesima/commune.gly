@@ -4,7 +4,22 @@ subtitle: commune de tempore
 
 \markup\section{Ad Laudes matutinas}
 
-% responsories
+\score
+id: lr
+book: AM 338
+mode: 4
+annotation: R. br.
+annotation: IV
+c4 g g g e fe de e. ;
+e e' f dc df fgF'E de e. ::
+eh'/ih' g gf de e!fwgFE de e. ::
+eh'!iv h g' g g' g h' g g_' ,
+g g' h gf de e!fwgFE e. ::
+I -- pse li -- be -- rá -- vit me *
+De lá -- que -- o ve -- nán -- ti -- um.
+!<sp>V.</sp> Et a ver -- bo á -- spe -- ro.
+!<sp>V.</sp> Gló -- ri -- a Pa -- tri, et Fí -- li -- o,
+et Spi -- rí -- tu -- i San -- cto.
 
 \markup\section{Ad Horam mediam}
 
@@ -53,4 +68,21 @@ in mul -- ta pa -- ti -- én -- ti -- a.
 
 \markup\section{Ad Vesperas}
 
-% responsories
+\score
+id: vr
+book: AM 562
+mode: 6
+annotation: R. br.
+annotation: VI
+c4 f f g f' g gh h.g. ;
+f gh g_f g g. f. ::
+ixhi h h h g gh g_' ,
+h g g g' f g_h h.g. ::
+h h h ixhi h_' g gh g g_' ,
+g g h' g f' g g.h. ::
+E -- go di -- xi, Dó -- mi -- ne, *
+Mi -- se -- ré -- re me -- i.
+!<sp>V.</sp> Sa -- na á -- ni -- mam me -- am
+qui -- a pec -- cá -- vi ti -- bi.
+!<sp>V.</sp> Gló -- ri -- a Pa -- tri, et Fí -- li -- o,
+et Spi -- rí -- tu -- i San -- cto.
