@@ -1,0 +1,185 @@
+\header
+title: Hebdomada II Quadragesimae
+
+% feria II
+
+\score
+id: f2b
+book: AM 538
+mode: 1
+annotation: ad Ben.
+annotation: I d % ? not totally sure with the differentia; it isn't included in AM, as there the ant. is for commemoration only
+c4 d d' f de~ d' () c d fe d_e ddc. ;
+f_h g_h f_g h gf~ g d. ,
+dgf' f fe dc~ c_' d fe d cd d. ::
+E -- stó -- te er -- go * mi -- se -- ri -- cór -- des,
+si -- cut et Pa -- ter ve -- ster
+mi -- sé -- ri -- cors est, di -- cit Dó -- mi -- nus.
+
+\score
+id: f2m
+book: AM 542
+mode: 8
+annotation: ad Magn.
+annotation: VIII g
+c4 g gj h hg f g_h g. ,
+i' j k jh j' j i. ;
+k k' j j' j kl k ji/jkj_' h h' j i' h g. ,
+g_e g g f' e d_' f gh~ g fg g. ::
+NO -- lí -- te ju -- di -- cá -- re, *
+ut non ju -- di -- cé -- mi -- ni:
+in quo e -- nim ju -- dí -- ci -- o ju -- di -- ca -- vé -- ri -- tis,
+ju -- di -- ca -- bí -- mi -- ni, di -- cit Dó -- mi -- nus.
+
+% feria III
+
+\score
+id: f3b
+book: AM 356
+mode: 2
+annotation: ad Ben.
+annotation: II d
+f3 h_ hg e eg f. ,
+fe h_i h_i_j jv_I_H_G_'hwihi i.h. ;
+h g' i hg e. ,
+f_h g' f ef f. ::
+U -- nus est e -- nim *
+ma -- gí -- ster ve -- ster,
+qui in cae -- lis est,
+Chri -- stus Dó -- mi -- nus.
+
+\score
+id: f3m
+book: AM 357
+mode: 4
+annotation: ad Magn.
+annotation: IV d % !not IV alt d, but IV d (i.e. ends under final)
+c4 c!dw!ef e' () e fg~ ge f d' e c. ;
+c de e' ef e' e e e f_e d_c d df e. e. :
+e g h hi h' h gf~ g e_' ,
+g f fe de e. :
+c de e' e fe d' e d. ;
+f fe d e' f gf/gh g. ,
+g_hGF' g gf e. e. ::
+O -- mnes * au -- tem fra -- tres es -- tis:
+et pa -- trem no -- lí -- te vo -- cá -- re vo -- bis su -- per ter -- ram:
+u -- nus est e -- nim Pa -- ter ve -- ster,
+qui in cae -- lis est:
+nec vo -- cé -- mi -- ni ma -- gí -- stri,
+qui -- a ma -- gí -- ster ve -- ster
+u -- nus est Chri -- stus.
+
+% feria IV
+
+\score
+id: f4b
+book: AM 389
+mode: 4
+annotation: ad Ben.
+annotation: IV A*
+c3 e f' h hi ii ,
+h_i j ih i. i. ;
+i f' i h' g f' e f_e ,
+d_e f' h f. f. ::
+NUm -- quid réd -- di -- tur *
+pro bo -- no ma -- lum,
+qui -- a fo -- dé -- runt fó -- ve -- am
+á -- ni -- mae me -- ae?
+
+\score
+id: f4m
+book: AM 358
+mode: 1
+annotation: ad Magn.
+annotation: I f
+c4 d d dc f g' f gh h. ,
+ixi_h g' g f_h g. ;
+gg e' g h_g f. ,
+f' g e' f d. d. ::
+TRa -- dé -- tur e -- nim gén -- ti -- bus *
+ad il -- lu -- dén -- dum,
+et fla -- gel -- lán -- dum,
+et cru -- ci -- fi -- gén -- dum.
+
+% feria V
+
+\score
+id: f5b
+book: AM 358
+mode: 8
+annotation: ad Ben.
+annotation: VIII g
+c3 e!fwh f fe d e_f e_' ,
+e e' g h' i h' i h. ,
+hf~ h' h g. g. ;
+h h_i hg hih' f f_' h g> e. e. ::
+FI -- li, re -- cor -- dá -- re *
+qui -- a re -- ce -- pí -- sti bo -- na
+in vi -- ta tu -- a,
+et Lá -- za -- rus si -- mí -- li -- ter ma -- la.
+
+\score
+id: f5m
+book: AM 359
+mode: 7
+annotation: ad Magn.
+annotation: VII c2
+c3 g h i_j i_' ,
+j k' j ih ij j i. ;
+g ij i h_g e_f ,
+g' h f' f e. e. ::
+DI -- ves il -- le *
+gut -- tum a -- quae pé -- ti -- it,
+qui mi -- cas pa -- nis
+Lá -- za -- ro ne -- gá -- vit.
+
+% feria VI
+
+\score
+id: f6b
+book: AM 359
+mode: 8
+annotation: ad Ben.
+annotation: VIII g
+c4 g!hwi i () ji hg hh g. ;
+gd~ g_h i h> g_h i>' h g_h eed' ,
+g hi i' j i hk k. ;
+l k' j ji hg hh g. ,
+g_h i_jIH' i hi g. g. ::
+MA -- los * ma -- le per -- det,
+et ví -- ne -- am su -- am lo -- cá -- bit
+á -- li -- is a -- grí -- co -- lis,
+qui red -- dant e -- i fru -- ctum
+tem -- pó -- ri -- bus su -- is.
+
+\score
+id: f6m
+book: AM 360
+mode: 3
+annotation: ad Magn.
+annotation: III a
+c4 g g' h i' j> h' j ii ,
+g g h' h i_h g. ;
+i i' h h' h j_i g ,
+hv_GF' g gf e. e. ::
+QUae -- rén -- tes e -- um te -- né -- re, *
+ti -- mu -- é -- runt tur -- bam,
+qui -- a si -- cut pro -- phé -- tam
+e -- um ha -- bé -- bant.
+
+% sabbato
+
+\score
+id: sb
+book: AM 360
+mode: 1
+annotation: ad Ben.
+annotation: I a2
+c4 d_h h' () j h g' h g. ,
+ge~ f_0/g'h fe d. d. ;
+fv_fv_ d!ewf_EC. ,
+f!gwhg/h_i h_' h g fg f' f f' f e_f g fe d. d. ::
+VA -- dam * ad pa -- trem me -- um,
+et di -- cam e -- i:
+Pa -- ter,
+fac me si -- cut u -- num ex mer -- ce -- ná -- ri -- is tu -- is.
