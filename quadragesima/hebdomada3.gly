@@ -1,0 +1,199 @@
+\header
+title: Hebdomada III Quadragesimae
+
+% feria II
+
+\score
+id: f2b
+book: AM 366
+mode: 1
+annotation: ad Ben.
+annotation: I f
+c4 d dc~ f g f_h h_ggo> ,
+f g' h g' f fg f_' ,
+f fg f f' f e_f g fe d. d. ::
+A -- men di -- co vo -- bis, *
+qui -- a ne -- mo pro -- phé -- ta
+ac -- cép -- tus est in pá -- tri -- a su -- a.
+
+\score
+id: f2m
+book: AM 366
+mode: 1
+annotation: ad Magn.
+annotation: I f
+c4 d d_c f g>' f gh h. ,
+h_g~ h' g e' f g fe d. d. ::
+JE -- sus au -- tem tráns -- i -- ens *
+per mé -- di -- um il -- ló -- rum i -- bat
+
+% feria III
+
+\score
+id: f3b
+book: CAO 3907
+cao-number: 3907
+mode: 8
+annotation: ad Ben.
+annotation: VIII g
+nabc-lines: 1
+% based on http://gregorianik.uni-regensburg.de/#id/785
+% phrasing JP
+\music
+c4 g|pu gj|pe h|pu hg|cl f|pu gh|pe g|pu ,
+g|pu g|pu h>|cl g|vi f|pu gh|pe h|vi ,
+j|vi ji|cl- hg|cl- h|pu gf|pu h ji|pe hg|vi e|vi fg|pe g|pu ::
+\lyrics
+Non di -- co ti -- bi, Pe -- tre,
+di -- mit -- tén -- di sép -- ti -- es,
+sed us -- que sep -- tu -- a -- gí -- es sép -- ti -- es.
+
+\score
+id: f3m
+book: AM 612
+mode: 8
+annotation: ad Magn.
+annotation: VIII g
+c4 g!hwj h' h gf~ () g_h i hi g. g. ;
+h g' f g_h h. :
+h j i' j i' j h' j> g. ,
+i k j' k jh~ jj i. ;
+i j k> ji h i_j i g_h g. ,
+g_h i>' h gf gh h> g. g. ::
+DI -- xit au -- tem * dó -- mi -- nus ser -- vo:
+Red -- de quod de -- bes;
+pró -- ci -- dens au -- tem ser -- vus il -- le
+ro -- gá -- bat e -- um, di -- cens:
+Pa -- ti -- én -- ti -- am ha -- be in me,
+et ó -- mni -- a red -- dam ti -- bi.
+
+% feria IV
+
+\score
+id: f4b
+book: AM 618
+mode: 1
+annotation: ad Ben.
+annotation: I f
+c4 d dc~ f g f_h h_ggo> ;
+f g' h g f g_h h. ,
+c d fe d cd d. ,
+f f e_f g fe d. d. :
+f!gh hg/hiHGgo> f e_f g fe d!ewf_e d.c. ;
+d d' c df ffg f_' ,
+f f' f e_f g fe~ d cd d. ::
+A -- men di -- co vo -- bis: *
+qui -- a non prae -- ter -- í -- bit
+ge -- ne -- rá -- ti -- o haec,
+do -- nec ó -- mni -- a fi -- ant:
+cae -- lum et ter -- ra trans -- í -- bunt,
+ver -- ba au -- tem me -- a
+non trans -- í -- bunt, di -- cit Dó -- mi -- nus.
+
+\score
+id: f4m
+book: AM 322
+mode: 1
+annotation: ad Magn.
+annotation: I f
+c4 d d dc~ f g' f gh h_' ,
+h h hg~ h gf g gh fe d. ;
+g g h' g ff e_f g fe d cd d. ::
+QUI ver -- bum De -- i ré -- ti -- nent *
+cor -- de per -- féc -- to et ó -- pti -- mo,
+fruc -- tum áf -- fe -- runt in pa -- ti -- én -- ti -- a.
+
+% feria V
+
+\score
+id: f5b
+book: AM 363
+mode: 3
+annotation: ad Ben.
+annotation: III a
+c4 g g gj h g!hwih ij i. ,
+i_j k j ji h ji hg g. ;
+g_h j i g!hwi_g h' g> e_f g ghg~ e. e. ::
+SI in dí -- gi -- to De -- i *
+e -- jí -- ci -- o dae -- mó -- ni -- a,
+pro -- féc -- to ve -- nit in vos re -- gnum De -- i.
+
+\score
+id: f5m
+book: AM 365
+mode: 8
+annotation: ad Magn.
+annotation: VIII g
+c3 e eh f () fe d ef f e_' f e' d f fgf e. e. ;
+e g!hwi i. j> i hf h' i> g. g. ;
+g_h i' h g_h ih f e. e. :
+e f g_h_f_ g' f e. e. ;
+f e_0!fg~ g_' h i' h h i>' h g_h ih~ f> e. e. ,
+e f g_hGF' g fg~ e. e. ::
+EX -- tól -- lens * quae -- dam mú -- li -- er vo -- cem de tur -- ba, di -- xit:
+Be -- á -- tus ven -- ter qui te por -- tá -- vit,
+et ú -- be -- ra quae su -- xí -- sti.
+At Je -- sus a -- it il -- li:
+Quin -- ím -- mo be -- á -- ti qui áu -- di -- unt ver -- bum De -- i,
+et cu -- stó -- di -- unt il -- lud.
+
+% feria VI
+
+\score
+id: f6b
+book: AM 608
+mode: 8
+annotation: ad Ben.
+annotation: VIII g
+c4 h> f_g g. ,
+h j i' j h' h> g hi h> g. :
+gj i jk hg f!g'h g. ;
+d!ewf!gh g g gh g g' h g' g f. ,
+h j i' j> h' h g_h i> hi g. g. ::
+% TODO lenten ending
+MA -- gí -- ster, *
+quiod est man -- dá -- tum ma -- gnum in le -- ge?
+A -- it il -- li Je -- sus:
+Dí -- li -- ges Dó -- mi -- num De -- um tu -- um
+ex to -- to cor -- de tu -- o, +al -- le -- lú -- ia.
++cor -- de tu -- o
+
+\score
+id: f6m
+book: AM 602
+mode: 8
+annotation: ad Magn.
+annotation: VIII g
+c4 h> f_g g. ,
+h!iwj ji hg h> g_' ,
+j ji hg h> gf fh h g. g. :
+h f_g g h!iwj ji hg h g. ;
+g h g' g> f/g'h f_e d. ;
+d e f g_h g. :
+d!ewf!gh g g gh g g' h g' g f. ,
+h j i' j> h' h g_h i> hi g. g. ::
+MA -- gí -- ster, *
+quid fa -- ci -- én -- do
+vi -- tam ae -- tér -- nam pos -- si -- dé -- bo?
+At il -- le di -- xit ad e -- um:
+In le -- ge quid scrip -- tum est?
+quó -- mo -- do le -- gis?
+Dí -- li -- ges Dó -- mi -- num De -- um tu -- um
+ex to -- to cor -- de tu -- o, al -- le -- lú -- ia.
+
+% sabbato
+
+\score
+id: sb
+book: AM 601
+mode: 1
+annotation: ad Ben.
+annotation: I d2
+c4 c d' f> e_d () c cd d d. ,
+dc f_h g_h f fe c' d f_g ed~ fe d. d. ;
+ffg d> fe dc d f' g fe d fe~ c. c. ;
+c_d d. e_f gh g hg/hih. h g fe dc d fe d. d. ::
+STans a lon -- ge * pu -- bli -- cá -- nus,
+no -- lé -- bat ó -- cu -- los ad cae -- lum le -- vá -- re:
+sed per -- cu -- ti -- é -- bat pec -- tus su -- um, di -- cens:
+De -- us, pro -- pí -- ti -- us es -- to mi -- hi pec -- ca -- tó -- ri.
