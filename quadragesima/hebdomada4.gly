@@ -1,0 +1,141 @@
+\header
+title: Hebdomada IV Quadragesimae
+
+% feria II
+
+\score
+id: f2b
+book: AM 611
+mode: 1
+annotation: ad Ben.
+annotation: I f
+c4 d!ewfd dc~ f g' f gh h_ggo> ;
+f g h' g f' f f f fg f f_e g fe d. :
+d_f_d_'/dc f g> f_h h_' ,
+h h hj h g' h g' f> g gh fv_fv_g/gf f. ;
+f_e g fe d!ewf f_c ,
+c df ffg ff e_f g fe d. d. ::
+E -- rat qui -- dam ré -- gu -- lus, *
+cu -- jus fí -- li -- us in -- fir -- ma -- bá -- tur Ca -- phár -- na -- um:
+hic cum au -- dís -- set
+qui -- a Je -- sus ve -- ní -- ret in Ga -- li -- laé -- am,
+ro -- gá -- bat e -- um,
+ut sa -- ná -- ret fí -- li -- um e -- jus.
+
+\score
+id: f2m
+book: AM 612
+mode: 3
+annotation: ad Magn.
+annotation: III a
+c4 g gj h' g hi ij i. ,
+i j k>' j ji h' h g. ;
+g h j' i g!hwi_g h_' ,
+g e' f g gh gv_FD d. ;
+g_h j i hg hi h_' ,
+g> e' f g ghg e. e. ::
+CO -- gnó -- vit au -- tem pa -- ter *
+qui -- a il -- la ho -- ra e -- rat,
+in qua di -- xit Je -- sus:
+Fí -- li -- us tu -- us vi -- vit:
+et cré -- di -- dit ip -- se,
+et do -- mus e -- jus to -- ta.
+
+% feria III
+
+\score
+id: f3b
+book: AM 350
+mode: 1
+annotation: ad Ben.
+annotation: I f
+c4 d d_c f g> f_h h_' ,
+f g' h g' h fe d. ;
+g g h' g f' g f_' ,
+f e' f g fe~ d. d. ::
+QUI me sa -- num fe -- cit, *
+il -- le mi -- hi prae -- cé -- pit:
+Tol -- le gra -- bá -- tum tu -- um,
+et ám -- bu -- la in pa -- ce.
+
+\score
+id: f3m
+book: AM
+mode:
+annotation: ad Magn.
+annotation:
+% CAO 5301
+
+% feria IV
+
+\score
+id: f4b
+book: AM
+mode:
+annotation: ad Ben.
+annotation:
+% *
+
+\score
+id: f4m
+book: AM
+mode:
+annotation: ad Magn.
+annotation:
+% CAO 3927, omissis ...
+
+% feria V
+
+\score
+id: f5b
+book: AM
+mode:
+annotation: ad Ben.
+annotation:
+% CAO 2577, omissis ...
+
+\score
+id: f5m
+book: AM
+mode:
+annotation: ad Magn.
+annotation:
+% CAO 4160, omissis ...
+
+% feria VI
+
+\score
+id: f6b
+book: AM
+mode:
+annotation: ad Ben.
+annotation:
+% CAO 2710, omissis ...
+
+\score
+id: f6m
+book: AM 377
+mode: 1
+annotation: ad Magn.
+annotation: I g
+c4 dd c d e' f g fe~ d d_c~ ,
+f f gh h>' g g e_f g fe d. d. ::
+NE -- mo in e -- um mi -- sit ma -- num: *
+qui -- a non -- dum vé -- ne -- rat ho -- ra e -- jus.
+
+% sabbato
+
+\score
+id: sb
+book: AM 402
+mode: 4
+annotation: ad Ben.
+annotation: IV A*
+c3 e f h' h h_j ii ,
+h' i j ih~ i' i i. ;
+i f' i> h' g f_e f_' ,
+e d' e f' h f. f. ::
+TI -- bi re -- ve -- lá -- vi *
+cau -- sam me -- am, Dó -- mi -- ne,
+de -- fén -- sor vi -- tae me -- ae,
+Dó -- mi -- ne De -- us me -- us.
