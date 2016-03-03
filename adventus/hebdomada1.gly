@@ -1,0 +1,17 @@
+\header
+title: Hebdomada I Adventus
+
+% feria 4
+
+\score
+id: f4m
+book: PM 48
+mode: 6
+annotation: 2. ant.
+annotation: VI f
+c4 f fg gf g gh f_' f_ ,
+f g f ixfh/iv_HG g' ixi hg f' g ghg f f f. ;
+g f' f f f ixfh/iv_HG h_g_ d dc g gf g ghg f. f. ::
+EC -- ce vé -- ni -- o ci -- to, *
+et mer -- ces me -- a me -- cum est, di -- cit Dó -- mi -- nus:
+da -- re u -- ni -- cu -- í -- que se -- cún -- dum ó -- pe -- ra su -- a.

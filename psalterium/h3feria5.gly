@@ -37,9 +37,30 @@ annotation: I g
 c4 f g h g fg~ g_' () f fg> e fe d. d. ::
 FU -- nda -- mén -- ta e -- ius * in món -- ti -- bus sanc -- tis.
 
-% ant. 2 unedited
+\markup
+ant. 2 unedited
+Ecce venio ... dicit Dominus.
+Distinct from the well known Advent
+\emph{Ecce venio ... dare ...},
+but unfortunately nothing else is known. Not even the complete text.
+And the chant databases (CANTUS, Antiphonale Synopticum)
+don't know such an antiphon.
+Could it be that the first part of the
+\emph{Ecce venio ... dare ...}
+is to be used? But that would probably be noted in the OCO.
+But at least for now -- let's use it.
 
-% ant. 3
+\score
+id: l2
+book: PM 48, omissis \emph{dare unicuíque ...}
+mode: 6
+annotation: 2. ant.
+annotation: VI f
+c4 f fg gf g gh f_' f_ ,
+f g f ixfh/iv_HG g' ixi hg f' g ghg f f f. ::
+EC -- ce vé -- ni -- o ci -- to, *
+et mer -- ces me -- a me -- cum est, di -- cit Dó -- mi -- nus.
+
 \score
 id: l3
 book: PM 219
