@@ -60,57 +60,119 @@ et ám -- bu -- la in pa -- ce.
 
 \score
 id: f3m
-book: AM
-mode:
+cao-number: 5301
+% CAO listed manuscripts: CGEHRDS
+mode: 2
 annotation: ad Magn.
-annotation:
-% CAO 5301
+annotation: II* a
+% TODO: annotate source
+c3 h hi iio> h i j ih i i ;
+f i h g f fe fe ,
+d e f h> f f ::
+Va -- de iam et no -- li pec -- cá -- re,
+ne de -- te -- ri -- us ti -- bi a -- li -- quid con -- tin -- gat.
 
 % feria IV
 
 \score
 id: f4b
-book: AM
+oco-source: *
 mode:
 annotation: ad Ben.
 annotation:
-% *
+Ni -- hil fa -- ci -- o ni -- si quod vi -- de -- ro Pa -- trem fa -- ci -- en -- tem
+et quae pla -- ci -- ta sunt ei fa -- ci -- o sem -- per.
 
 \score
 id: f4m
-book: AM
-mode:
+cao-number: 3927
+manuscript: Bibliothèque nationale de France,	Ms Lat 12584, f. 275r
+manuscript-url: http://gallica.bnf.fr/ark:/12148/btv1b8422977w/f553.item.zoom
+mode: 3
 annotation: ad Magn.
-annotation:
-% CAO 3927, omissis ...
+annotation: III g
+f3 ed~ g hj j j ji jk ji h gf g ghg e e ;
+ed g hj j ji h gf gh gvFE e ;
+e f g g g g f g gf e ::
+Non pos -- sum e -- go a me -- ip -- so fa -- ce -- re quic -- quam,
+sed si -- cut au -- di -- o et iu -- di -- co;
+et iu -- di -- ci -- um me -- um iu -- stum est.
 
 % feria V
 
+\markup
+The following antiphon isn't notated on it's own
+in the manuscript. First it looks like the notation is washed
+away, but I find it more probable that the notation hasn't
+ever been there. The lyrics match notes of the antiphon
+below (which directly follows also here - \emph{Opera quae})
+quite well and it seems that both might have been
+intended to be sung on the same tune.
+Notes added by me are parenthesized.
+
+A few notes were left out and a few added.
+
 \score
 id: f5b
-book: AM
-mode:
+cao-number: 2577
+manuscript: Bibliothèque nationale de France,	Ms Lat 12584, f. 275v
+manuscript-url: http://gallica.bnf.fr/ark:/12148/btv1b8422977w/f554.item.zoom
+mode: 8
 annotation: ad Ben.
-annotation:
-% CAO 2577, omissis ...
+annotation: VIII g
+c4 fj h gf gh h g fg ,
+g g h g g g hg f f ;
+g f h gf gh i h g g g ::
+E -- go non ab ho -- mi -- ne
+te -- sti -- mo -- ni -- um ac -- ci -- pi -- o;
+sed haec di -- co, ut vos sal -- vi si -- tis.
 
 \score
 id: f5m
-book: AM
-mode:
+cao-number: 4160
+manuscript: Bibliothèque nationale de France,	Ms Lat 12584, f. 275v
+manuscript-url: http://gallica.bnf.fr/ark:/12148/btv1b8422977w/f554.item.zoom
+mode: 8
 annotation: ad Magn.
-annotation:
-% CAO 4160, omissis ...
+annotation: VIII g
+c4 fj h h gf gh h g fg g ,
+g g h g g g hg f g f ;
+h gf gh i h g g ::
+O -- pe -- ra quae e -- go fa -- ci -- o
+te -- sti -- mo -- ni -- um per -- hi -- bent de me,
+qui -- a Pa -- ter me mi -- sit.
 
 % feria VI
 
+\markup
+Concerning \emph{Et me scitis}:
+If the restitution done at Antiphonale Synopticum
+is representative, then the diastematic source I used isn't.
+But it is at least somewhat viable. More manuscripts should
+be consulted later.
+Those listed at CANTUS mostly didn't help me much.
+
 \score
 id: f6b
-book: AM
-mode:
+cao-number: 2710
+manuscript-adiastematic: Hartker, according to http://gregorianik.uni-regensburg.de/#id/810
+manuscript-diastematic: Einsiedeln, Stiftsbibliothek, Codex 611(89), f. 68v
+manuscript-diastematic-url: http://www.e-codices.unifr.ch/en/sbe/0611/68v
+% CAO listed manuscripts: CGBEMHRDFS
+mode: 7
 annotation: ad Ben.
 annotation:
-% CAO 2710, omissis ...
+nabc-lines: 1
+\music
+c3 i>|vi> ij|pe i|pu i|pu ,
+i|pu i>|vi> h|pu h>|vi> e|pu e|pu ;
+h|pu h|vi h|vi h|pu h|vi f|pu h|vi h|vi ,
+f|vi e|pu f|vi f|pu f|pu h|vi f>|vi e|pu ::
+\lyrics
+Et me sci -- tis,
+et un -- de sim sci -- tis;
+et a me -- ip -- so non ve -- ni,
+sed Pa -- ter me -- us mi -- sit me.
 
 \score
 id: f6m
