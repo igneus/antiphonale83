@@ -145,18 +145,19 @@ book: AM 608
 mode: 8
 annotation: ad Ben.
 annotation: VIII g
+% lenten ending JP
 c4 h> f_g g. ,
 h j i' j h' h> g hi h> g. :
 gj i jk hg f!g'h g. ;
 d!ewf!gh g g gh g g' h g' g f. ,
 h j i' j> h' h g_h i> hi g. g. ::
-% TODO lenten ending
+g. g. ::
 MA -- gí -- ster, *
 quiod est man -- dá -- tum ma -- gnum in le -- ge?
 A -- it il -- li Je -- sus:
 Dí -- li -- ges Dó -- mi -- num De -- um tu -- um
-ex to -- to cor -- de tu -- o, +al -- le -- lú -- ia.
-+cor -- de tu -- o
+ex to -- to cor -- de +tu -- o, al -- le -- lú -- ia.
++tu -- o
 
 \score
 id: f6m
@@ -164,6 +165,7 @@ book: AM 602
 mode: 8
 annotation: ad Magn.
 annotation: VIII g
+% lenten ending JP
 c4 h> f_g g. ,
 h!iwj ji hg h> g_' ,
 j ji hg h> gf fh h g. g. :
@@ -172,6 +174,7 @@ g h g' g> f/g'h f_e d. ;
 d e f g_h g. :
 d!ewf!gh g g gh g g' h g' g f. ,
 h j i' j> h' h g_h i> hi g. g. ::
+g. g. ::
 MA -- gí -- ster, *
 quid fa -- ci -- én -- do
 vi -- tam ae -- tér -- nam pos -- si -- dé -- bo?
@@ -179,7 +182,8 @@ At il -- le di -- xit ad e -- um:
 In le -- ge quid scrip -- tum est?
 quó -- mo -- do le -- gis?
 Dí -- li -- ges Dó -- mi -- num De -- um tu -- um
-ex to -- to cor -- de tu -- o, al -- le -- lú -- ia.
+ex to -- to cor -- de +tu -- o, al -- le -- lú -- ia.
++tu -- o
 
 % sabbato
 
