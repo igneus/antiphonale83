@@ -1,0 +1,228 @@
+\header
+title: Hebdomada V Quadragesimae
+
+% feria II
+
+\score
+id: f2b
+book: AM 370
+mode: 1
+annotation: ad Ben.
+annotation: I f
+c4 d e_f g e gh fe d_f_d_'/dc. ,
+f h g' f gh~ h. ;
+d fe d e' f gh gf f_' ,
+f e' f g fe d cd d. ::
+IN -- cli -- ná -- vit se Je -- sus, *
+scri -- bé -- bat in ter -- ra:
+Si quis si -- ne pec -- cá -- to est,
+mit -- tat in e -- am lá -- pi -- dem.
+
+\score
+id: f2m
+book: AM 371
+mode: 3
+annotation: ad Magn.
+annotation: III a
+c4 g hi () i' i i ji hg~ h!iwj_i hi i.g. :
+i ji h gi i. :
+i k kl k kj~ h> g!hwi i. ;
+i_' j i gg f_g h gh e. e. ::
+NE -- mo * te con -- de -- mná -- vit, mú -- li -- er?
+Ne -- mo, Dó -- mi -- ne.
+Nec e -- go te con -- de -- mná -- bo:
+jam ám -- pli -- us no -- li pec -- cá -- re.
+
+\markup
+What do the other two antiphons for f2, with shortcut
+Ac (as opposed to normal A for antiphon) in the OCO,
+actually mean? What is their purpose?
+Free choice?
+
+\score
+id: f2bc
+book: AM 381
+mode: 3
+annotation: ad Ben.
+annotation: III a
+c4 g gj h g!hwi i. ,
+i_j k> j ji h ji hg g. ;
+g h' j i' h g' h h_i ,
+g gf e de e. ::
+QUI sé -- qui -- tur me, *
+non ám -- bu -- lat in té -- ne -- bris:
+sed ha -- bé -- bit lu -- men vi -- tae,
+di -- cit Dó -- mi -- nus.
+
+\score
+id: f2mc
+book: AM 388
+mode: 8
+annotation: ad Magn.
+annotation: VIII g
+c4 g g g () fd e f gh h g_' g gh g g h_i gh g f. ;
+g g' g gh g f' g h j' j i_' ,
+g i_j h' h g. g. ::
+E -- GO sum * qui te -- sti -- mó -- ni -- um per -- hí -- be -- o de me -- íp -- so:
+et te -- sti -- mó -- ni -- um pér -- hi -- bet de me,
+qui mi -- sit me Pa -- ter.
+
+% feria III
+
+\score
+id: f3b
+book: AM 355
+mode: 8
+annotation: ad Ben.
+annotation: VIII c
+c3 h_ hg/hih () h_f~ g' f e_' ,
+f ed~ ef f> e. e. ::
+E -- go * prin -- cí -- pi -- um,
+qui et lo -- quor vo -- bis.
+
+\score
+id: f3m
+book: AM 356
+mode: 1
+annotation: ad Magn.
+annotation: I f
+c4 d e_f g ge~ () f' e> d. ,
+dc~ f g h' g f' g f. ;
+f f' g h' g f f fg f. ,
+e_f g fe d. d. ::
+QUI me mi -- sit, * me -- cum est,
+et non re -- lí -- quit me so -- lum:
+qui -- a quae plá -- ci -- ta sunt e -- i,
+fá -- ci -- o sem -- per.
+
+% feria IV
+
+\markup
+The following antiphon is from quite a rare source,
+not accessible to me.
+I haven't seen it directly, but only a transcription
+of the antiphon contained in
+\href{http://musicasacra.com/dominican/a2a.pdf}{http://musicasacra.com/dominican/a2a.pdf}
+(page 577 for print, page 298 in the pdf)
+It is quite probable that P. Thompson e.g. stripped
+Solesmes rhythmical signs when including the antiphon
+in his Dominican chant edition.
+The printed source is definitely worth checking if available.
+
+\score
+id: f4b
+book: VM 20
+mode: 7
+annotation: ad Ben.
+annotation: VII a
+c2 c c e f g h g ,
+g f h j i h g hg e fg g ;
+g!hiHG hg g h g f ef gf d dc c :
+gg f hj ji hg h gf e!fg g ;
+g!hi h g f fe d e fg~ gvFD e d c bc c ::
+Si di -- le -- xé -- ri -- tis me *
+et ver -- ba me -- a in vo -- bis mán -- se -- rint,
+ve -- re di -- scí -- pu -- li me -- i é -- ri -- tis,
+et co -- gno -- scé -- tis ve -- ri -- tá -- tem
+et vé -- ri -- tas li -- be -- rá -- bit vos, di -- cit Dó -- mi -- nus.
+
+\score
+id: f4m
+book: AM 377
+mode: 7
+annotation: ad Magn.
+annotation: VII c2
+c3 g h i' j i. () hg~ f h' i h. ;
+i g h' f f_e f ed e_f g f> e. e. ::
+QUid me quaé -- ri -- tis * in -- ter -- fí -- ce -- re,
+hó -- mi -- nem qui ve -- ra lo -- cú -- tus sum vo -- bis?
+
+% feria V
+
+\score
+id: f5b
+book: AM 390
+mode: 3
+annotation: ad Ben.
+annotation: III a
+c4 g gj h g!hwih i_/j/ji. ,
+i j k' j ji h_g , g h j' i hv_GF gh gf e. e. :
+e ed g hi i_' ,
+j h' i k i_j i. ;
+g hi h h hv_GF' g ghg e. e. ;
+f e' f g_hG'F g gf e. e. ::
+DI -- cé -- bat Je -- sus *
+tur -- bis Ju -- dae -- ó -- rum
+et prin -- cí -- pi -- bus sa -- cer -- dó -- tum:
+Qui ex De -- o est,
+ver -- ba De -- i au -- dit:
+pro -- ptér -- e -- a vos non au -- dí -- tis,
+qui -- a ex De -- o non es -- tis.
+
+\score
+id: f5m
+book: AM 393
+mode: 2
+annotation: ad Magn.
+annotation: II d
+f3 e g!hwi ig~ () ij hg~ f f_h_f_'/fe. ,
+h/i'j ji~ ii g' i i ij j' h hg~ f. f. ;
+f e_c e f gh g f. ::
+A -- bra -- ham * pa -- ter ve -- ster
+ex -- sul -- tá -- vit ut vi -- dé -- ret di -- em me -- um:
+vi -- dit, et ga -- ví -- sus est.
+
+% feria VI
+
+\score
+id: f6b
+book: AM 395
+mode: 4
+annotation: ad Ben.
+annotation: IV A*
+c3 e f' h h' h ij ii ,
+h' i j i' h i. i. ;
+f_i h' g f_e f_e ,
+d' e f' h f ef f. ::
+MUl -- ta bo -- na ó -- pe -- ra *
+o -- pe -- rá -- tus sum vo -- bis:
+pro -- pter quod o -- pus
+vul -- tis me oc -- cí -- de -- re?
+
+\score
+id: f6m
+book: AM 397
+mode: 1
+annotation: ad Magn.
+annotation: I g
+c4 e c' d dh h_i h g' () h g' h g_h_g_. ;
+f g ixh_iH'G h_g e' g h' f ef~ d. d. ;
+dgf/gh g g hf/gf d f_g gf~ g ixig hh ,
+e' f g fe~ d. d. ::
+AP -- pro -- pin -- quá -- bat au -- tem * di -- es fe -- stus,
+et quae -- ré -- bant prín -- ci -- pes sa -- cer -- dó -- tum
+quó -- mo -- do Je -- sum in -- ter -- fí -- ce -- rent,
+sed ti -- mé -- bant ple -- bem.
+
+% sabbato
+
+\score
+id: sb
+book: AM 397
+mode: 1
+annotation: ad Ben.
+annotation: I g
+c4 dd c d' f e>' d d_f_d_'/dc. ,
+dc~ f gh ixh_i_h_' g ixig h_' ,
+h g f' e c cd d. :
+d d f' dg/gc~ d_e_d_'/dc. ;
+f f ixhih' g ixig h. ;
+h g f' e fg~ ixg!hwi_HG. ,
+c' d f fgf~ d cd d. ::
+PRín -- ci -- pes sa -- cer -- dó -- tum *
+con -- sí -- li -- um fe -- cé -- runt
+ut Je -- sum oc -- cí -- de -- rent:
+di -- cé -- bant au -- tem:
+Non in di -- e fe -- sto,
+ne for -- te tu -- múl -- tus
+fí -- e -- ret in pó -- pu -- lo.
