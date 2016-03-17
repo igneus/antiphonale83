@@ -1,0 +1,196 @@
+\header
+title: Dominica Paschae
+oco-paragraph: 40
+
+% laudes
+
+\score
+id: l1
+cao-number: 5077
+mode:
+annotation: 1. ant.
+annotation:
+Surréxit Christus et illuxit
+
+\score
+id: l2
+book: PM 74
+mode: 6
+annotation: 2. ant.
+annotation: VI f
+c4 f f g h g f g gh f. ,
+f!gwhg h g f!gwhg h_g_ f_g h fe d!ewf. ;
+c d f' f g> f f fe~ d_c_ f g gf~ f. ::
+Sur -- ré -- xit Chri -- stus de se -- púl -- cro, *
+qui li -- be -- rá -- vit tres pú -- e -- ros
+de ca -- mí -- no i -- gnis ar -- dén -- tis, al -- le -- lú -- ia.
+
+\score
+id: l3
+cao-number: 5079
+mode:
+annotation: 3. ant.
+annotation:
+Surrexit Dominus de sepulcro,
+qui pro nobis pependit in ligno,
+alleluia.
+
+\score
+id: r
+book: GR 196
+mode: 2
+annotation: II
+c3 gxf_e/gvFEfd/f_h hhhvFEfef f. ;
+ef hh hh/ijh/hvFEf. ,
+hfh hhh h.f!gwh!iv./hi/jh/h/i/ih. :
+f h (hg/hi!jvHGh/hg , i_h/ivHF) fhF'Efh/hf/hvhvGF'he/ed. :
+d!ef fef hf/hhh hiHF. ;
+ef hf/h_i ih/ijI'H , jh/jkIG'hvF'E/f!gwh!iv./h!i'j ,_ i!jijHFgwhf. ::
+HAec di -- es, *
+quam fe -- cit Dó -- mi -- nus:
+ex -- sul -- té -- mus,
+et lae -- té -- mur
+in e -- a.
+
+\score
+id: ba
+book: AM 450
+mode: 8
+annotation: ad Ben.
+annotation: VIII g
+c3 e!fwh f f fe~ d ef f e. ,
+g h i_j i i_j h' f h' h g. ;
+h h' h h h f' h g_f e_' ,
+e g' e f' g f. f. ;
+f g_h f_h g fe~ d ef f e. e. ::
+VE -- spe -- re au -- tem sáb -- ba -- ti, *
+quae lu -- cé -- scit in pri -- ma sáb -- ba -- ti,
+ve -- nit Ma -- rí -- a Mag -- da -- lé -- ne,
+et ál -- te -- ra Ma -- rí -- a,
+vi -- dé -- re se -- púl -- crum, al -- le -- lú -- ia.
+
+\score
+id: bb
+book: AM 456
+mode: 8
+annotation: ad Ben.
+annotation: VIII g
+c4 g gj h' h g_' ,
+h gf gh h g. g. ;
+i j k>' h> hk i' j_ i. ;
+i_j h_j i_ hg f gh h g. g. ::
+ET val -- de ma -- ne *
+u -- na sab -- ba -- tó -- rum,
+vé -- ni -- unt ad mo -- nu -- mén -- tum,
+or -- to jam so -- le, al -- le -- lú -- ia.
+
+\score
+id: bc
+book: AM 465
+mode: 1
+annotation: ad Ben.
+annotation: I f
+c4 d d dc~ f g f_h h. ;
+h h' j h' g h gf ixg!hwi_h gh h_f ,
+g g gh g' f g fe d!ewf f.c. ;
+c_d f fd~ f!gwh g. ,
+g_h f f fe~ dc d fe d. d. ::
+CUr -- ré -- bant du -- o si -- mul, *
+et il -- le á -- li -- us di -- scí -- pu -- lus
+prae -- cu -- cúr -- rit cí -- ti -- us Pe -- tro,
+et ve -- nit pri -- or
+ad mo -- nu -- mén -- tum, al -- le -- lú -- ia.
+
+% horae
+
+\score
+id: 3
+book: AM 453
+mode: 8
+annotation: ant.
+annotation: VIII g
+c4 g!hwj h h hg~ f g_h_g_ fg g. ,
+i' j k jh jj i. ;
+j j jkj jij' j ji~ h i_j i g. ;
+g f' g f' g h jj i_' ,
+g i_j h> gf gh h g. g. ::
+AN -- ge -- lus au -- tem Dó -- mi -- ni *
+de -- scén -- dit de cae -- lo,
+et ac -- cé -- dens re -- vól -- vit lá -- pi -- dem,
+et se -- dé -- bat su -- per e -- um,
+al -- le -- lú -- ia, al -- le -- lú -- ia.
+
+\score
+id: 6
+book: AM 454
+mode: 7
+annotation: ant.
+annotation: VII c
+c3 i i' g i' j i. i. ,
+h_i j ih i. i. ;
+i> f' i h' g f' e f_e ,
+d' e f' h f e' f gf e. e. ::
+ET ec -- ce ter -- rae -- mó -- tus *
+fac -- tus est ma -- gnus:
+An -- ge -- lus e -- nim Dó -- mi -- ni
+de -- scén -- dit de cae -- lo, al -- le -- lú -- ia.
+
+\score
+id: 9
+book: AM 454
+mode: 8
+annotation: ant.
+annotation: VIII c
+c3 h h hig e_' ,
+g i' h i>' h hg f hih hgh. ;
+h h h' h g_f e_' g fe~ f_' ,
+f ed c' d ef f e. e. ::
+E -- rat au -- tem *
+a -- spéc -- tus e -- jus si -- cut ful -- gur:
+ve -- sti -- mén -- ta e -- jus si -- cut nix,
+al -- le -- lú -- ia, al -- le -- lú -- ia.
+
+% vesperae
+
+\score
+id: v1
+book: AM 480
+mode: 1
+annotation: 1. ant.
+annotation: I f
+c4 d d d dc~ f g f_h h_' ,
+h h!iwji/jkj hih' h gf ixg!hwi_HG h.g. ;
+g g' g e' g h_g f_' ,
+f fg f f fe~ dc d fe d. d. ::
+VE -- né -- runt ad mo -- nu -- mén -- tum *
+Ma -- rí -- a Ma -- gda -- lé -- ne,
+et ál -- te -- ra Ma -- rí -- a,
+vi -- dé -- re se -- púl -- crum, al -- le -- lú -- ia.
+
+\score
+id: v2
+cao-number: 5352 % OCO: "cum duabus alleluia"
+mode:
+annotation: 2. ant.
+annotation:
+
+\score
+id: vm
+book: AM 475
+mode: 1
+annotation: ad Magn.
+annotation: I d
+c4 c cd d' d d' () d d' f dcd. ,
+c d fd/f/g'h fe d. d. ;
+dc~ f g' h gf~ f_g gv_FED. ,
+d d dc f g' f gh h_ggo> f_g hg gfg d. ;
+g g' g h' g fg f f. ;
+f g f' f e_f ,
+gf fe dc d fe d. d. ::
+CUM es -- set se -- ro * di -- e il -- la
+u -- na sab -- ba -- tó -- rum,
+et fo -- res es -- sent clau -- sae,
+u -- bi e -- rant di -- scí -- pu -- li con -- gre -- gá -- ti,
+ste -- tit Je -- sus in mé -- di -- o,
+et di -- xit e -- is:
+Pax vo -- bis, al -- le -- lú -- ia.
