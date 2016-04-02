@@ -1,0 +1,115 @@
+\header
+title: Antiphonae ad psalmos et cantica officii lectionis, laudum vesperarumque pro tempore paschali
+oco-paragraph: 41
+
+\markup
+Usually one antiphon is given for all psalms of the Office
+of Readings, followed by an antiphon used for both psalms
+of Lauds/Vespers and a second antiphon for the OT/NT
+canticle.
+
+\markup\section*{Dominica}
+
+\score
+id: dol
+book: PM 281a % in OCO only "M 281a"
+mode: 6
+annotation: ant.
+annotation: VI f
+c4 f fg gh f_' () f fg gf~ d!ewfEC. ;
+c d f_fg fe g gh f. f. ::
+Al -- le -- lú -- ia, * al -- le -- lú -- ia, al -- le -- lú -- ia, al -- le -- lú -- ia.
+
+\markup (For Lauds and Vespers Sundays have proper antiphons.)
+
+\markup\section*{Feria II, V ad libitum}
+
+\score
+id: f2ol
+book: PM 85, 136, 174 % several occurrences of the same ant.
+mode: 4
+annotation: ant.
+annotation: IV*
+c4 e f g_0!h>_0 g_' , g h g> fd f g e. e. ::
+Al -- le -- lú -- ia, * al -- le -- lú -- ia, al -- le -- lú -- ia.
+
+\score
+id: f21
+book: PM 170
+mode: 2
+annotation: 1. ant.
+annotation: II d
+f3 h_g~ f f> g_' () f> e f g' h> g f. f. ::
+Al -- le -- lú -- ia, * al -- le -- lú -- ia, al -- le -- lú -- ia.
+
+\score
+id: f22
+book: PM 279
+mode: 8
+annotation: 2. ant.
+annotation: VIII g
+% todo gj je v notach jina neuma
+c4 g g gj h_' () h> g h> g. ; g> f g h' i> hg h> g. ::
+Al -- le -- lú -- ia, * al -- le -- lú -- ia, al -- le -- lú -- ia, al -- le -- lú -- ia.
+
+\markup\section*{Feria III, VI ad libitum}
+
+\score
+id: f3ol
+book: PM 119, 205, 318
+mode: 8
+annotation: ant.
+annotation: VIII g
+c3 h> g h> f_' , e> d e f' g> fe f e. ::
+Al -- le -- lú -- ia, * al -- le -- lú -- ia, al -- le -- lú -- ia.
+
+\score
+id: f31
+book: PM 324
+mode: 3
+annotation: 1. ant.
+annotation: III g
+c4 g h j j_i_ ,
+h> g gh g_f_ g gf e. e. ::
+Al -- le -- lú -- ia, * al -- le -- lú -- ia, al -- le -- lú -- ia.
+
+\score
+id: f32
+book: PM 278
+mode: 7
+annotation: 2. ant.
+annotation: VII d
+c3 e e ei~ i. () h g hi~ i. ;
+j> i hhg~ f' g> f e. e. ::
+Al -- le -- lú -- ia, * al -- le -- lú -- ia, al -- le -- lú -- ia, al -- le -- lú -- ia.
+
+\markup\section*{Feria IV, Sabbato}
+
+\score
+id: f4ol
+book: PM 141, 233
+mode: 5
+annotation: ant.
+annotation: V a
+c3 d e ee> d_' () f h h_i h_g_ fe~ fe d. d. ::
+Al -- le -- lú -- ia, * al -- le -- lú -- ia, al -- le -- lú -- ia.
+
+\score
+id: f41
+book: AM 98 % OCO says AM 96
+mode: 8
+annotation: 1. ant.
+annotation: VIII g
+c3 e h' h g' () e g' h f. ;
+f e' f f' g f e. e. ::
+Al -- le -- lú -- ia, * al -- le -- lú -- ia, al -- le -- lú -- ia, al -- le -- lú -- ia.
+
+\score
+id: f42
+book: PM 297
+mode: 2
+annotation: 2. ant.
+annotation: II d
+f3 f h h_g~ f_' () g> e f> e. ;
+f h hg~ fe f gh f. f. ::
+Al -- le -- lú -- ia, * al -- le -- lú -- ia, al -- le -- lú -- ia, al -- le -- lú -- ia.
