@@ -22,8 +22,18 @@ file 'psalter.ly' => [__FILE__] do |t|
   File.write t.name, str
 end
 
-file 'psalter.pdf' => ['psalter.ly'] do
-  sh 'lilypond', '--include=/home/igneus/src/lilypond/lilygabc', 'psalter.ly'
+file 'psalter_vaticana.ly' => ['psalter.ly', __FILE__] do |t|
+  sh "echo '\\include \"gregorian.ly\"' > #{t.name}"
+  sh "sed s/gabc-file/gabc-vaticana-file/ #{t.prerequisites[0]} | " +
+     "sed s/lilygabcModernGregorianStemlessLayout/lilygabcVaticanaLayout/ " +
+     " >> #{t.name}"
 end
+
+lilypond = lambda do |task, _|
+  sh 'lilypond', '--include=/home/igneus/src/lilypond/lilygabc', task.prerequisites[0]
+end
+
+file 'psalter.pdf' => ['psalter.ly'], &lilypond
+file 'psalter_vaticana.pdf' => ['psalter_vaticana.ly'], &lilypond
 
 task default: 'psalter.pdf'
