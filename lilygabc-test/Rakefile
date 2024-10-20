@@ -1,0 +1,29 @@
+# Try rendering existing gabc scores with lilygabc en masse
+
+file 'psalter.ly' => [__FILE__] do |t|
+  # list the gabc files in the same order they are typeset
+  # in the psalter booklet, so it's easy to compare
+  # Gregorio and LilyPond rendering
+  str =
+    "\\include \"lilygabc.ily\"\n" +
+    "\\layout { \\lilygabcModernGregorianStemlessLayout }\n" +
+    File
+      .read('../libelli/psalterium.tex')
+      .scan(/\\gregorioscore\{(.+?)\}|\\(sub)?section\*?\{(.+?)\}/)
+      .collect do |i|
+    if i[0]
+      "\\score { \\gabc-file \"../libelli/#{i[0].sub('.gtex', '.gabc')}\" }"
+    elsif i[2]
+      (i[1] ? "" : "\\pageBreak\n") +
+        "\\markup\\large{#{i[2]}}"
+    end
+  end.join("\n")
+
+  File.write t.name, str
+end
+
+file 'psalter.pdf' => ['psalter.ly'] do
+  sh 'lilypond', '--include=/home/igneus/src/lilypond/lilygabc', 'psalter.ly'
+end
+
+task default: 'psalter.pdf'
