@@ -1,36 +1,29 @@
-l. Tempus Adventus usque ad diem 16 decembris — ADV (I)
+# TEMPUS ADVENTUS
+
+1. Tempus Adventus usque ad diem 16 decembris — ADV (I)
 
 M H Conditor alme siderum AM 182
 CM H Te lucis ante terminum AM 1:835
 I A Regem venturum *
-
 OL H Verbum supernum ...a Patre *
 
-In. officio dominicali:
+In officio dominicali:
 
-Ai Veniet ecce rex excelsus. PM 3r
-
+A1 Veniet ecce rex excelsus. PM 3r
 A2 Gaude et laetare ... filia Ierusalem PM 35
 A3 In adventu PM 37
-
 H Te Deum: cf. n. 97
-
 LM H Vox clara ecce intonat AM 184
-
-HM H . Nunc sancte in tono H. Te lucis AM 183
-
+HM H Nunc sancte in tono H Te lucis AM 183
 T A Prophetae praedicaverunt AM 215
-
 S H Rector potens in tono H Te lucis AM 183
 A Gabriel angelus locutus est AM 866
-
 N H Rerum Deus in tono H Te lucis AM 183
-
 A Quomodo fiet istud. AM 225
 
-2. Dominica 1* Adventus — DiADV
+2. Dominica 1a Adventus — DiADV
 
-iV Ai  Annuntiate populis. PM 216
+1V Ai  Annuntiate populis. PM 216
 A2 Ecce Dominus veniet AM 187
 A3  Venict Dominus in potestate CAO 5338
 M A Ecce nomen Domini AM 186
@@ -45,7 +38,6 @@ A2 Rex nostr CAO 2655
 M Aa Spiritus Sanctus... ne timeas AM 189
 Ab Vigilate animo AM 223
 Ac Ne timeas Maria AM 190
-372 [16] PROPRIUM DE TEMPORE
 
 3. F2 B A Leva Ierusalem | AM 191
 M A Angelus Domini nuntiavit AM 19r
@@ -59,20 +51,18 @@ F6 B A Ecce veniet Deus et homo AM 193
 M A Ex Aegypto AM 194
 Sab B A Exibunt aquae vivae AM 1093
 
-4. Dominica 2* Adventus — D2ADV
+4. Dominica 2a Adventus — D2ADV
 
-iV Ar Sion noli timere AM 194
+1V Ar Sion noli timere AM 194
 A2 Confortate manus dissolutas PM 42
 A3 Lex per Moysen data est. AM 214
 M A Veni Domine visitare AM 195
-LM Ai — Urbs fortitudinis nostrae AM 195
+LM A1 — Urbs fortitudinis nostrae AM 195
 A2 Omnes sitientes AM 188
 A3 Ecce Dominus noster AM 197
-
 B Aa Ecce mitto angelum meum | AM 201:
 Abc Vox clamantis in deserto AM 200
-2V Air — Ecce in nubibus caeli AM 195
-
+2V A1 Ecce in nubibus caeli AM 195
 A2 Ecce apparebit Dominus AM 196
 M Aab Venict fortior me AM 192
 Ac Dominus legifer noster AM 217
@@ -89,9 +79,8 @@ M A Super te Ierusalem AM 200
 F6 B A Dicite: pusillanimes AM 202
 M A Haurietis aquas AM 213
 Sab B A Levabit Dominum signum AM 203
-TEMPORE ADVENTUS [17] 373
 
-Dominica 3* Adventus — D3ADV
+6. Dominica 3* Adventus — D3ADV
 
 iV Air Ierusalem gaude AM 204
 A2 Ego Dominus prope feci AM aoarialiones 15
@@ -108,25 +97,20 @@ A2  Erumpant montes iucunditatem | CAO 4655
 M  Aab Tu es qui..an alium AM r99
 Ac Veniet fortior me. AM 192
 
-F2 B A De caelo veniet. AM 199
-
+7. F2 B A De caelo veniet. AM 199
 M A Beatam me ...ancilam AM 22r
 F3 B A Elevare, elevare AM 222
-
 M A Antequam convenirent AM 19r
 F4 B A Consolamini AM 231:
-
 M A Tu es qui...quem AM 20r
 F5 B A Consurge, consurge AM 230
-
 M A Laetamini cum Ierusalem AM 223
 F6 B A Exspectetur AM 218
-
 M A Hoc est testimonium AM 224
 
-Dominica 4?» Adventus — D4ADV
+8. Dominica 4a Adventus — D4ADV
 
-iV Ar — Ecce veniet desideratus AM 227
+1V Ar — Ecce veniet desideratus AM 227
 A2 Veni Domine et noli AM 218
 A3 Ecce iam venit ... Filium suum AM 213
 LM Ai  Canite tuba AM 2926
@@ -137,71 +121,66 @@ Ab Ave Maria AM 228
 Ac X Ex quo facta est ... in gaudio infans AM 224
 2V Ai  Intuemini quantus sit AM variationes 14
 A2 Erunt prava AM 227
-374 [18] - PROPRIUM DE TEMPORE
 
 9. Tempus Adventus post diem 16 decembris — ADV(II)
 
 V H Verbum, in (ono H. Conditor AM 182
-
 CM H Christe qui, in tono H Te lucis AM 183
-
 I A Prope est iam Dominus: venite adoremus *
-
 OL H Veni redemptor in tono H Te lucis AM 239
-
 LM H Magnis prophetae vocibus
-
 HM H Certum tenentes in tono H Te lucis AM 183
-
 T A Prophetae praedicaverunt AM 215
-
 S H Dicamus laudes in tono H Te lucis AM 183
 A Gabriel angelus locutus est AM 866
-
 N H Ternis horarum, in tono H Te lucis AM 183
-A Quomodo fiet istud. AM 225
+A Quomodo fiet istud AM 225
 
-10. ANTrPHONAE AD Lauprs ET VEsPERAs, a die 17 ad diem 23 dec.
+10. Antiphonae ad Laudes et Vesperas, a die 17 ad diem 23 dec.
 
-F2 Ai — Ecce venict Dominus princeps AM 212
+F2 A1 Ecce veniet Dominus princeps AM 212
 A2 Cantate Domino canticum AM 202
 As Dum venerit Filius hominis AM 212
-F3 Ai  Egredietur Dominus AM 219
+
+F3 A1  Egredietur Dominus AM 219
 A2 Urbs fortitudinis AM 195
 A3 Ut cognoscamus AM 214
-F4 Ai De Sion veniet Dominus AM 216
+
+F4 A1 De Sion veniet Dominus AM 216
 A2 Propter Sion non tacebo AM 215
 A3 Spiritus Domini super me AM 215
-F5 Ai — Ad te Domine levavi AM 217
+
+F5 A1 Ad te Domine levavi AM 217
 A2 Da mercedem Domine AM 214
 Ag Convertere Domine aliquantulum AM 216
-F6 Ai De Sion veniet qui regnaturus AM 216
-A2  Constantes estote AM 217
+
+F6 A1 De Sion veniet qui regnaturus AM 216
+A2 Constantes estote AM 217
 Ag Ego autem ad Dominum AM 218
+
 Sab Ai Deus a Libano veniet AM 218
 A2 Rorate caeli desuper AM 213
-A3 Paratus esto Israel. PM 383
+A3 Paratus esto Israel PM 383
 
-1l. ANTIPHONAE AD CANTICA EVANGELICA
+11. Antiphonae ad cantica evangelica
 
 die 17 decembris
 B A Scitote quia prope est AM 237
 M A  O Sapientia AM 208
+
 die 18 decembris
 B A Vigilate animo AM 223
 M A O Adonai AM 209
-TEMPORE NATIVITATIS [19] 375
-
-12.
 
 die 19 decembris
 B A Ipse praeibit ante illum AM 920
 M A O Radix Iese AM 209
+
 die 20 decembris
 B A Missus est...ad AM 222
 M A O Clavis David AM 210
-die 21 decembris
 
+die 21 decembris
 B A Nolite timere AM 219
 M A O Oriens AM 2:0
 
@@ -214,145 +193,117 @@ B A Eccc completa sunt AM 220
 M A O Emmanuel AM 2r:
 
 die 24 decembris
-
-I A  . Hodie scictis *
-
-LM Ai Tu Bethleem AM 221
-
+I A Hodie scictis *
+LM A1 Tu Bethleem AM 221
 A2 Levate capita AM 237
+A3 Crastina erit vobis AM 233
+B A Orietur sicut sol AM 234
 
-Ag Crastina erit vobis AM 233
-A
+# TEMPUS NATIVITATIS
 
-B Orictur sicut sol AM 234
+12. Tempus Nativitatis usque ad sollemnitatem Epiphaniae — NAT(I)
 
-TEMPUS NATIVITATIS
-
-Tempus Nativitatis usque ad sollemnitatem Epipha-
-niae — NAT(I)
-
-V H . Christe redemptor ... ex Patre AM 238
-
+V H Christe redemptor ... ex Patre AM 238
 CM H — Te lucis ante terminum AM 239
-
 I A Christus natus est nobis NAT 6
-
 OL H Candor in tono H Inter aeternas AM 854
-
-uel in tono simpliciori *
-
+vel in tono simpliciori *
 LM H A solis ortus cardine AM 242
-
 HM H Nunc sancte in tono H Te lucis AM 239
-
 T A Erant parentes Iesu. GS 73
-
 S H Rector potens in tono H Te lucis AM 239
 A Maria autem AS 1033 vel. GS 74
-
 N H Rerum Deus in tono H. Te lucis AM 239
-
 A Viderunt omnes. GS 22
-376 [20] PROPRIUM DE TEMPORE
 
 13. In Nativitate Domini, die 25 decembris
 
-iV Ai Rex pacificus AM 236
+1V A1 Rex pacificus AM 236
 A2  Completi sunt dies Mariae AV 227
 A3 Super solium David AM 206
 M A Cum ortus fuerit AM 239
-OL Ai Dominus dixit ad me NAT ri:
+OL Ai Dominus dixit ad me NAT 11
 A2 Tamquam sponsus NAT :2
 A3 Diffusa est gratia. NAT 14
-LM Ar — Quem vidistis AM 240
-A2  Angclus ad pastores AM 241
-Ag  Parvulus filius AM 242
+LM A1 Quem vidistis AM 240
+A2  Angelus ad pastores AM 241
+A3  Parvulus filius AM 242
 B A Gloria in excelsis AM 243
 2V Ar Tecum principium AM 245
 A2 Apud Dominum AM 246
-As In principio et ante saecula Deus erat Ver-
-bum: ipse matus est nobis Salvator
-mundi CAO 3273
+A3 In principio et ante saecula Deus erat Verbum: ipse matus est nobis Salvator mundi CAO 3273
 M A Hodie Christus natus est. AM 249
 
 14. Sanctae Familiae — S.FAM
 
-iV H  O lux beata caelitum *
-Ari Iacob autem genuit AM 836
+1V H  O lux beata caelitum *
+A1 Iacob autem genuit AM 836
 A2 Ioseph fili David AM 889
-Ag Pastores venerunt AV (128)
+A3 Pastores venerunt AV (128)
 M A Remansit puer Iesus. AM 301
 I A Christum Dei Filium *
 OL H Dulce fit nobis
-Ar Cum inducerent AM 803
+A1 Cum inducerent AM 803
 A2 Magi intrantes domum AV (118)
 A3  Consurgens Ioseph AV (130)
 LM H Christe splendor Patris
-Ai  Ibant parentes Iesu AM 841
+A1  Ibant parentes Iesu AM 841
 A2 Puer lesus proficiebat AM 267
-Ag Erant pater eius et mater AV (118)
+A3 Erant pater eius et mater AV (118)
 B Aa  Illumina nos Domine AV (122)
 Ab Dicebant: Unde huic AV (i21)
 Ac Non invenientes Iesum. AM 842
-2V Ai Post triduum AV (120)
+2V A1 Post triduum AV (120)
 A2 Descendit Iesus AM 842
-Ag Et Iesus proficiebat AV (120)
+A3 Et Iesus proficiebat AV (120)
 M Aa Angelus Domini apparuit in somnis AV (118)
-TEMPORE NATIVITATIS - [21] 377
-
-Ab Nonne hic cst fabri filius? Nonne hic cst
-filius Ioseph *
+Ab Nonne hic cst fabri filius? Nonne hic est filius Ioseph *
 Ac Fili, quid fecisti... ego AM 303
 
 15. die 26 decembris
 M A Dum medium silentium AM 265
+
 die 27 decembris
-M A Gaude, Dei Genetrix, Virgo immaculata;
-gaude, quae gaudium ab angelo susce-
-pisti; tu sola mater inupta, te laudat
-omnis factura genetricem lucis, alleluia,
-alleluia. CAO 2920
+M A Gaude, Dei Genetrix, Virgo immaculata; gaude, quae gaudium ab angelo suscepisti; tu sola mater inupta, te laudat omnis factura genetricem lucis, alleluia, alleluia. CAO 2920
+
 die 28 decembris
 M A Nesciens mater. PR 39
 De caelo pleno CAO 3877
 
 die 29 decembris
-OL Ai  Sanctificavit tabernaculum PM i19
+OL A1  Sanctificavit tabernaculum PM i19
 A2  Orietur in diebus NAT 17
-Ag  Liberavit Dominus PM 160
+A3  Liberavit Dominus PM 160
 B A Pastores loquebantur CAO 4225
-M A Eccc iam venit plenitudo PM 53
+M A Ecce iam venit plenitudo PM 53
+
 die 30 decembris
-OL Ai — Veritas de terra. NAT 25
+OL A1 Veritas de terra. NAT 25
 A2 Misericordia et veritas PM 208
 A3 Et ego primogenitum PM 208
-B A Nato Domino NAT 3:
+B A Nato Domino NAT 31
 M A Glorificamus te Dei Genetrix *
 
 die 31 decembris
-OL Ai  Lactentur caeli NAT 28
-A2 Natus est nobis hodie salvator qui est Christus
-Dominus in civitate David. CAO 3857
+OL A1  Lactentur caeli NAT 28
+A2 Natus est nobis hodie salvator qui est Christus Dominus in civitate David. CAO 3857
 A3  lubilate in conspectu PM 218
 B A Facta est cum angelo AM 241
 
 16. Sollemnitas Sanctae Dei Genetricis Mariae, die 1 ian.
 
 1.2V H Corde natus ex Parentis
-Ai  O admirabile commercium AM 271
+A1  O admirabile commercium AM 271
 A2 Quando natus est. AM 271
 A3  Rubum quem viderat AM 272
-378 [22] PROPRIUM DE TEMPORE
-
-IV M. A Propter nimiam caritatem AM 270
+1V M A Propter nimiam caritatem AM 270
 I A Maternitatem *
-OL H — Radix Iesse floruit
-Ai  Elevamini portae NAT 1:3
+OL H Radix Iesse floruit
+A1  Elevamini portae NAT 1:3
 A2 Homo natus est in ea. CAO 3130
-As Ante luciferum ... nasi AM 290, cum textu
-L.H.
+As Ante luciferum ... nasi AM 290, cum textu L.H.
 LM H Fit porta Christi
-Ai  Germinavit radix AM 272
+A1  Germinavit radix AM 272
 A2 Ecce Maria AM 240
 A3  Genuit puerpera AM 273
 B A Mirabile mysterium AM 274
@@ -361,105 +312,85 @@ uel ad lib.: Magnum haereditatis AM 275
 
 17. Dominica 2* post Nativitatem — D2P.NAT
 
-iV Ai Virgo verbo concepit PR 148
+1V A1 Virgo verbo concepit PR 148
 A2  Lactamini cum Ierusalem AM 223
-As Natus est nobis Deus CAO 3856
-A Quid vobis videtur de Christo AM 609
-LM Aa Lux orta est super nos quia hodie natus est
-vobis Salvator, alleluia. CAO 3652
+A3 Natus est nobis Deus CAO 3856
+M A Quid vobis videtur de Christo AM 609
+LM Aa Lux orta est super nos quia hodie natus est vobis Salvator, alleluia. CAO 3652
 A2 Hymnum dicamus PM 396
-A3 Populo qui ambulabat in tenebris lux orta
-
-est ei. *
+A3 Populo qui ambulabat in tenebris lux orta est ei. *
 B A Virgo semper fidelis CAO 5452
-2V Ai  Illuxit nobis dies CAO 3188
-
+2V A1  Illuxit nobis dies CAO 3188
 A2 Lex per Moysen. AM 214
 M A Magnum haereditatis AM 275
 
-18. dic 2 ianuarii
+18. die 2 ianuarii
 
 B A Qui post me venit AM 202
-M A Exsulta et lauda habitatio Sion, quia magnus
-in medio tui sanctus Israel. *
+M A Exsulta et lauda habitatio Sion, quia magnus in medio tui sanctus Israel. *
 
 die 3 ianuarii
 B A Verbum caro ...et gratiam AR 323
 M A Ecce Maria genuit AM 273
 vel: Sic Deus dilexit mundum AM 525
+
 die 4 ianuarii
 B A Christus Deus noster CAO 179:
 M A Ego enim ex Deo procesi CAO 2573
-TEMPORE NATIVITATIS [23] 379
 
 die 5 ianuarii
 B A Laetamini cum Ierusalem AM 223
 vel: Visitavit et fecit redemptionem PM 230
 M A Levabit Dominus signum AM 203
 vel: De fructu. AM 247
+
 die 6 ianuarii
 B A Ecce puer meus. AM 256
-M A Caeli aperti sunt super eum et vox facta est
-de caelo dicens: « Hic est Filius meus
-dilectus in quo mihi complacui». CAO 1835
-die 7 ianuarii
-B A Ecce de quo Ioannes dixit: « Christus natus
+M A Caeli aperti sunt super eum et vox facta est de caelo dicens: « Hic est Filius meus dilectus in quo mihi complacui». CAO 1835
 
-est in Israel et regni cius non erit finis,
-alleluia». CAO 2501:
+die 7 ianuarii
+B A Ecce de quo Ioannes dixit: « Christus natus est in Israel et regni cius non erit finis, alleluia». CAO 2501:
 
 19. Tempus Nativitatis a sollemnitate Epiphaniae — NAT(II)
 
 V H Hostis Herodes impie AM 288
-
 CM H Christe in tono H. Te lucis AM 29o
-
 I A Christus apparuit nobis RM 68
-
 OL H Magi videntes in tono H Te lucis AM 290
-
 LM H Quicumque in tono H Hostis Herodes AM 288
-
-HM H . Certum tenentes in [ono H Te lucis AM 290
-
+HM H Certum tenentes in [ono H Te lucis AM 290
 T A Venite adoremus PM 27
-
 S H Dicamus laudes in tono H. Te lucis AM 290
 A Magnificabitur AM 1093
-
 N H Ternis horarum, in tono H Te lucis AM 290
-
 A Ecce dedi te in lucem. AM 1089
 
 20. In Epiphania Domini — EPI
 
-IV H . Quicumque in tono H Hostis Herodes AM 288
-Ai Ante luciferum genitus AM 290
+1V H Quicumque in tono H Hostis Herodes AM 288
+A1 Ante luciferum genitus AM 290
 A2  Scitote quia Dominus AM 279
 A3 Lauda lerusalem Dominum PM 349 cum
 cantico 1 "Tm 3,16 modo responsoriali
 M A Magi videntes stellam AM 289
 OL H Magi videntes in tono Te lucis AM 290
-Ai Reges Tharsis GS 79
+A1 Reges Tharsis GS 79
 A2  Adorate Dominum PM 45
-A3  Adorate Deum omnes angeli eius: audivit
-et laetata est Sion, alleluia. *
-380 [24] PROPRIUM DE TEMPORE
-
-LM H . Quicumque, in tono H Hostis Herodes AM 288
-Ari  Apertis AM 291
+A3  Adorate Deum omnes angeli eius: audivit et laetata est Sion, alleluia. *
+LM H Quicumque, in tono H Hostis Herodes AM 288
+A1  Apertis AM 291
 A2 Maria et flumina AM 291
-Ag Venit lumen tuum AM 290
+A3 Venit lumen tuum AM 290
 B A Hodie caelesti sponso AM 293
 2V H Hostis Herodes impie AM 288
-Ai  Magnificatus est AM 236
+A1  Magnificatus est AM 236
 A2  Exortum est in tenebris AM 246
-Ag Omnes gentes PM 377
+A3 Omnes gentes PM 377
 M A Tribus miraculis AM 296
 
 21. die 7 ianuarii vel feria 2 post dom. Epiphaniae
 
-B A  AbOQrinte AM 297
+B A  Ab Orinte AM 297
 M A Videntes stellam Magi AM 298
 
 die 8 ianuarii ve] feria 3 post dom. Epiphaniae
@@ -483,286 +414,136 @@ B A Hoc feit initium CAO 3089
 
 22. In Baptismate Domini — BAPT
 
-iV H A Patre in tono H. Quicumque AM 995
-
-Ai Ioannes quidem clamabat dicens: « Ego non
-sum dignus baptizare Dominum! » Respon-
-dit Iesus et dixit: « Sine modo, sic enim
-decet nos adimplere omnem iustitiam, alle-
-luia» CAO 3503
-
-A2  Cacli aperti sunt super eum, et vox facta est
-de caelo dicens: « Hic est filius meus di-
-lectus in quo mihi complacui» CAO 1835
-TEMPORE QUADRAGESIMAE [25] 381
-
-23.
-
-M
-I
-OL
-LM
-
-B
-2V
-M
-
+1V H A Patre in tono H. Quicumque AM 995
+A1 Ioannes quidem clamabat dicens: « Ego non sum dignus baptizare Dominum! » Respondit Iesus et dixit: « Sine modo, sic enim decet nos adimplere omnem iustitiam, alleluia» CAO 3503
+A2  Cacli aperti sunt super eum, et vox facta est de caelo dicens: « Hic
 A3 Lauda, cum cantico ut supra in 1V. Epiphaniae
-
-A Veterem hominem | CAO 5373
-
-A Christum Filium dilectum *
-
-H Implente in /ono H Te saeculorum AM 1090
-
-Ai — Vox Domini super aquas multas, Deus maic-
-statis intonuit: Dominus super aquas mul-
-
-tas *
-
+M A Veterem hominem CAO 5373
+I A Christum Filium dilectum *
+OL H Implente in tono H Te saeculorum AM 1090
+A1 Vox Domini super aquas multas, Deus maicstatis intonuit: Dominus super aquas multas *
 A2 Omnis terra adoret te GS 215
-
-H Iesus refulsit, in tono H Quicumque AM 995
-
-Ai  Baptizat miles Regem PR 44
-
+LM H Iesus refulsit, in tono H Quicumque AM 995
+A1  Baptizat miles Regem PR 44
 A2 Fontes aquarum CAO 2888
-
 A3 Te qui in Spiritu *
-
-Aa  Baptizatur Christus CAO 1554
-
+B Aa  Baptizatur Christus CAO 1554
 Ab Ecce puer meus AM 256
-
 Ac Dedit se ut liberaret AM 281
-
-H Implente, in fono H Te saeculorum AM 1090
-
-Ai Vox de caclis. CAO 5507
-
+2V H Implente, in fono H Te saeculorum AM 1090
+A1 Vox de caclis. CAO 5507
 A2 Caput draconis CAO 1768
-
 A3 Magnum mysterium CAO 3678
-
-Aa Christo datus est. PM 372
-
+M Aa Christo datus est. PM 372
 Ab  Dilexisti iustitiam GS 367
-
 Ac Quid vobis videtur AM 609
 
-TEMPUS QUADRAGESIMAE
+# TEMPUS QUADRAGESIMAE
 
-Tempus Quadragesimae usque ad sabbatum hebdo-
+23. Tempus Quadragesimae usque ad sabbatum hebdomadae 5ae = Q
 
-madae 53e
-
-V
-
-CM
-
-OL
-
-LM
-
-H In officio dominicali: Audi benigne AM 337
+V H In officio dominicali: Audi benigne AM 337
 In officio feriali: lesu quadragenariae, in tono
 H Lucis creator in hieme AM 128
-H Per hebd. 1, 3, 5a: Tec lucis AM 337
+CM H Per hebd. 1, 3, 5a: Tec lucis AM 337
 Per hebd. 2, 4a: Christe qui splendor, in tono
 H Tc lucis. AM 337
-A Christum Dominum *
+I A Christum Dominum *
 vel: Utinam hodie *
-H — In officio dominicali: Ex more docti, in tono H
+OL H In officio dominicali: Ex more docti, in tono H
 Nunc sancte. AM 339
 In officio feriali: Nunc tempus acceptabile, in
-lono H. Nunc sancte. AM 339
-H — In officio dominicali: Precemur omnes cernui *
+tono H. Nunc sancte. AM 339
+LM H In officio dominicali: Precemur omnes cernui *
 In officio feriali: Iam Christe sol AM 338
-
-382 [26] EN PROPRIUM DE TEMPORE
-
 T H Dei fide, in tono H Te lucis AM 337
 A Advenerunt nobis PM 286
-
-S H . Qua Christus hora, in tono H Te lucis AM 337
+S H Qua Christus hora, in tono H Te lucis AM 337
 A Vivo ego dicit PM 292
-
 N H Ternis ter horis, in tono H Te lucis AM 337
 A Per arma iustitiae PM 297
-
-2V Rbr. Ad libitum in offitio dominicali: Ego dixi, Do-
-
-mine AM 562
+2V Rbr. Ad libitum in offitio dominicali: Ego dixi, Domine AM 562
 
 24. F4 Cinerum — CIN
-
 B A Cum iciunatis AM 332
-
 M A Cum facis eleemosynam AM 334
+
 F5 post cineres
-
 B A Qui vult venire post AM 644
-
 M A Qui odit animam suam AM 642
+
 F6 post cineres
-
 B A Me etenim AM 335
-
 M A Cum videris nudum CAO 2647
-Sab post cineres
 
+Sab post cineres
 B A Thesaurizate AM 333
 
 25. Dominica 1* Quadragesimae — DiQ
 
-iV Ai In spiritu humilitatis PM 384
+1V A1 In spiritu humilitatis PM 384
 A2 Tunc invocabis AM 340
 A3 Dedit se ut liberaret AM 281
 M Aa Dixit Dominus ad Adam AM grt:
 Ab Dixit Dominus ad Noe AM 319
 Ac Non in solo pane AM 344
-LM Ai Benedicam te AM 341
+LM A1 Benedicam te AM 341
 A2 Hymnum dicite AM 327
-Ag  Beneplacitum est PM 78
+A3  Beneplacitum est PM 78
 B Aa Ductus est Iesus. AM 342
 Ab Iesus autem cum ieiunaseet AM 343
 Ac Tunc assumpsit AM 343
-2V Ai Dominum Deum tuum AM 344
-A2 Reliquit eum tentator et accesserunt angeli
-et ministrabant ei. CAO 4609
-Ag Ecce ascendimus ... et Filius AM 357
+2V A1 Dominum Deum tuum AM 344
+A2 Reliquit eum tentator et accesserunt angeli et ministrabant ei. CAO 4609
+A3 Ecce ascendimus ... et Filius AM 357
 M A Ecce nunc tempus PM 58
-wl: Aa  Evigila super nos PR 108
+vel: Aa  Evigila super nos PR 108
 Ab Per lignum servi facti HS 306
 Ac Angelis suis PM 354
-TEMPORE QUADRAGESIMAF ... [27] 383
 
-26.
+26. F2 B A Venite benedicti AM 346
+M A Quod uni ex minimis AM 346
+F3 B A Exaudiat Dominus AM 589
+M A Tu autem cum oraveris AM 335
+F4 B A Generatio haec prava AM 348
+M A Sicut fuit Ionas AM 348
+F5 B A Si duo ex vobis AM 366
+M A Petite ... quaerite AM 5or
+F6 B A Audistis quia dictum AM 594
+M A Si offers munus tuum AM 594
+Sab B A Hoc est praeceptum meum AM 622
 
-27.
+27. Dominica 2* Quadragesimae — D2Q
 
-28.
+1V A1 Assumpsit lesus Petrum AM 998
+A2 Resplenduit facies AM 998
+A3 Et ecce apparuerunt. AM 998
+M A Et ecce vox de nube AM 1000
+LM A1 Dextera Domini PM 69
+A2 Trium puerorum AM 352
+A3 Laudate Dominum | AV 169
+B A Assumpsit lesus discipulo AM 353
+2V A1 Virgam virtutis suae CAO 5441
+A2 Nos qui vivimus PM 30g
+A3 Proprio Filio suo PM 395
+M A Visionem AM 351:
 
-29.
+28. F2 B A Estote ergo misericordes AM 538
+M A Nolite iudicare AM 542
+F3 B A Unus est enim magister AM 356
+M A Omnes autem vos fratres estis AM 357
+F4 B A Numquid redditur AM 389
+M A TradEtur enim gentibus 'AM 358
+F5 B A Fili recordare AM 358
+M A Dives ille AM 359
+F6 B A Malos male perdet AM 359
+M A Quaerentes eum tenere. AM 360
+Sab B A Vadam ad Patrem meum AM 360
 
-F2 B
-M
-r3 B
-M
-F4 B
-M
-F5 B
-M
-F6 B
-M
-Sab B
+29. Dominica 3* Quadragesimae — D3Q
 
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-
-Venite benedicti AM 346
-
-Quod uni ex minimis AM 346
-Exaudiat Dominus AM 589
-
-Tu autem cum oraveris AM 335
-Generatio haec prava AM 348
-Sicut fuit Ionas AM 348
-
-Si duo ex vobis AM 366
-
-Petite ... quaerite AM 5or
-Audistis quia dictum AM 594
-Si offers munus tuum AM 594
-Hoc est praeceptum meum AM 622
-
-Dominica 2* Quadragesimae — D2Q
-
-IV
-M
-LM
-B
-2V
-M
-F2 B
-M
-F3 B
-M
-F4 B
-M
-F5 B
-M
-F6 B
-M
-Sab B
-
-Ar
-A2
-Ag
-A
-
-Ar
-A2
-A3
-A
-
-A1
-A2
-Ag
-A
-
-Assumpsit lesus Petrum AM 998
-Resplenduit facies AM 998
-
-Et ecce apparuerunt. AM 998
-Et ecce vox de nube AM 1000
-Dextera Domini PM 69
-
-Trium puerorum AM 352
-Laudate Dominum | AV 169
-Assumpsit lesus discipulo AM 353
-Virgam virtutis suae CAO 5441
-Nos qui vivimus PM 30g
-Proprio Filio suo PM 395
-Visionem | AM 351:
-
-Estote ergo misericordes AM 538
-Nolite iudicare AM 542
-
-Unus est enim magister AM 356
-Omnes autem vos fratres estis AM 357
-Numquid redditur AM 389
-Tradctur enim gentibus 'AM 358
-Fili recordare AM 358
-
-Dives ille AM 359
-
-Malos male perdet AM 359
-Quaerentes eum tenere. AM 360
-Vadam ad Patrem meum AM 360
-
-Dominica 3* Quadragesimae — D3Q
-
-iV
-
-A1
-
-A2
-
-Sit nomen Domini benedictum, ex hoc nunc
-et usque in saeculum. *
-Sacrificabo hostiam laudis AV 503
-384 [28] PROPRIUM DE TEMPORE
-
+1V A1 Sit nomen Domini benedictum, ex hoc nunc et usque in saeculum. *
+A2 Sacrificabo hostiam laudis AV 503
 A3 Nemo tollit a me CAO 3874
 M A Adaperiat Dominus AM 587
 LM Ai Dominus regnavit, decorem indutus est *
@@ -801,83 +582,34 @@ LM Ai Deus meus es tu. PM 69
 A2 Potens es Domine AM 372
 A3 In tympano et choro PM 228
 B Aa Rabbi quid peccavit homo AM 378
-Ab  Nonenim misit Deus Filium suum in mundum
-ut iudicet mundum, sed ut salvetur mundus
-per ipsum CAO 3gio
-Ac Fili tu semper mecum fuisti et omnia mea
-tua sunt. CAO 2874
-32.
-
-33.
-
-TEMPORE QUADRAGESIMAE [29] 385
-
-2V Ari De torrente ir
-
-1 via bibet AV (188)
-
+Ab  Nonenim misit Deus Filium suum in mundum ut iudicet mundum, sed ut salvetur mundus per ipsum CAO 3910
+Ac Fili tu semper mecum fuisti et omnia mea tua sunt. CAO 2874
+2V A1 De torrente in via bibet AV (188)
 A2  Iucundus homo CAO 3510
-As  Oblatus est quia ipse AM 418
-
-M Aa Ille homo qui
-
-dicitur lesus. AM 378
-
-Ab Qui facit veritatem venit ad lucem, ut mani-
-festentur opera eius quia in Deo facta sunt *
+A3  Oblatus est quia ipse AM 418
+M Aa Ille homo qui dicitur lesus. AM 378
+Ab Qui facit veritatem venit ad lucem, ut manifestentur opera eius quia in Deo facta sunt *
 Ac Dixit autem pater ad servos AM 361
 
-F2 B A Erat quidam
-
-regulus AM 6r:
-
+32. F2 B A Erat quidam regulus AM 6r:
 M A Cognovit autem pater AM 612
 F3 B A Qui me sanum fecit AM 350
-
-M A Vade iam et
-
-noli peccare, ne deterius tibi
-
-aliquid contingat. CAO 5301:
-F4 B A Nihil facio nisi quod videro Patrem facientem
-
-et quac pla:
-
-cita sunt ei facio semper. *
-
+M A Vade iam et noli peccare, ne deterius tibi aliquid contingat. CAO 5301:
+F4 B A Nihil facio nisi quod videro Patrem facientem et quae placita sunt ei facio semper. *
 M A Non possum cgo a meipso facere CAO 3927
 (omissis verbis: dicit Dominus)
+F5 B A Ego non ab homine CAO 2577 (omissis verbis: dicit Dominus)
+M A Opera quae ego facio CAO 4160 (omissis verbis: dicit Dominus)
+F6 B A Et me scitis CAO 2710 (omissis verbis: dicit Dominus)
+M A Nemo in eum misit AM 377
+Sab B A Tibi revelavi AM402
 
-F5 B A Ego non ab
-verbis: dicit
+33. Dominica 5a Quadragesimae
 
-homine CAO 2577 (omissis
-Dominus)
-
-M A Opera quae ego facio CAO 4160 (omissis
-
-verbis: dicit
-F6 B A Et me scitis
-
-Dominus)
-M A Nemo in cum
-
-Sab B A Tibi revclavi
-Dominica 5» Quadragesimae
-IV Ai — Custodi me a
-
-Dominus)
-CAO 2710 (omissis verbis: dicit
-
-mist AM 377
-AM 402
-
-- DsQ
-laqueo AM 432
-
+IV Ai — Custodi me a laqueo AM 432
 A2  Existimo omnia AV 718
-Ag Dedit sc ut liberaret AM 28r
-M A Nis granum frumenti CAO 3885
+A3 Dedit se ut liberaret AM 281
+M A Nisi granum frumenti CAO 3885
 
 LM Ai Factus est adi
 A2  Bencdictus es
