@@ -30,7 +30,10 @@ file 'psalter_vaticana.ly' => ['psalter.ly', __FILE__] do |t|
 end
 
 lilypond = lambda do |task, _|
-  sh 'lilypond', '--include=/home/igneus/src/lilypond/lilygabc', task.prerequisites[0]
+  libdir = ENV['LILY_LIBDIR'] ||
+           STDERR.puts('WARNING: Environment variable LILY_LIBDIR not found. It should be set to point to the location of the "lilygabc" package.')
+
+  sh 'lilypond', "--include=#{libdir}", task.prerequisites[0]
 end
 
 file 'psalter.pdf' => ['psalter.ly'], &lilypond
