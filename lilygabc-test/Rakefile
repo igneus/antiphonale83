@@ -31,7 +31,7 @@ end
 
 lilypond = lambda do |task, _|
   libdir = ENV['LILY_LIBDIR'] ||
-           STDERR.puts('WARNING: Environment variable LILY_LIBDIR not found. It should be set to point to the location of the "lilygabc" package.')
+           raise('ERROR: Environment variable LILY_LIBDIR not found. It should be set to point to the location of the "lilygabc" package.')
 
   sh 'lilypond', "--include=#{libdir}", task.prerequisites[0]
 end
