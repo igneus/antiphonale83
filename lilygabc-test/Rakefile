@@ -22,10 +22,11 @@ file 'psalter.ly' => [__FILE__] do |t|
   File.write t.name, str
 end
 
-file 'psalter_vaticana.ly' => ['psalter.ly', __FILE__] do |t|
+file 'psalter_vaticana.ly' => ['psalter.ly', 'vaticana_settings.ly', __FILE__] do |t|
   sh "echo '\\include \"gregorian.ly\"' > #{t.name}"
+  sh "cat vaticana_settings.ly >> #{t.name}"
   sh "sed s/gabc-file/gabc-vaticana-file/ #{t.prerequisites[0]} | " +
-     "sed s/lilygabcModernGregorianStemlessLayout/lilygabcVaticanaLayout/ " +
+     "grep --invert-match layout " +
      " >> #{t.name}"
 end
 
