@@ -479,7 +479,7 @@ M A Cum videris nudum CAO 2647
 Sab post cineres
 B A Thesaurizate AM 333
 
-25. Dominica 1* Quadragesimae — DiQ
+25. Dominica 1a Quadragesimae — DiQ
 
 1V A1 In spiritu humilitatis PM 384
 A2 Tunc invocabis AM 340
@@ -513,7 +513,7 @@ F6 B A Audistis quia dictum AM 594
 M A Si offers munus tuum AM 594
 Sab B A Hoc est praeceptum meum AM 622
 
-27. Dominica 2* Quadragesimae — D2Q
+27. Dominica 2a Quadragesimae — D2Q
 
 1V A1 Assumpsit lesus Petrum AM 998
 A2 Resplenduit facies AM 998
@@ -540,7 +540,7 @@ F6 B A Malos male perdet AM 359
 M A Quaerentes eum tenere. AM 360
 Sab B A Vadam ad Patrem meum AM 360
 
-29. Dominica 3* Quadragesimae — D3Q
+29. Dominica 3a Quadragesimae — D3Q
 
 1V A1 Sit nomen Domini benedictum, ex hoc nunc et usque in saeculum. *
 A2 Sacrificabo hostiam laudis AV 503
@@ -571,14 +571,14 @@ F6 B A Magister quod est mandatum AM 608
 M A Magister quid faciendo AM 602
 Sab B E Stans a longe publicanus AM 601
 
-31. Dominica 4* Quadragesimae — D4Q
+31. Dominica 4a Quadragesimae — D4Q
 
-iV Ai In domum Domini PM 288
+1V A1 In domum Domini PM 288
 A2 Si iniquitates AM 1152
 A3  Sitivit anima mea ad nomen AM 279
 M  Aab Sic Deus dilexit mundum AM 525
 Ac Dixit autem pater. AM 317
-LM Ai Deus meus es tu. PM 69
+LM A1 Deus meus es tu. PM 69
 A2 Potens es Domine AM 372
 A3 In tympano et choro PM 228
 B Aa Rabbi quid peccavit homo AM 378
@@ -596,144 +596,104 @@ M A Cognovit autem pater AM 612
 F3 B A Qui me sanum fecit AM 350
 M A Vade iam et noli peccare, ne deterius tibi aliquid contingat. CAO 5301:
 F4 B A Nihil facio nisi quod videro Patrem facientem et quae placita sunt ei facio semper. *
-M A Non possum cgo a meipso facere CAO 3927
-(omissis verbis: dicit Dominus)
+M A Non possum ego a meipso facere CAO 3927 (omissis verbis: dicit Dominus)
 F5 B A Ego non ab homine CAO 2577 (omissis verbis: dicit Dominus)
 M A Opera quae ego facio CAO 4160 (omissis verbis: dicit Dominus)
 F6 B A Et me scitis CAO 2710 (omissis verbis: dicit Dominus)
 M A Nemo in eum misit AM 377
 Sab B A Tibi revelavi AM402
 
-33. Dominica 5a Quadragesimae
+33. Dominica 5a Quadragesimae — D5Q
 
-IV Ai — Custodi me a laqueo AM 432
+IV A1 Custodi me a laqueo AM 432
 A2  Existimo omnia AV 718
 A3 Dedit se ut liberaret AM 281
 M A Nisi granum frumenti CAO 3885
-
-LM Ai Factus est adi
-A2  Bencdictus es
-A3 Bencplacitum
-
-utor meus PM 44
-PM 74
-est PM 58
-
+LM A1 Factus est adiutor meus PM 44
+A2  Benedictus es PM 74
+A3 Beneplacitum est PM 58
 B Aa Lazarus amicus noster AM 380
 Ab Qui odit animam suam AM 642
 Ac  Inclinavit se Iesus AM 370
-2V Ai Sicut exaltatus est serpens. CAO 4932
+2V A1 Sicut exaltatus est serpens CAO 4932
 A2 Eripe me de inimicis AV 143
 A3 Ipse autem vulneratus AV (168)
+M Aa Domine si hic fuisses AM 380
+Ab Si quis mihi ministraverit AM 641
+Ac Nemo te condemnavit AM 371
 
-M Aa Domine si hic
-
-fuisses AM 380
-
-Ab Si quis mihi ministravcrit AM 641
-Ac Nemo te condemnavit AM 37:
-386 (30] PROPRIUM DE TEMPORE
-
-34. In feriis hebd. Sae, ad OL, LM et V, dici possunt hymni HS, n. 35.
+34. In feriis hebd. 5ae, ad OL, LM et V, dici possunt hymni HS, n. 35.
 
 F2 B A Inclinavit se AM 370
-
 M A Nemo te condemnavit AM 371
-
-B Ac Qui sequitur me. AM 38:
-
+B Ac Qui sequitur me. AM 381
 M Ac Ego sum qui testimonium AM 388
 F3 B A Ego principium AM 355
-
 M A Qui me misit mecum est AM 356
 F4 B A Si dilexeritis me VM 20
-
 M A Quid me quaeritis interficere AM 377
 F5 B A Dicebat Iesus turbis AM 390
-
 M A Abraham pater vester AM 393
 F6 B A Multa bona opera AM 395
-
 M A Appropinquabat autem dies festus AM 397
 Sab B A Principes sacerdotum AM 397
 
 35. Hebdomada Sancta — HS
 
-M H  Vexilla regis AM 383
-
+V H  Vexilla regis AM 383
 CM H . Christe qui, in tono H Te lucis AM 337
-
-OL H Pange lingua ... proelium, in tono H Lustris
-
-sex AM 386
-
+OL H Pange lingua ... proelium, in tono H Lustris sex AM 386
 LM H En acetum, in tono H. Lustris sex AM 386
-
 HM H  Celsae salutis, in tono H Te lucis AM 337
-
 T A Ante diem festun AM 408
-
 S H Qua Christus, in (ono H Te lucis AM 337
 A Sicut novit me Pater AM 485
-
 N H Ternis ter horis, in tono H Te lucis AM 337
-
 A Mihi vivere Christus CAO 3759
 
 36. Dominica in Palmis — DPALM
 
-iV Ai Tanto tempore ... docens vos CAO 511r
+1V A1 Tanto tempore ... docens vos CAO 511r
 A2 Dominus Deus auxiliator AM 399
 A3  Invocabo nomen tuum AM 403
-M A Ave Rex noster. CAO 1543
-LM Ar. Turba multa AM 401i
-A2 Cum angclis et pueris. AM 400
-A3 Omnes collaudant nomen tuum et dicunt:
-« Benedictus qui venit in nomine Domini.
-Hosanna in excelsis»! CAO 4117
+M A Ave Rex noster CAO 1543
+LM A1 Turba multa AM 401i
+A2 Cum angelis et pueris. AM 400
+A3 Omnes collaudant nomen tuum et dicunt: « Benedictus qui venit in nomine Domini. Hosanna in excelsis»! CAO 4117
 B A Fulgentibus palmis CAO 2909
 2V de dominica 2* Quadragesimae
 M A Scriptum est enim: percutiam AM 404
-IN SACRO TRIDUO PASCHALI [31] 387
 
-37. F2 LM Ai  Framea suscitare AM 405
+37. F2 LM A1 Framea suscitare AM 405
 A2  Appenderunt mercedem AM 405
 A3  Inundaverunt aquae AM 405
-A Pater iuste AM 399
-v Ai Non est ei species. AM 1047
-
+B A Pater iuste AM 399
+V A1 Non est ei species AM 1047
 A2 A planta pedis AM 1048
-
-Ag Non haberes in me AM 407
-
+A3 Non haberes in me AM 407
 M A Maria ergo unxit AM 977
 
-F3 LM A: .Discerne causam meam AM 407
-
-A2  Iudicasi Domine AM 389
-
-A3  Oblatus est. AM 418
-
-A Clarifica me Pater AM 406
-
-V Ai  Contumelias et terrores AM 410
+F3 LM A1 Discerne causam meam AM 407
+A2  Iudicasti Domine AM 389
+A3  Oblatus est AM 418
+B A Clarifica me Pater AM 406
+V A1  Contumelias et terrores AM 410
 A2 Libera me Domine PM 278
 A3 Dominus tamquam ovis AM 414
-
 M A Potestatem habeo AM 409
 
-F4 LM Ai: In die tribulationis HS 116
+F4 LM A1 In die tribulationis HS 116
 A2  Facicm meam non averti AM 404
 A3 Labia insurgentium AM 406
 B A Traditor autem AM 420
-M Ai Dixerunt impii AM 408
+V A1 Dixerunt impii AM 408
 A2 Domine vim patior AM 408
-Ag  Contritum est cor. AM 416
-M A Magister dicit: tempus meum AM7396
+A3  Contritum est cor AM 416
+M A Magister dicit: tempus meum AM 396
 
-F5 LM A: Vide Domine et considera AM 407
+F5 LM A1 Vide Domine et considera AM 407
 A2  Haurietis aquas AM 213
-Ag  Cibavit nos Dominus *
+A3  Cibavit nos Dominus *
 B A Desiderio desideravi AM 396
 
 SACRUM TRIDUUM PASCHALE
@@ -741,55 +701,43 @@ SACRUM TRIDUUM PASCHALE
 38. F6 In Passione Domini — F6PASS
 
 I A Christum Dei Filium *
-
-OL Ai  Astiterunt reges terrae HS 199
+OL A1  Astiterunt reges terrae HS 199
 A2  Diviserunt sibi. HS 201
 As Vim faciebant HS 215
-
-LM Ai Proprio Filio suo PM 395
+LM A1 Proprio Filio suo PM 395
 A2 Dum conturbata fuerit AM 441
-388 [32] PROPRIUM DE TEMPORE
-
 A3 Crucem tuam adoramus GR 175
-Post lectionem brevem, loco responsorii cantatur: Christus
-factus est AM 420
-B A Posuerunt super caput eius AM 443
-T H . Salva redemptor, plasma tuum nobile, in tono
-H Te Sancte. AS i103
-A Ait latro ad latronem AM 439
 
+Post lectionem brevem, loco responsorii cantatur: Christus factus est AM 420
+
+B A Posuerunt super caput eius AM 443
+T H Salva redemptor, plasma tuum nobile, in tono H Te Sancte. AS 1103
+A Ait latro ad latronem AM 439
 S H Crux mundi, in tono H Te lucis AM 337
 A O vos omnes AM 448
-N H  . Percrucem Christe, in tono H Te lucis AM 337
-
+N H Per crucem Christe, in tono H Te lucis AM 337
 A Memento mei AM 442
 
 39. Sabbato Sancto — SabS
 
 I A Christum Dominum *
-
 OL H Christe caelorum, in tono H Te lucis AM 384
-Ai In pace in idipsum PM 352
+A1 In pace in idipsum PM 352
 A2 Caro mea requiescet GR 702
-Ag  Elevamini NAT 1:3
-
+A3  Elevamini NAT 1:3
 LM H Tibi redemptor, in tono H Te lucis AM 384
-Ai  Plangent eum. AM 445
+A1  Plangent eum AM 445
 A2 A porta inferi AM 447
 A3 Dum tribularer PM 397
-
 B A Salvator mundi HS 306
-
 T A Credo videre bona HS 327
 S A Domine abstraxisti PM 47
-N A In pace factus est. HS 335
-M H Auctor salutis, in tono H. Te lucis AM 5384
-
-Ai — O mors, ero mors AM 445
+N A In pace factus est HS 335
+V H Auctor salutis, in tono H. Te lucis AM 5384
+A1 O mors, ero mors AM 445
 A2 Sicut fuit Ionas AM 348
 A3  Solvite templum hoc AM 376
-M A Nunc clarificatus est Filius hominis, et Deus
-clarificatus est in eo. CAO 3974
+M A Nunc clarificatus est Filius hominis, et Deus clarificatus est in eo. CAO 3974
 
 TEMPUS PASCHALE
 
@@ -797,142 +745,106 @@ TEMPUS PASCHALE
 
 A I Surrexit Dominus vere RM 82
 Hymni lemporis paschalis, ut infra notatur
-LM Ai Surrexit Christus et illuxit CAO 5077
-
-Surrexit Christus de sepulcro PM 74
-TEMPORE PASCHALI [33] 389
-
-41.
-
-A3 Surrexit Dominus de sepulcro, qui pro nobis
-pependit in ligno, alleluia. CAO 5079
-Post leclionem brevem per totam octavam, loco responsorii
-cantalur: Haec dies GR. 196
+LM A1 Surrexit Christus et illuxit CAO 5077
+A2 Surrexit Christus de sepulcro PM 74 # "A2" added, missing in the document
+A3 Surrexit Dominus de sepulcro, qui pro nobis pependit in ligno, alleluia. CAO 5079
+Post lectionem brevem per totam octavam, loco responsorii cantatur: Haec dies GR 196
 B Aa Vespere autem sabbati AM 450
 Ab Et valde mane AM 456
 Ac  Currebant duo simul AM 465
-
 T A Angelus autem Domini AM 453
-
 S A Et ecce terraemotus AM 454
-
 N A Erat autem aspectus AM 454
-
-V Ari Venerunt ad monumentum AM 480
-
+V A1 Venerunt ad monumentum AM 480
 A2 Venite (cum duabus alleluia) CAO 5352
-M A Cum esset sero. AM 475
+M A Cum esset sero AM 475
 
-Tempus Paschale usque ad Ascensionem Domini — TP(I)
+41. Tempus Paschale usque ad Ascensionem Domini — TP(I)
 
-M H . Ad cenam Agni providi AM 467
+M H Ad cenam Agni providi AM 467
 vel ad lib. in feriis post octavam Paschae:
-O rex acternc. Domine *
+O rex aeterne Domine *
+
 F2.5 ad libitum
 A ad psalmos 1 et 2:
 Alleluia, alleluia, alleluia PM 170
 A ad canticum:
 Alleluia, alleluia, alleluia, alleluia PM 2, 279
+
 F3.6 ad libitum
 A ad psalmos 1 et 2:
 Alleluia, alleluia, alleluia PM 324, 333
 A ad canticum:
 Alleluia, alleluia, alleluia, alleluia PM 278
+
 F4.Sab ad libitum
 A ad psalmos: Alleluia, alleluia, alleluia AM 96
 A ad canticum:
 Alleluia, alleluia, alleluia, alleluia PM. 297
 
 CM H Iesu redemptor saeculi *
-I A Surrexit Dominus vere, allelua RM 82
+I A Surrexit Domiz4nus vere, allelua RM 82
 OL H Hic est dies verus Dei *
-
 vel ad lib. in feriis post octavam Paschae:
-Laetare caclum desuper *
-
-A unica ad lib. in dominicis 35-7:
+Laetare caelum desuper *
+A unica ad lib. in dominicis 3a-7a:
 Alleluia, alleluia, alleluia, alleluiaa M 281a
-390 [34] PROPRIUM DE TEMPORE
-
 A unica ad lib. in feriis 2 et 5:
-
 Alleluia, alleluia, alleluia PM 85, 136, 174
 A unica ad lib. in feriis 3 et 6:
-
-Alleluia, alleluia, alleluia PM r19, 205, 318
-
+Alleluia, alleluia, alleluia PM 119, 205, 318
 A unica ad lib. in feria 4 el sabbato:
 Alleluia, alleluia, alleluia PM 141, 233
 LM H Aurora lucis rutilat AM 470
 vel ad lib. in feriis post octavam Paschae:
-Chorus novae lerusalem, in tono H. Fecunda
-sanctis insula AS 955
+Chorus novae lerusalem, in tono H. Fecunda sanctis insula AS 955
 
 49. ANTIPHONAE AD LIBITUM SUPER PSALMOS ET CANTICUM
 
-F2.5 Air Alleluia, alleluia, alleluia PM 115
+F2.5 A1 Alleluia, alleluia, alleluia PM 115
 A2 Pro cantico in omnibus feriis:
-
 Alleluia, alleluia, alleluia, alleluia *
+A3 Alleluia, alleluia, alleluia PM 165
 
-As Alleluia, alleluia, alleluia PM 165
-
-F3.6 A: Alleluia, alleluia, alleluia AR. 70
-As Alleluia, alleluia, alleluia AR 43
+F3.6 A1 Alleluia, alleluia, alleluia AR. 70
+A3 Alleluia, alleluia, alleluia AR 43
 
 F4.Sab Ar Alleluia, alleluia, alleluia PM 280
-As Alleluia, alleluia, alleluia PM 278
+A3 Alleluia, alleluia, alleluia PM 278
 
 T H Iam surgit hora tertia *
-
 Dom. A Alleluia, alleluia, alleluia, alleluia PM 284
 F2.5 A Alleluia, alleluia, alleluia PM 281:
-
 F3.6 A Alleluia, alleluia, allelua PM 195
 F4.Sab A Alleluia, alleluia, allelua AM 79
 
 S H X Venite servi supplices *
-
 Dom. A Alleluia, alleluia, alleluia, alleluia PM 285
 F2.5 A Alleluia, alleluia, alleluia AM 162
-
 F3.6 A Alleluia, alleluia, alleluia PM 228
-
 F4.Sab A Alleluia, alleluia, alleluia *
 
 N H Haec hora quae resplenduit *
-
 Dom. A Alleluia, alleluia, alleluia, alleluia *
-
 F2.5 A Alleluia, alleluia, alleluia *
-
 F3.6 E Alleluia, alleluia, alleluia *
-
 F4.Sab A Alleluia, alleluia, alleluia PM 254
-TEMPORE PASCHALI [35] 391
 
 43. F2 infra octavam Paschae — OCT PASC
 
-OL Ai Ego sum qui sum. PM 452
-A2  Postulavi Patrem meum, alleluia; dedit mihi
-gentes, alleluia, in haereditatem, alleluia
-CAO 4342
+OL A1 Ego sum qui sum. PM 452
+A2  Postulavi Patrem meum, alleluia; dedit mihi gentes, alleluia, in haereditatem, alleluia CAO 4342
 A3 Ego dormivi PM 28
 LM B A Cito euntes dicite CAO 1813
-
 HM A de Pascha.
-
-M M A Ite nuntiate AM 385
+V M A Ite nuntiate AM 385
 
 F3
 
-OL Ai  Prhe timore autem AM 454
-
+OL A1  Prae timore autem AM 454
 A2 Respondens autem angelus AM 454
 A3 Et respicientes AM 460
-
 LM B A Maria stabat AM 463
-
 V M A Tulerunt Dominum meum AM 464
 
 F4
@@ -945,16 +857,13 @@ F5
 
 OL A unica: Confitebor ... alleluia PM 125
 LM B A Stetit Iesus in medio AM 462
-M M A Videte manus meas. AM 462
+V M A Videte manus meas. AM 462
 
 F6
 
 OL A unica: Confitemini Domino quia AV 1:37
-
 LM B A Hoc iam tertio CAO 3085
-
-V M A Dixit autem discipulus, quem diligebat Iesus,
-Petro: «Dominus est, alleluia» CAO 2270
+V M A Dixit autem discipulus, quem diligebat Iesus, Petro: «Dominus est, alleluia» CAO 2270
 
 Sab
 
@@ -963,199 +872,107 @@ LM B A Surgens lesus mane AM 477
 
 44. Dominica in octava Paschae (D2PASC)
 
-iV M A Post dies octo AM 477
-
+1V M A Post dies octo AM 477
 OL A de F2 Paschae
-
 LM B A Mitte manum tuam AM 478
 2V M A Quia vidisti me AM 479
-392 [36] PROPRIUM DE TEMPORE
 
-45. Hedomada 2* Temporis paschalis — 2 PASC
+45. Hedomada 2a Temporis paschalis — 2 PASC
 
 F2 B A Misi digitum meum AM 480
 M A Praecedam vos in Galilaeam AM 478
 F3 B A Ardens est cor meum AM 479
 M A Nonne cor nostrum AM 495
 F4 B A Sic Deus dilexit mundum AM 525
-M A Qui facit veritatem venit ad lucem, ut mani-
-festentur eius opera quia in Deo sunt
-facta *
+M A Qui facit veritatem venit ad lucem, ut manifestentur eius opera quia in Deo sunt facta *
 F5 B A Iesus iunxit se discipulis AM 460
 M A Qui sunt hi sermones AM 461:
-F6 B A Accepit ergo Iesus panes. AM 374
+F6 B A Accepit ergo Iesus panes AM 374
 M A Crucem sanctam subiit AM 903
-Sab B A Regina cacli laetare. AM 718
+Sab B A Regina caeli laetare. AM 718
 
 46. Dominica 3* Paschae — D3PASC
 
-iV Ai A solis ortu usque ad occasum AM 277
+1V A1 A solis ortu usque ad occasum AM 277
 A2  Dirupisti Domine AM 626
-As  Exaltate Regem regum AM 509
-M A Mane nobiscum | AM 49r
-LM Ai Dominus regnavit, decorem indutus est,
-alleluia *
+A3  Exaltate Regem regum AM 509
+M A Mane nobiscum AM 491
+LM Ai Dominus regnavit, decorem indutus est, alleluia *
 A2 Surrexit Christus de sepulcro PM 74
-43 Solet luna laudate Deum AM 362
-B Aa Tu solis peregrinus es. AM 485
-Ab isti sunt sermones. AM 498
+A3 Sol et luna laudate Deum AM 362
+B Aa Tu solis peregrinus es AM 485
+Ab Isti sunt sermones AM 498
 Ac  Mittite in dexteram AM 462
-2V Ai Sede a dextris meis. PM 302
+2V A1 Sede a dextris meis PM 302
 A2  Redemptionem misit Dominus AM 246
-M Aa Et coegerunt ilum AM 490
+M Aa Et coegerunt illum AM 490
 Ab  Oportebat pati AM 503
 Ac Dixit Iesus discipulis AM 463
 
-4. F2 B A Operamini non cibum | CAO 4161
-M A  Obtulrunt discipuli AM 497
+47. F2 B A Operamini non cibum CAO 4161
+M A  Obtulerunt discipuli AM 497
 F3 B A Ecce video caelos apertos AM 251
 M A Panis enim Dei est, qui de caelo CAO 4209
-F4 B A  Bingui es AM 550
+F4 B A  Pinguis est AM 550
 M A Omne quod dat mihi Pater AM 1154
-F5 B A Ego sum panis vivus AM 528, r1 loco
-M A Ego sum panis vivus AM 528, 29 loco
-TEMPORE PASCHALI 137] 393
+F5 B A Ego sum panis vivus AM 528, 1o loco
+M A Ego sum panis vivus AM 528, 2o loco
+F6 B A Caro mea vere est cibus RM 130
+M A Crucifixus surrexit a mortuis AM 471
+Sab B A Maria Virgo semper laetare PR 258
 
-48.
+48. Dominica 4a Paschae — D4PASC
 
-49.
+1V A1 Laetatus sum in his quae dicta sunt, alleluia *
+A2 Redemisti nos Deo in sanguine tuo, alleluia *
+A3 Nonne sic oportuit PM 363
+M A Ego sum ostium AM 527
+LM A1 Dextera Domini PM 69
+A2 Benedictum nomen gloriae AM 280
+A3 Date magnitudinem PM 255
+B Aa Ego sum pastor ovium AM 481
+Ab Pastor bonus animam suam AM 483
+Ac Oves meae ...et ego AM 395
+2V A1 Sede a dextris meis PM 302
+A2 Exortum est in tenebris AM 246
+M Aa Ego sum ostium AM 527
+Ab Ego sum pastor bonus AM 483
+Ac Alias oves habeo AM 486
 
-F6 B
-M
-Sab B
+49. F2 B A Ego sum pastor bonus AM 485
+M A Alias oves habeo AM 486
+F3 B A Opera, quae ego facio testimonium perhibent de me, quia Pater me misit CAO 4160
+M A Si quis per me intraverit salvabitur et pascua invenict, alleluia. CAO 4911
+F4 B A Undecim discipuli AM 464
+M A Non enim misit Deus Filium suum in mundum ut iudicet eum, sed ut salvetur mundus per ipsum, alleluia. CAO 3910
+F5 B A Ipse enim Pater amat vos. AM 502
+M A Data est mihi AM 465
+F6 B A Vado parare vobis locum, et iterum veniam ad vos, alleluia, et gaudebit cor vestrum, alleluia, alleluia. CAO 530
+M A Pastor bonus animam suam AM 483
+Sab B A Si cognovissetis me AM 893
 
-A
-A
+50. Dominica 5a Paschae — D5PASC
 
-A
-
-Caro mea vere est cibus RM 130
-Crucifixus surrexit a mortuis AM 471
-
-Maria Virgo semper laetare PR 258
-
-Dominica 4? Paschae — D4PASC
-
-iV
-M
-LM
-B
-2V
-M
-F2 B
-M
-F3 B
-M
-F4 B
-M
-F5 B
-M
-F6 B
-M
-Sab B
-
-A1
-A2
-A3
-A
-
-A1
-A2
-A3
-Aa
-Ab
-Ac
-
-A1
-A2
-
-Aa
-Ab
-Ac
-
-A
-A
-
-A
-
-A
-
-Laetatus sum in his quae dicta sunt, alleluia *
-Redemisti nos Deo in sanguine tuo, alleluia *
-Nonne sic oportuit PM 363
-
-Ego sum ostium AM 527
-
-Dextera Domini PM 69
-Benedictum nomen gloriae AM 280
-Date magnitudinem PM 255
-
-Ego sum pastor ovium AM 481
-Pastor bonus animam suam AM 483
-Oves meac ...et ego AM 395
-
-Sede a dextris meis PM 302
-Exortum est in tenebris AM 246
-
-Ego sum ostium AM 527
-Ego sum pastor bonus AM 483
-Alias oves habeo AM 486
-
-Ego sum pastor bonus AM 485
-Alias oves habeo AM 486
-
-Opera, quae ego facio testimonium perhibent
-de me, quia Pater me misit CAO 4160
-Si quis per me intraverit salvabitur et pascua
-invenict, alleluia. CAO 4911
-
-Undecim discipuli AM 464
-
-Non enim misit Deus Filium suum in mundum
-ut iudicet eum, sed ut salvetur mundus per
-ipsum, alleluia. CAO 3910
-
-Ipse enim Pater amat vos. AM 502
-
-Data est mihi. AM 465
-
-Vado parare vobis locum, et iterum veniam
-ad vos, alleluia, et gaudebit cor vestrum,
-alleluia, alleluia. CAO 530
-
-Pastor bonus animam suam AM 483
-
-Si cognovissetis me AM 8993
-394 [38] — PROPRIUM DE TEMPORE
-
-50. Dominica 5* Paschae — D5PASC
-
-iV Ai Mane nobiscum Domine AM 491
-A2 Nolite expavescere: Iesum Nazarenum quaeri-
-tis crucifixum, non est hic, surrexit, alle-
-luia. CAO 3893
+1V A1 Mane nobiscum Domine AM 491
+A2 Nolite expavescere: Iesum Nazarenum quaeritis crucifixum, non est hic, surrexit, alleluia. CAO 3893
 Ag  Exaltate Regem regum AM 509
 M A Ego sum via, veritas AM 894
-LM Ai  Sitivit in te anima mea, quia melior est mi-
-sericordia tua super vitas, alleluia. *
+LM A1  Sitivit in te anima mea, quia melior est misericordia tua super vitas, alleluia. *
 A2 Surrexit Christus de sepulcro PM 74
-A3  Exsultabunt sancti in gloria, laetabuntur in
-cubilibus suis. CAO 2812
+A3  Exsultabunt sancti in gloria, laetabuntur in cubilibus suis. CAO 2812
 B Aa Non turbetur cor vestrum AM 892
 Ab  Manete autem in dilectione mea VM 19
-Ac Mandatum novum GR 1:67
-2V Ai Sede a dextris meis PM 302
+Ac Mandatum novum GR 167
+2V A1 Sede a dextris meis PM 302
 A2  Cantemus Domino gloriose PM 198
 M Aa Tanto tempore ... et non cognovistis AM 895
 Ab Si manseritis in me AM 895
 Ac In hoc cognoscent omnes GR 166
 
 51. F2 B A Si quis diligt me AM 526
-M A Paraclitus autem Spiritus Sanctus AM 531:
+M A Paraclitus autem Spiritus Sanctus AM 531
 F3 B A Pacem relinquo vobis AM 527
-M A Si diligeretis me, gauderetis utique quia ad
-Patrem vado, quia Pater maior me est,
-alleluia. *
+M A Si diligeretis me, gauderetis utique quia ad Patrem vado, quia Pater maior me est, alleluia. *
 F4 B A Manete autem in dilectione mea VM 19
 M A Si manseritis in me et verba AM 895
 F5 B A Tristitia implevit cor vestrum AM 490
@@ -1165,304 +982,226 @@ M A Maiorem caritatem AM 622
 Sab B A Domine magnus es tu. PM 169
 vel: Regina caeli laetare AM 718
 
-52. Dominica 6* Paschae — D6PASC
-iV Ai Qui sequitur me AM 640
-
-A2 Tu es, Domine, qui restitues PM 1:7
+52. Dominica 6a Paschae — D6PASC
+1V A1 Qui sequitur me AM 640
+A2 Tu es, Domine, qui restitues PM 17
 A3 Nonne sic PM 363
-TEMPORE PASCHALI [39] 395
-
-M A Rogabo Patrem meum, et alium Paraclitum
-dabit vobis, alleluia. CAO 4662
-LM Ai Confitebor tibi Domine PM 125
+M A Rogabo Patrem meum, et alium Paraclitum dabit vobis, alleluia. CAO 4662
+LM A1 Confitebor tibi Domine PM 125
 A2 Benedictus es in firmamento PM 74
 A3 Date magnitudinem Deo nostro PM 255
 B Aa Si diligitis me AM 894
 Ab Vos amici mei estis AM 622
 Ac Si quis diligit me AM 596
-2V Ai Sede a dextris meis PM 302
+2V A1 Sede a dextris meis PM 302
 A2 Nos qui vivimus PM 309
 M Aa Non vos relinquam orphanos AM 519
-Ab Non vos me elegistis, sed ego elegi vos et
-posui vos, ut eatis et fructum afferatis et
-fructus vester maneat. CAO 3940
-Ac Paraclitus autem AM 531i
+Ab Non vos me elegistis, sed ego elegi vos et posui vos, ut eatis et fructum afferatis et fructus vester maneat. CAO 3940
+Ac Paraclitus autem AM 531
 
-53. F2 B A Cum venerit... quem AM 5193
-
+53. F2 B A Cum venerit... quem AM 513
 M A Haec locutus sum ... ut cum AM 515
-
-F3 B A Vado ad eum ...et nemo AM 496
+F3 B A Vado ad eum ... et nemo AM 496
 M A Ego veritatem dico vobis AM 496
-
 F4 B A Adhuc multa habeo dicere AM 497
-In regionibus ubi sollemnitas. Ascensionis Domini. transfertur ad
-
-dominicam sequentem:
-
+In regionibus ubi sollemnitas Ascensionis Domini transfertur ad dominicam sequentem:
 M A Cum venerit ... Spiritus AM 496
-
 F5 B A Modicum et non videbitis me AM 487
 M A Tristitia vestra AM 490
 
 54. In Ascensione Domini — ASC
 
-iV H Iesu nostra redemptio AM 506
-Ai  Exivi a Patre et veni AM 503
+1V H Iesu nostra redemptio AM 506
+A1  Exivi a Patre et veni AM 503
 A2 Dominus quidem Iesus *
-A3 Sanctus, sanctus, sanctus Dominus Deus omni-
-potens, qui erat et qui est et qui venturus
-est... CAO 4796
+A3 Sanctus, sanctus, sanctus Dominus Deus omnipotens, qui erat et qui est et qui venturus est. CAO 4796
 M A Pater manifestavi AM 507
-
 I A Alleluia, Christum Dominum RM 94
-OL H . Aeterne rcx altissime RM 94
-
-A Illi autem profccüi RM 104
+OL H Aeterne rex altissime RM 94
+A Illi autem profecti RM 104
 LM H Optatus votis omnium PR 84
-
-Ai Viri Galilaei AM 508
+A1 Viri Galilaei AM 508
 A2  Exaltate regem regum AM 509
 A3  Videntibus ills AM 509
-396 [40] PROPRIUM DE TEMPORE
-
 B A Ascendo ad Patrem AM 510
-
 T A Elevata est magnificentia CAO 2634
-
-S A A summo caelo egressio eius et occursus eius,
-alleluia. *
-
+S A A summo caelo egressio eius et occursus eius, alleluia. *
 N A Elevatis manibus AM 509
-
 2V H Iesu redemptio AM 506
-
-Ai Sede a dextris meis PM 302
-
+A1 Sede a dextris meis PM 302
 A2 Ascendit Deus in iubilatione AM 1075
 A3 Sanctus, sicut in 1V
-
-A
-
-M O rex gloriae AM 512
+M A O rex gloriae AM 512
 
 55. Tempus Paschale post Ascensionem Domini — TP(II)
 
 V H Veni creator Spiritus AM 518
-CM H — Iesu redemptor saeculi *
-
+CM H Iesu redemptor saeculi *
 A unica: Alleluia, alleluia, alleluia.
 I A Alleluia, Christum Dominum *
 OL H Aeterne rex altissime RM 94
-LM H . Optatus votis omnium PR 84
-HM H0 osicub in Ascensione Domini, n. 54
-
+LM H Optatus votis omnium PR 84
+HM H sicut in Ascensione Domini, n. 54
 A unica: Alleluia, alleluia, alleluia.
+
 56. F6 B A Amen amen...quia AM 489
 M A Iterum autem videbo vos AM 492
-Sab B A Petite... ut gaudium AM 50r
+Sab B A Petite ... ut gaudium AM 501
 
-57. Dominica 7* Paschae — D7;PASC
+57. Dominica 7a Paschae — D7PASC
 
-iV A sicut in Dominica 3* Paschae
-
+1V A sicut in Dominica 3a Paschae
 M A Non vos relinquam orphanos AM 519
-OL A Alleluia, alleluia, alleluia, alleluia AM 1:18
-LM A sicut in Dominica 3* Paschae
-
+OL A Alleluia, alleluia, alleluia, alleluia AM 118
+LM A sicut in Dominica 3a Paschae
 B Aa Pater venit hora AM 503
-Ab Pater sancte, serva eos in nomine tuo, quos
-dedisti mihi. CAO 4242
-Ac Ecce video caelos apertos AM 251:
-2V A sicut in Dominica 3* Paschae
-M Aa Pater manifesavi AM 507
+Ab Pater sancte, serva eos in nomine tuo, quos dedisti mihi. CAO 4242
+Ac Ecce video caelos apertos AM 251
+2V A sicut in Dominica 3a Paschae
+M Aa Pater manifestavi AM 507
 Ab Caritas Dei PM 388
 Ac Beati qui lavant PM 638
 
 58. F2 B A Non enim loquetur a semetipso AM 498
 M A Vado ad eum qui misit me AM 495
-TEMPORE PASCHALI [41] 397
-
-F3 B A Pater venit hora. AM 503
+F3 B A Pater venit hora AM 503
 M A Clarifica me Pater AM 406
-F4 B A Pater sancte, serva eos in nomine tuo, quos
-dedisti mihi. CAO 4242
+F4 B A Pater sancte, serva eos in nomine tuo, quos dedisti mihi. CAO 4242
 M A Usque modo non petistis AM 499
 F5 B A Euntes in mundum, docete AM 484
 M A Cum venerit Paraclitus AM 496
-F6 B A Petre, amas me? pasce oves meas: Tu scis,
-Domine, quia amo te. CAO 4281:
-M A Ubi duo vel tres. AM 367
+F6 B A Petre, amas me? pasce oves meas: Tu scis, Domine, quia amo te. CAO 4281
+M A Ubi duo vel tres AM 367
 Sab B A In die magno festivitatis AM 393
 
 59. Dominica Pentecostes — PENT
 
-iV H X Veni creator Spiritus AM 518
-Ai Dum complerentur. AM 520
+1V H Veni creator Spiritus AM 518
+A1 Dum complerentur AM 520
 A2  Apparuerunt Apostolis CAO 1454
-Ag Spiritus qui a Patre AM 529
+A3 Spiritus qui a Patre AM 529
 M A Veni sancte Spiritus PR 332
-
 I A Alleluia, Spiritus Domini replevit RM 107
-OL H . Luxiucunda in tono SEQ Lauda Sion GR 379
-
-A unica; Emitte Spiritum tuum RM 15
+OL H Lux iucunda in tono SEQ Lauda Sion GR 379
+A unica: Emitte Spiritum tuum RM 115
 LM H Beata nobis gaudia AM 552
-
-Ai Factus est repente de caelo RM 108
-
+A1 Factus est repente de caelo RM 108
 A2 Fontes et omnia AM 521
-
 A3  Loquebantur variis linguis AM 521
 B A Accipite Spiritum Sanctum AM 523
-
-T H lam Christus in tono H Te lucis AM 520
+T H Iam Christus in tono H Te lucis AM 520
 A Spiritus Sanctus procedens CAO 5007
-
 S H Venite servi in tono H. Te lucis AM 520
 A Repleti sunt omnes AM 521
-
 N H Haec hora in tono H Te lucis AM 520
 A Caritas Dei diffusa est AM 591
-
-2V Ar Spiritus Domini replevit AM 520
-
-A2 Confirma hoc Deus RM i12
+2V A1 Spiritus Domini replevit AM 520
+A2 Confirma hoc Deus RM 112
 M A Hodie completi sunt AM 525
-398 [42] PROPRIUM DE TEMPORE
 
 TEMPUS PER ANNUM
 
-ANTIPHONAE AD CANTICA EVANGELICA
-IN DOMINICIS PER ANNUM
+ANTIPHONAE AD CANTICA EVANGELICA IN DOMINICIS PER ANNUM
 
-iV M... A sicut B, vel A quae infra indicantur
+1V M A sicut B, vel A quae infra indicantur
 
-60. D 2» — D2PA
+60. D 2a — D2PA
 
-IV M. A Exspectetur sicut pluvia AM 218
-LM B Aa Qui post me venit. AM 202
+1V M A Exspectetur sicut pluvia AM 218
+LM B Aa Qui post me venit AM 202
 Ab Loquere, Domine, quia audit AM 534
 Ac  Nuptiae factae sunt AM 306
-2V M Aa Ecce Agnus Dei, ecce qui tollit peccata mundi,
-alleluia. CAO 2490
+2V M Aa Ecce Agnus Dei, ecce qui tollit peccata mundi, alleluia. CAO 2490
 Ab Unus ex duobus AM 754
 Ac  Deficiente vino AM 306
 
-61. D 3* — D3PA
+61. D 3a — D3PA
 
-iV M... A Habebitis autem AM 953
+1V M A Habebitis autem AM 953
 LM B Aa.b Dicit Dominus: Paenitentiam AM 229
 Ac Spiritus Domini super me AM 215
-2V M  Aa.b Venite post me, dicit Dominus. Faciam vos
-fieri piscatores hominum. CAO 5357
+2V M  Aa.b Venite post me, dicit Dominus. Faciam vos fieri piscatores hominum. CAO 5357
 Ac Ecce dedi te in lucem AM 1089
 
-62. D 4* — D4PA
+62. D 4a — D4PA
 
 IV M. A Congregavit nos VM 24
-LM B Aa Cum vidisset Iesus turbas. CAO 2052
-Ab Propheta magnus AM $380
-Ac  Mirabantur omnes de his quae procedebant
-de ore Dei. CAO 3761:
-2V M Aa .Bcaü eritis AM ri21
-Ab  Mirabantur omnes de his quae procedebant
-de ore Dei. CAO 3761
-Ac Amen... quia nemo propheta AM 366
+LM B Aa Cum vidisset Iesus turbas CAO 2052
+Ab Propheta magnus AM 380
+Ac  Mirabantur omnes de his quae procedebant de ore Dei. CAO 3761:
+2V M Aa Beati eritis AM 1121
+Ab  Mirabantur omnes de his quae procedebant de ore Dei. CAO 3761
+Ac Amen ... quia nemo propheta AM 366
 
-63. D 5* — D5PA
-iV M. A Deus caritas est VM 17
+63. D 5a — D5PA
+1V M A Deus caritas est VM 17
 LM B Aa Vos estis lux mundi AV (197)
 Ab Omnes qui habebant infirmos AM 369
 Ac Ascendens Iesus in navim AM 593
-IN DOMINICIS PER ANNUM [43] 399
-
-2V M Aa .Erumpet quasi mane lumen et anteibit fa-
-ciem tuam iustitia tua et gloria Domini
-colliget te. *
+2V M Aa Erumpet quasi mane lumen et anteibit faciem tuam iustitia tua et gloria Domini colliget te. *
 Ab  Exibant autem AM 368
 Ac Praeceptor, per totam noctem AM 593
 
-64. D 6* — D6PA
+64. D 6a — D6PA
 
-IV M A Sapientia clamitat AM 581
+1V M A Sapientia clamitat AM 581
 LM B Aa Audistis quia dictum est AM 594
 Ab Cum autem descendisset Iesus. AM 307
-Ac — Cum vidisset Iesus turbas ascendit in montem;
-et, cum sedisset, aperiens os suum docebat
-€os dicens: «Beati pauperes spiritu, quoniam
-ipsorum est regnum caelorum». CAO 2052
+Ac Cum vidisset Iesus turbas ascendit in montem; et, cum sedisset, aperiens os suum docebat €os dicens: «Beati pauperes spiritu, quoniam ipsorum est regnum caelorum». CAO 2052
 2V M Aa Si offers munus tuum AM 594
 Ab Domine, si tu vis AM 307
 Ac Beati eritis AM i121
 
-65. D 7* — DjPA
+65. D 7a — D7PA
 
 IV M. A Sapientia ... excidit AM 580
-
 LM B Aa In hoc cognoscent omnes GR 166
 Ab Dixit Iesus: Ut sciatis AM 530
 Ac Estote ergo misericordes AM 538
-
 2V M Aa Estote ergo misericordes AM 538
 Ab Tulit ergo paralyticus AM 610
 Ac Nolite iudicare AM 542
 
-66. D 8* — D8PA
+66. D 8a — D8PA
 
-IV M A Cum audisset Iob. AM 582
+1V M A Cum audisset Iob AM 582
 LM B Aa Nolite solliciti ese AM 605
-Ab Ego Dominus sponsabo te mihi in sempiter-
-num; et sponsabo te mihi in iustitia et
-iudicio et in miserationibus, et sponsabo te
-mihi in fide.*
-vel: Amen, amen dico vobis quia plorabitis
-AM 489
-Ac Attendite a falsis prophetis. AM 596
+Ab Ego Dominus sponsabo te mihi in sempiternum; et sponsabo te mihi in iustitia et iudicio et in miserationibus, et sponsabo te mihi in fide.*
+vel: Amen, amen dico vobis quia plorabitis AM 489
+Ac Attendite a falsis prophetis AM 596
 2V M Aa Quaerite primum regnum Dei AM 605
-Ab Confitemini Domino et invocate nomen eius,
-notas facite in populis adinventiones eius *
+Ab Confitemini Domino et invocate nomen eius, notas facite in populis adinventiones eius *
 Ac Non potest arbor bona AM 597
-400 [44] PROPRIUM DE TEMPORE
 
-67. D 9» — DgPA
+67. D 9a — D9PA
 
-IV M... A In omnibus his non peccavit Iob AM. 583
-LM B Aa  Nonomnisqui dicit mihi: «Domine, Domine!»
-intrabit in regnum caelorum; sed qui facit
-voluntatem Patris mei qui in caelis est,
-ipse intrabit in regnum caelorum, alle-
-luia. CAO 3926
-Ab Amen .. si quis sermonem AM 391:
+1V M A In omnibus his non peccavit Iob AM 583
+LM B Aa  Nonomnisqui dicit mihi: «Domine, Domine!» intrabit in regnum caelorum; sed qui facit voluntatem Patris mei qui in caelis est, ipse intrabit in regnum caelorum, alleluia. CAO 3926
+Ab Amen .. si quis sermonem AM 391
 Ac Domine, puer meus iacet AM 333
 2V M Aa Similabo eum AM 669
 Ab Cum intraret Iesus AM 607
 Ac Domine, non sum dignus AM 334
 
-68. D 10* — DioPA
+68. D 10a — D10PA
 
-iV M. A Nomen eorum permanet AV 547
-
-LM B Aa Qui sequitur me AM 381:
+1V M A Nomen eorum permanet AV 547
+LM B Aa Qui sequitur me AM 381
 Ab Ait Dominus Deus ad serpentem AM 765
-Ac Ibat lesus. AM 379
-
+Ac Ibat lesus AM 379
 2V M Aa Apud Dominum misericordia AM 246
-Ab Si in digito Dei. AM 363
+Ab Si in digito Dei AM 363
 Ac Propheta magnus AM 380
 
-69. D 11^ — Di:PA
+69. D 11a — D11PA
 
-iV M... A Cognoverunt omnes AM 571
-LM B Aa  Rogate Dominum messis, ut mittat operarios
-in messem suam *
+1V M A Cognoverunt omnes AM 571
+LM B Aa  Rogate Dominum messis, ut mittat operarios in messem suam *
 Ab Simile est regnum caelorum grano AM 310
-Ac Mulier quae erat in civitate AM 3ro
-oV M Aa Convocatis Iesus duodecim apostolis, misit eos
-praedicare regnum Dei et sanare infirmos,
-alleluia. CAO 1926
+Ac Mulier quae erat in civitate AM 310
+2V M Aa Convocatis Iesus duodecim apostolis, misit eos praedicare regnum Dei et sanare infirmos, alleluia. CAO 1926
 Ab Simile est regnum caelorum fermento AM 310
-Ac In diebus illis mulier. AM 975
+Ac In diebus illis mulier AM 975
 
 70. D 12* — Di2PA
 
